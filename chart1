@@ -1,0 +1,21 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {"url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/fig2.csv"},
+  "height":300,
+  "width": 600,
+  "mark": {
+    "type": "line",
+    "point": true
+  },
+  "encoding": {
+    "x": {"field": "date2", "type":"temporal", "title":"Date"},
+    "y": {"aggregate":"mean", "field": "value", "type": "quantitative", "title":"Cumlative change in employment"},
+    "color": {
+      "field": "name", 
+      "type": "nominal", 
+      "title": "Employment Type",
+      "scale": {"scheme": "viridis"}
+    }
+  }
+}
