@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "description": "Stock prices of 5 Tech Companies over Time.",
+  "description": "Employment by type, cumulative % change",
   "data": {"url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/chart1.csv"},
   "height":300,
   "width": 600,
@@ -19,4 +19,5 @@
     }
   }
 }
+
 
