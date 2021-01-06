@@ -1,0 +1,11 @@
+Labels for chart,,Major,Minor,Not barrier
+Inadequate telecoms infrastructure,barrier_IT,10%,22%,68%
+Resistance to change- managers,barrier_resistance_mgt,7%,31%,62%
+Lack of information,barrier_information,6%,43%,51%
+Uncertainty in technology market,barrier_uncert_tech_mkt,11%,39%,50%
+Resistance to change- employees,barrier_resistance_emp,12%,42%,46%
+Applicability doubts,barrier_doubts,16%,46%,38%
+Reorganisation costs,barrier_reorg,18%,45%,37%
+Lack of skills,barrier_mgt_workf,17%,46%,37%
+Financing constraints,barrier_finance,29%,35%,35%
+"Macro uncertainty (Covid-19, Brexit)",barrier_uncert_macro,39%,34%,27%
