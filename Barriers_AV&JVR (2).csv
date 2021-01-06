@@ -1,0 +1,31 @@
+Barrier,,Level of concern,%
+Inadequate telecoms infrastructure,barrier_IT,Major,10
+Resistance to change- managers,barrier_resistance_mgt,Major,7
+Lack of information,barrier_information,Major,6
+Uncertainty in technology market,barrier_uncert_tech_mkt,Major,11
+Resistance to change- employees,barrier_resistance_emp,Major,12
+Applicability doubts,barrier_doubts,Major,16
+Reorganisation costs,barrier_reorg,Major,18
+Lack of skills,barrier_mgt_workf,Major,17
+Financing constraints,barrier_finance,Major,29
+"Macro uncertainty (Covid-19, Brexit)",barrier_uncert_macro,Major,39
+Inadequate telecoms infrastructure,barrier_IT,Minor,22
+Resistance to change- managers,barrier_resistance_mgt,Minor,31
+Lack of information,barrier_information,Minor,43
+Uncertainty in technology market,barrier_uncert_tech_mkt,Minor,39
+Resistance to change- employees,barrier_resistance_emp,Minor,42
+Applicability doubts,barrier_doubts,Minor,46
+Reorganisation costs,barrier_reorg,Minor,45
+Lack of skills,barrier_mgt_workf,Minor,46
+Financing constraints,barrier_finance,Minor,35
+"Macro uncertainty (Covid-19, Brexit)",barrier_uncert_macro,Minor,34
+Inadequate telecoms infrastructure,barrier_IT,Not barrier,68
+Resistance to change- managers,barrier_resistance_mgt,Not barrier,62
+Lack of information,barrier_information,Not barrier,51
+Uncertainty in technology market,barrier_uncert_tech_mkt,Not barrier,50
+Resistance to change- employees,barrier_resistance_emp,Not barrier,46
+Applicability doubts,barrier_doubts,Not barrier,38
+Reorganisation costs,barrier_reorg,Not barrier,37
+Lack of skills,barrier_mgt_workf,Not barrier,37
+Financing constraints,barrier_finance,Not barrier,35
+"Macro uncertainty (Covid-19, Brexit)",barrier_uncert_macro,Not barrier,27
