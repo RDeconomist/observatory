@@ -1,0 +1,15 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Weekly attendance in state-funded schools by region, 10 September 2020 to 10 December 2020",
+  "data": {"url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/School%20Attendance%20(2).csv"},
+  "height":600,
+  "width": 600,
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal"},
+    "y": {"field": "Attendance %", "type": "quantitative", "scale": {"domain": [70, 100]}},
+    "color": {"field": "Area Name", "type": "nominal", "scale": {"scheme": "dark2"}, 
+    "tooltip": [{"field":"Date", "type": "temporal"}, {"field": "Attendance %", "type": "quantitative"}]}
+
+  }
+}

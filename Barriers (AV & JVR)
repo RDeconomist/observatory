@@ -1,0 +1,10 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/Barriers_AV%26JVR%20(2).csv"},
+  "mark": "bar",
+  "encoding": {
+    "x": {"aggregate": "%", "field": "%", "type": "quantitative"},
+    "y": {"field": "Barrier"},
+    "color": {"field": "Level of concern", "type": "nominal", "scale": {"scheme": "tealblues"}} 
+  }
+}
