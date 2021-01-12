@@ -1,0 +1,42 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+
+<!-- ////////////////////////////// START HEAD //////////////////////////////-->
+<head>
+<!--Meta stuff-->
+<meta charset="utf-8">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--Code to allow Vega embed-->
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+</head>
+<!-- ////////////////////////////// END HEAD //////////////////////////////-->
+<style>
+    .dataviz {
+        width: 85vw;
+        height: 85vh;
+    }
+</style>
+<!-- ////////////////////////////// START BODY //////////////////////////////-->
+<body>
+
+<!--Chart vis_hh_wealth - Start-->
+<h2>UK household wealth tripled in 20 years</h2>
+<h3>Figure 1: Total UK household wealth measure, 1950-2018</h3>
+<div class="dataviz" id="vis_hh_wealth"></div>
+<!--Chart vis_hh_wealth - End-->
+
+<!--Chart vis_pension_wealth - Start-->
+<h3>Figure 2: Evolution of pension wealth with and without constant interest rates 2017 price</h3>
+<div class="dataviz" id="vis_pension_wealth"></div>
+<!--Chart vis_pension_wealth - End-->
+
+<script src="uk_hh_wealth.js"></script>
+<script src="uk_pension_wealth.js"></script>
+</body>
+</html>
