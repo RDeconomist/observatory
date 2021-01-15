@@ -1,0 +1,109 @@
+Date,Area Type,Area Name,Attendance %
+2020-09-10,Region,East Midlands,88.8
+2020-09-17,Region,East Midlands,87.56
+2020-09-24,Region,East Midlands,89.83
+2020-10-01,Region,East Midlands,88.96
+2020-10-08,Region,East Midlands,91.38
+2020-10-15,Region,East Midlands,89.35
+2020-11-05,Region,East Midlands,88.95
+2020-11-12,Region,East Midlands,85.22
+2020-11-19,Region,East Midlands,82.15
+2020-11-26,Region,East Midlands,84.11
+2020-12-03,Region,East Midlands,86.9
+2020-12-10,Region,East Midlands,87.05
+2020-09-10,Region,East of England,88.43
+2020-09-17,Region,East of England,88.72
+2020-09-24,Region,East of England,90.29
+2020-10-01,Region,East of England,91.96
+2020-10-08,Region,East of England,92.38
+2020-10-15,Region,East of England,91.77
+2020-11-05,Region,East of England,91.77
+2020-11-12,Region,East of England,89.87
+2020-11-19,Region,East of England,87.07
+2020-11-26,Region,East of England,85.4
+2020-12-03,Region,East of England,87.36
+2020-12-10,Region,East of England,83.88
+2020-09-10,Region,London,85.27
+2020-09-17,Region,London,86.03
+2020-09-24,Region,London,86.5
+2020-10-01,Region,London,89.01
+2020-10-08,Region,London,89.67
+2020-10-15,Region,London,89.98
+2020-11-05,Region,London,90.31
+2020-11-12,Region,London,88.63
+2020-11-19,Region,London,84.91
+2020-11-26,Region,London,83.44
+2020-12-03,Region,London,83.16
+2020-12-10,Region,London,79.88
+2020-09-10,Region,North East,88.74
+2020-09-17,Region,North East,86.86
+2020-09-24,Region,North East,87.37
+2020-10-01,Region,North East,87.93
+2020-10-08,Region,North East,85.55
+2020-10-15,Region,North East,86.4
+2020-11-05,Region,North East,87.69
+2020-11-12,Region,North East,83.17
+2020-11-19,Region,North East,79.76
+2020-11-26,Region,North East,83.43
+2020-12-03,Region,North East,86.39
+2020-12-10,Region,North East,86.63
+2020-09-10,Region,North West,88.48
+2020-09-17,Region,North West,84.84
+2020-09-24,Region,North West,83.58
+2020-10-01,Region,North West,85.07
+2020-10-08,Region,North West,84.95
+2020-10-15,Region,North West,84.17
+2020-11-05,Region,North West,86.81
+2020-11-12,Region,North West,84.55
+2020-11-19,Region,North West,82.9
+2020-11-26,Region,North West,84.59
+2020-12-03,Region,North West,87.05
+2020-12-10,Region,North West,87.56
+2020-09-10,Region,South East,89.24
+2020-09-17,Region,South East,88.68
+2020-09-24,Region,South East,90.55
+2020-10-01,Region,South East,92.35
+2020-10-08,Region,South East,92.45
+2020-10-15,Region,South East,92.28
+2020-11-05,Region,South East,91.82
+2020-11-12,Region,South East,89.46
+2020-11-19,Region,South East,84.8
+2020-11-26,Region,South East,83.66
+2020-12-03,Region,South East,84.76
+2020-12-10,Region,South East,81.79
+2020-09-10,Region,South West,90.2
+2020-09-17,Region,South West,88.63
+2020-09-24,Region,South West,90.45
+2020-10-01,Region,South West,92.6
+2020-10-08,Region,South West,92.9
+2020-10-15,Region,South West,92.39
+2020-11-05,Region,South West,91.44
+2020-11-12,Region,South West,89.37
+2020-11-19,Region,South West,85.69
+2020-11-26,Region,South West,86.94
+2020-12-03,Region,South West,88.56
+2020-12-10,Region,South West,88.97
+2020-09-10,Region,West Midlands,87.56
+2020-09-17,Region,West Midlands,84.62
+2020-09-24,Region,West Midlands,86
+2020-10-01,Region,West Midlands,88.65
+2020-10-08,Region,West Midlands,89.49
+2020-10-15,Region,West Midlands,88.84
+2020-11-05,Region,West Midlands,87.37
+2020-11-12,Region,West Midlands,82.62
+2020-11-19,Region,West Midlands,76.74
+2020-11-26,Region,West Midlands,78.8
+2020-12-03,Region,West Midlands,83.06
+2020-12-10,Region,West Midlands,84.32
+2020-09-10,Region,Yorkshire and The Humber,85.26
+2020-09-17,Region,Yorkshire and The Humber,87.49
+2020-09-24,Region,Yorkshire and The Humber,85.97
+2020-10-01,Region,Yorkshire and The Humber,87.63
+2020-10-08,Region,Yorkshire and The Humber,87.44
+2020-10-15,Region,Yorkshire and The Humber,85.93
+2020-11-05,Region,Yorkshire and The Humber,86.05
+2020-11-12,Region,Yorkshire and The Humber,81.42
+2020-11-19,Region,Yorkshire and The Humber,78.8
+2020-11-26,Region,Yorkshire and The Humber,81.35
+2020-12-03,Region,Yorkshire and The Humber,84.83
+2020-12-10,Region,Yorkshire and The Humber,85.81
