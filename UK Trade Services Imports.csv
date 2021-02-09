@@ -1,0 +1,96 @@
+Import,Quarter,Volume
+Manufacturing,2016-01-01,83
+Manufacturing,2016-04-01,83
+Manufacturing,2016-07-01,100
+Manufacturing,2016-10-01,104
+Manufacturing,2017-01-01,130
+Manufacturing,2017-04-01,107
+Manufacturing,2017-07-01,114
+Manufacturing,2017-10-01,185
+Manufacturing,2018-01-01,203
+Manufacturing,2018-04-01,162
+Manufacturing,2018-07-01,223
+Manufacturing,2018-10-01,445
+Manufacturing,2019-01-01,224
+Manufacturing,2019-04-01,230
+Manufacturing,2019-07-01,257
+Manufacturing,2019-10-01,242
+Manufacturing,2020-01-01,224
+Manufacturing,2020-04-01,216
+Manufacturing,2020-07-01,200
+Financial,2016-01-01,1091
+Financial,2016-04-01,1164
+Financial,2016-07-01,1200
+Financial,2016-10-01,1210
+Financial,2017-01-01,1011
+Financial,2017-04-01,1138
+Financial,2017-07-01,1254
+Financial,2017-10-01,1224
+Financial,2018-01-01,1165
+Financial,2018-04-01,1430
+Financial,2018-07-01,1327
+Financial,2018-10-01,1473
+Financial,2019-01-01,1612
+Financial,2019-04-01,1375
+Financial,2019-07-01,1646
+Financial,2019-10-01,1381
+Financial,2020-01-01,1428
+Financial,2020-04-01,1292
+Financial,2020-07-01,1132
+Professional and management consulting services,2016-01-01,1559
+Professional and management consulting services,2016-04-01,1469
+Professional and management consulting services,2016-07-01,1741
+Professional and management consulting services,2016-10-01,1806
+Professional and management consulting services,2017-01-01,1935
+Professional and management consulting services,2017-04-01,1907
+Professional and management consulting services,2017-07-01,1869
+Professional and management consulting services,2017-10-01,1926
+Professional and management consulting services,2018-01-01,2057
+Professional and management consulting services,2018-04-01,2487
+Professional and management consulting services,2018-07-01,2306
+Professional and management consulting services,2018-10-01,2777
+Professional and management consulting services,2019-01-01,2271
+Professional and management consulting services,2019-04-01,2596
+Professional and management consulting services,2019-07-01,2486
+Professional and management consulting services,2019-10-01,2858
+Professional and management consulting services,2020-01-01,2385
+Professional and management consulting services,2020-04-01,2309
+Professional and management consulting services,2020-07-01,2057
+"Personal, Cultural and Recreational",2016-01-01,108
+"Personal, Cultural and Recreational",2016-04-01,105
+"Personal, Cultural and Recreational",2016-07-01,127
+"Personal, Cultural and Recreational",2016-10-01,132
+"Personal, Cultural and Recreational",2017-01-01,112
+"Personal, Cultural and Recreational",2017-04-01,113
+"Personal, Cultural and Recreational",2017-07-01,119
+"Personal, Cultural and Recreational",2017-10-01,135
+"Personal, Cultural and Recreational",2018-01-01,118
+"Personal, Cultural and Recreational",2018-04-01,105
+"Personal, Cultural and Recreational",2018-07-01,130
+"Personal, Cultural and Recreational",2018-10-01,96
+"Personal, Cultural and Recreational",2019-01-01,122
+"Personal, Cultural and Recreational",2019-04-01,140
+"Personal, Cultural and Recreational",2019-07-01,175
+"Personal, Cultural and Recreational",2019-10-01,145
+"Personal, Cultural and Recreational",2020-01-01,101
+"Personal, Cultural and Recreational",2020-04-01,65
+"Personal, Cultural and Recreational",2020-07-01,78
+"Legal, accounting, management consulting and public relations",2016-01-01,1102
+"Legal, accounting, management consulting and public relations",2016-04-01,1019
+"Legal, accounting, management consulting and public relations",2016-07-01,1196
+"Legal, accounting, management consulting and public relations",2016-10-01,1234
+"Legal, accounting, management consulting and public relations",2017-01-01,1298
+"Legal, accounting, management consulting and public relations",2017-04-01,1303
+"Legal, accounting, management consulting and public relations",2017-07-01,1405
+"Legal, accounting, management consulting and public relations",2017-10-01,1469
+"Legal, accounting, management consulting and public relations",2018-01-01,1482
+"Legal, accounting, management consulting and public relations",2018-04-01,1702
+"Legal, accounting, management consulting and public relations",2018-07-01,1609
+"Legal, accounting, management consulting and public relations",2018-10-01,1958
+"Legal, accounting, management consulting and public relations",2019-01-01,1368
+"Legal, accounting, management consulting and public relations",2019-04-01,1501
+"Legal, accounting, management consulting and public relations",2019-07-01,1494
+"Legal, accounting, management consulting and public relations",2019-10-01,1672
+"Legal, accounting, management consulting and public relations",2020-01-01,1500
+"Legal, accounting, management consulting and public relations",2020-04-01,1604
+"Legal, accounting, management consulting and public relations",2020-07-01,1300
