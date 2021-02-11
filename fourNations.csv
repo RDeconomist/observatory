@@ -1,9 +1,9 @@
 Country,Value,Measure
-England,27949,GVA per head
-Scotland,25685,GVA per head
-Wales,19705,GVA per head
-Northern Ireland,21237,GVA per head
-England,75.57836233,Employment Rate
-Scotland,74.39875558,Employment Rate
-Wales,72.42569094,Employment Rate
-Northern Ireland,70.58474608,Employment Rate
+A. England,27949,GVA per head
+B. Scotland,25685,GVA per head
+C. Wales,19705,GVA per head
+D. N Ireland,21237,GVA per head
+A. England,75.57836233,Employment Rate
+B. Scotland,74.39875558,Employment Rate
+C. Wales,72.42569094,Employment Rate
+D. N Ireland,70.58474608,Employment Rate
