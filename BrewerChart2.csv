@@ -1,0 +1,17 @@
+Impact type,Poverty status,Percentage affected
+Some negative impact,More than 50% below poverty line,65
+Reduced hours/pay,More than 50% below poverty line,36
+Furloughed ,More than 50% below poverty line,25
+Lost job,More than 50% below poverty line,20
+Some negative impact,Less then 50% below poverty line,51
+Reduced hours/pay,Less then 50% below poverty line,31
+Furloughed ,Less then 50% below poverty line,23
+Lost job,Less then 50% below poverty line,12
+Some negative impact,Less then 20% above poverty line,44
+Reduced hours/pay,Less then 20% above poverty line,29
+Furloughed ,Less then 20% above poverty line,21
+Lost job,Less then 20% above poverty line,8
+Some negative impact,More than 20% above poverty line,35
+Reduced hours/pay,More than 20% above poverty line,22
+Furloughed ,More than 20% above poverty line,16
+Lost job,More than 20% above poverty line,7
