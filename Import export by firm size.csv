@@ -1,0 +1,13 @@
+Number of employees,Import or export,Number,Order
+0 to 9 employees,Exports,3.8,1
+10 to 49 employees,Exports,6.6,2
+50 to 250 employees,Exports,14.0,3
+250 to 1000 employees,Exports,24.5,4
+1000 or more employees,Exports,34.6,5
+All firms,Exports,8.0,6
+0 to 9 employees,Imports,3.3,1
+10 to 49 employees,Imports,6.1,2
+50 to 250 employees,Imports,15.8,3
+250 to 1000 employees,Imports,34.1,4
+1000 or more employees,Imports,40.1,5
+All firms,Imports,8.0,6
