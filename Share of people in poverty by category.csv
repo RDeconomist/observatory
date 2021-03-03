@@ -1,0 +1,5 @@
+Category,Percentage,Order
+More than 50% below the poverty line,65,1
+Less than 50% below the poverty line,51,2
+Less than 20% above the poverty line,44,3
+More than 20% above the poverty line,35,4
