@@ -1,0 +1,166 @@
+Date,Country,Cumulative Covid-19 cases
+2020-01-22,Sierra Leone,2
+2020-01-29,Sierra Leone,7
+2020-02-05,Sierra Leone,13
+2020-02-12,Sierra Leone,61
+2020-02-19,Sierra Leone,104
+2020-02-26,Sierra Leone,225
+2020-03-04,Sierra Leone,387
+2020-03-11,Sierra Leone,570
+2020-03-18,Sierra Leone,782
+2020-03-25,Sierra Leone,909
+2020-04-01,Sierra Leone,1062
+2020-04-08,Sierra Leone,1249
+2020-04-15,Sierra Leone,1354
+2020-04-22,Sierra Leone,1498
+2020-04-29,Sierra Leone,1584
+2020-05-06,Sierra Leone,1668
+2020-05-13,Sierra Leone,1731
+2020-05-20,Sierra Leone,1803
+2020-05-27,Sierra Leone,1860
+2020-06-03,Sierra Leone,1937
+2020-06-10,Sierra Leone,1961
+2020-06-17,Sierra Leone,2003
+2020-06-24,Sierra Leone,2029
+2020-07-01,Sierra Leone,2067
+2020-07-08,Sierra Leone,2133
+2020-07-15,Sierra Leone,2183
+2020-07-22,Sierra Leone,2231
+2020-07-29,Sierra Leone,2287
+2020-08-05,Sierra Leone,2315
+2020-08-12,Sierra Leone,2337
+2020-08-19,Sierra Leone,2354
+2020-08-26,Sierra Leone,2369
+2020-09-02,Sierra Leone,2386
+2020-09-09,Sierra Leone,2397
+2020-09-16,Sierra Leone,2408
+2020-09-23,Sierra Leone,2416
+2020-09-30,Sierra Leone,2434
+2020-10-07,Sierra Leone,2460
+2020-10-14,Sierra Leone,2524
+2020-10-21,Sierra Leone,2583
+2020-10-28,Sierra Leone,2739
+2020-11-04,Sierra Leone,2887
+2020-11-11,Sierra Leone,3030
+2020-11-18,Sierra Leone,3236
+2020-11-25,Sierra Leone,3699
+2020-12-02,Sierra Leone,null
+2020-12-09,Sierra Leone,null
+2020-12-16,Sierra Leone,null
+2020-12-23,Sierra Leone,null
+2020-12-30,Sierra Leone,null
+2021-01-06,Sierra Leone,null
+2021-01-13,Sierra Leone,null
+2021-01-20,Sierra Leone,null
+2021-01-27,Sierra Leone,null
+2021-02-03,Sierra Leone,null
+2020-01-22,Guinea,1
+2020-01-29,Guinea,4
+2020-02-05,Guinea,30
+2020-02-12,Guinea,164
+2020-02-19,Guinea,404
+2020-02-26,Guinea,761
+2020-03-04,Guinea,1351
+2020-03-11,Guinea,1856
+2020-03-18,Guinea,2374
+2020-03-25,Guinea,2863
+2020-04-01,Guinea,3275
+2020-04-08,Guinea,3933
+2020-04-15,Guinea,4258
+2020-04-22,Guinea,4668
+2020-04-29,Guinea,5174
+2020-05-06,Guinea,5404
+2020-05-13,Guinea,5697
+2020-05-20,Guinea,6276
+2020-05-27,Guinea,6747
+2020-06-03,Guinea,7183
+2020-06-10,Guinea,7575
+2020-06-17,Guinea,8116
+2020-06-24,Guinea,8792
+2020-07-01,Guinea,9167
+2020-07-08,Guinea,9479
+2020-07-15,Guinea,9885
+2020-07-22,Guinea,10154
+2020-07-29,Guinea,10434
+2020-08-05,Guinea,10652
+2020-08-12,Guinea,10863
+2020-08-19,Guinea,11188
+2020-08-26,Guinea,11599
+2020-09-02,Guinea,11819
+2020-09-09,Guinea,12331
+2020-09-16,Guinea,12516
+2020-09-23,Guinea,12713
+2020-09-30,Guinea,12929
+2020-10-07,Guinea,13143
+2020-10-14,Guinea,13325
+2020-10-21,Guinea,13474
+2020-10-28,Guinea,13598
+2020-11-04,Guinea,13707
+2020-11-11,Guinea,13845
+2020-11-18,Guinea,14051
+2020-11-25,Guinea,14207
+2020-12-02,Guinea,14435
+2020-12-09,Guinea,14555
+2020-12-16,Guinea,null
+2020-12-23,Guinea,null
+2020-12-30,Guinea,null
+2021-01-06,Guinea,null
+2021-01-13,Guinea,null
+2021-01-20,Guinea,null
+2021-01-27,Guinea,null
+2021-02-03,Guinea,null
+2020-01-22,Liberia,2
+2020-01-29,Liberia,3
+2020-02-05,Liberia,6
+2020-02-12,Liberia,31
+2020-02-19,Liberia,59
+2020-02-26,Liberia,101
+2020-03-04,Liberia,141
+2020-03-11,Liberia,178
+2020-03-18,Liberia,213
+2020-03-25,Liberia,238
+2020-04-01,Liberia,266
+2020-04-08,Liberia,316
+2020-04-15,Liberia,397
+2020-04-22,Liberia,516
+2020-04-29,Liberia,662
+2020-05-06,Liberia,804
+2020-05-13,Liberia,926
+2020-05-20,Liberia,1056
+2020-05-27,Liberia,1114
+2020-06-03,Liberia,1179
+2020-06-10,Liberia,1221
+2020-06-17,Liberia,1252
+2020-06-24,Liberia,1282
+2020-07-01,Liberia,1298
+2020-07-08,Liberia,1305
+2020-07-15,Liberia,1313
+2020-07-22,Liberia,1332
+2020-07-29,Liberia,1337
+2020-08-05,Liberia,1343
+2020-08-12,Liberia,1355
+2020-08-19,Liberia,1372
+2020-08-26,Liberia,1385
+2020-09-02,Liberia,1419
+2020-09-09,Liberia,1438
+2020-09-16,Liberia,1461
+2020-09-23,Liberia,1528
+2020-09-30,Liberia,1578
+2020-10-07,Liberia,1595
+2020-10-14,Liberia,1676
+2020-10-21,Liberia,1773
+2020-10-28,Liberia,1779
+2020-11-04,Liberia,1779
+2020-11-11,Liberia,1779
+2020-11-18,Liberia,1877
+2020-11-25,Liberia,1901
+2020-12-02,Liberia,1936
+2020-12-09,Liberia,1945
+2020-12-16,Liberia,null
+2020-12-23,Liberia,null
+2020-12-30,Liberia,null
+2021-01-06,Liberia,null
+2021-01-13,Liberia,null
+2021-01-20,Liberia,null
+2021-01-27,Liberia,null
+2021-02-03,Liberia,null
