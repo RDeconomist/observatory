@@ -1,0 +1,133 @@
+Year,Illness type,% of total absence days
+2009,Minor illnesses,29
+2010,Minor illnesses,25.10000038
+2011,Minor illnesses,21.20000076
+2012,Minor illnesses,19.29999924
+2013,Minor illnesses,20.89999962
+2014,Minor illnesses,17.89999962
+2015,Minor illnesses,22.39999962
+2016,Minor illnesses,24.70000076
+2017,Minor illnesses,26.10000038
+2018,Minor illnesses,27.20000076
+2019,Minor illnesses,22.89999962
+2020,Minor illnesses,22
+2009,Musculoskeletal problems,26.70000076
+2010,Musculoskeletal problems,28.39999962
+2011,Musculoskeletal problems,26.79999924
+2012,Musculoskeletal problems,25.10000038
+2013,Musculoskeletal problems,23.20000076
+2014,Musculoskeletal problems,26.60000038
+2015,Musculoskeletal problems,23.60000038
+2016,Musculoskeletal problems,22.39999962
+2017,Musculoskeletal problems,21.5
+2018,Musculoskeletal problems,19.70000076
+2019,Musculoskeletal problems,20.60000038
+2020,Musculoskeletal problems,17.5
+2009,Other,13.5
+2010,Other,11.30000019
+2011,Other,14
+2012,Other,16.10000038
+2013,Other,16.60000038
+2014,Other,17.79999924
+2015,Other,15.30000019
+2016,Other,15.30000019
+2017,Other,15.39999962
+2018,Other,13.69999981
+2019,Other,14.5
+2020,Other,19.79999924
+2009,Mental health conditions,9
+2010,Mental health conditions,9.300000191
+2011,Mental health conditions,10.80000019
+2012,Mental health conditions,11.80000019
+2013,Mental health conditions,12.19999981
+2014,Mental health conditions,11
+2015,Mental health conditions,12.69999981
+2016,Mental health conditions,11.5
+2017,Mental health conditions,11.39999962
+2018,Mental health conditions,12.39999962
+2019,Mental health conditions,14.5
+2020,Mental health conditions,13.39999962
+2009,Gastrointestinal problems,5
+2010,Gastrointestinal problems,7.800000191
+2011,Gastrointestinal problems,7.900000095
+2012,Gastrointestinal problems,6.599999905
+2013,Gastrointestinal problems,6.599999905
+2014,Gastrointestinal problems,6.400000095
+2015,Gastrointestinal problems,6.599999905
+2016,Gastrointestinal problems,6.5
+2017,Gastrointestinal problems,6.300000191
+2018,Gastrointestinal problems,6.099999905
+2019,Gastrointestinal problems,6.300000191
+2020,Gastrointestinal problems,5.400000095
+2009,Respiratory problems,4.5
+2010,Respiratory problems,5.900000095
+2011,Respiratory problems,4.099999905
+2012,Respiratory problems,3.299999952
+2013,Respiratory problems,4.400000095
+2014,Respiratory problems,5
+2015,Respiratory problems,3.900000095
+2016,Respiratory problems,3.900000095
+2017,Respiratory problems,2.799999952
+2018,Respiratory problems,2.799999952
+2019,Respiratory problems,4
+2020,Respiratory problems,5.300000191
+2009,Eyes/ears/nose/mouth/dental,2.900000095
+2010,Eyes/ears/nose/mouth/dental,1.899999976
+2011,Eyes/ears/nose/mouth/dental,2.799999952
+2012,Eyes/ears/nose/mouth/dental,3
+2013,Eyes/ears/nose/mouth/dental,3.900000095
+2014,Eyes/ears/nose/mouth/dental,3.400000095
+2015,Eyes/ears/nose/mouth/dental,3.200000048
+2016,Eyes/ears/nose/mouth/dental,3.599999905
+2017,Eyes/ears/nose/mouth/dental,4.199999809
+2018,Eyes/ears/nose/mouth/dental,3.700000048
+2019,Eyes/ears/nose/mouth/dental,3.599999905
+2020,Eyes/ears/nose/mouth/dental,2.900000095
+2009,Genito-urinary problems,1.5
+2010,Genito-urinary problems,2.599999905
+2011,Genito-urinary problems,3.700000048
+2012,Genito-urinary problems,3.099999905
+2013,Genito-urinary problems,2.400000095
+2014,Genito-urinary problems,2.400000095
+2015,Genito-urinary problems,2.799999952
+2016,Genito-urinary problems,3.099999905
+2017,Genito-urinary problems,2.200000048
+2018,Genito-urinary problems,2.900000095
+2019,Genito-urinary problems,2.599999905
+2020,Genito-urinary problems,1.799999952
+2009,"Heart, blood pressure, circulation",1.899999976
+2010,"Heart, blood pressure, circulation",2.200000048
+2011,"Heart, blood pressure, circulation",3.299999952
+2012,"Heart, blood pressure, circulation",4.300000191
+2013,"Heart, blood pressure, circulation",3.799999952
+2014,"Heart, blood pressure, circulation",4.099999905
+2015,"Heart, blood pressure, circulation",2.700000048
+2016,"Heart, blood pressure, circulation",2.299999952
+2017,"Heart, blood pressure, circulation",2.5
+2018,"Heart, blood pressure, circulation",3.400000095
+2019,"Heart, blood pressure, circulation",4.099999905
+2020,"Heart, blood pressure, circulation",3
+2009,Headaches and migraines,2.900000095
+2010,Headaches and migraines,2.5
+2011,Headaches and migraines,1.200000048
+2012,Headaches and migraines,1.100000024
+2013,Headaches and migraines,1.399999976
+2014,Headaches and migraines,1.299999952
+2015,Headaches and migraines,2
+2016,Headaches and migraines,2.099999905
+2017,Headaches and migraines,1.700000048
+2018,Headaches and migraines,3.299999952
+2019,Headaches and migraines,2.099999905
+2020,Headaches and migraines,3
+2009,Prefers not to give details,2.900000095
+2010,Prefers not to give details,3.099999905
+2011,Prefers not to give details,4.300000191
+2012,Prefers not to give details,6.400000095
+2013,Prefers not to give details,4.5
+2014,Prefers not to give details,4.099999905
+2015,Prefers not to give details,4.800000191
+2016,Prefers not to give details,4.699999809
+2017,Prefers not to give details,5.800000191
+2018,Prefers not to give details,4.900000095
+2019,Prefers not to give details,4.800000191
+2020,Prefers not to give details,5.900000095
