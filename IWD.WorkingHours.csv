@@ -1,0 +1,22 @@
+Person,Month,Percentage
+Lone mother,2020-02-01,76.1
+Lone mother,2020-04-01,49.1
+Lone mother,2020-05-01,46.9
+Lone mother,2020-06-01,47.4
+Lone mother,2020-07-01,56.5
+Lone mother,2020-09-01,65
+Lone mother,2020-11-01,60.8
+Father (couple),2020-02-01,76.1
+Father (couple),2020-04-01,49.1
+Father (couple),2020-05-01,46.9
+Father (couple),2020-06-01,47.4
+Father (couple),2020-07-01,56.5
+Father (couple),2020-09-01,65
+Father (couple),2020-11-01,60.8
+Mother (couple),2020-02-01,82.3
+Mother (couple),2020-04-01,55.1
+Mother (couple),2020-05-01,59.8
+Mother (couple),2020-06-01,61.9
+Mother (couple),2020-07-01,60.3
+Mother (couple),2020-09-01,74.1
+Mother (couple),2020-11-01,68.7
