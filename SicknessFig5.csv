@@ -1,0 +1,235 @@
+Year,Occupation,Sickness absence rate (%)
+1995,Managers and senior,2
+1996,Managers and senior,1.899999976
+1997,Managers and senior,1.899999976
+1998,Managers and senior,1.899999976
+1999,Managers and senior,2.099999905
+2000,Managers and senior,1.899999976
+2001,Managers and senior,1.600000024
+2002,Managers and senior,1.899999976
+2003,Managers and senior,1.700000048
+2004,Managers and senior,1.600000024
+2005,Managers and senior,1.600000024
+2006,Managers and senior,1.5
+2007,Managers and senior,1.5
+2008,Managers and senior,1.600000024
+2009,Managers and senior,1.600000024
+2010,Managers and senior,1.299999952
+2011,Managers and senior,1.200000048
+2012,Managers and senior,1.209247112
+2013,Managers and senior,1.299999952
+2014,Managers and senior,1
+2015,Managers and senior,1.299999952
+2016,Managers and senior,1.100000024
+2017,Managers and senior,0.899999976
+2018,Managers and senior,1.299999952
+2019,Managers and senior,1.299999952
+2020,Managers and senior,1.100000024
+1995,Professionals ,2.5
+1996,Professionals ,2.299999952
+1997,Professionals ,2.5
+1998,Professionals ,2.400000095
+1999,Professionals ,2.200000048
+2000,Professionals ,2.200000048
+2001,Professionals ,2.099999905
+2002,Professionals ,2.200000048
+2003,Professionals ,2
+2004,Professionals ,1.899999976
+2005,Professionals ,2.200000048
+2006,Professionals ,1.899999976
+2007,Professionals ,1.799999952
+2008,Professionals ,1.799999952
+2009,Professionals ,1.799999952
+2010,Professionals ,1.799999952
+2011,Professionals ,1.799999952
+2012,Professionals ,1.814755797
+2013,Professionals ,1.799999952
+2014,Professionals ,1.799999952
+2015,Professionals ,1.799999952
+2016,Professionals ,1.700000048
+2017,Professionals ,1.700000048
+2018,Professionals ,1.799999952
+2019,Professionals ,1.799999952
+2020,Professionals ,1.600000024
+1995,Associate professionals ,3
+1996,Associate professionals ,2.900000095
+1997,Associate professionals ,3.099999905
+1998,Associate professionals ,2.799999952
+1999,Associate professionals ,2.900000095
+2000,Associate professionals ,2.799999952
+2001,Associate professionals ,2.700000048
+2002,Associate professionals ,2.599999905
+2003,Associate professionals ,2.900000095
+2004,Associate professionals ,2.400000095
+2005,Associate professionals ,2.400000095
+2006,Associate professionals ,2.599999905
+2007,Associate professionals ,2.5
+2008,Associate professionals ,2.299999952
+2009,Associate professionals ,2.5
+2010,Associate professionals ,2.299999952
+2011,Associate professionals ,1.799999952
+2012,Associate professionals ,1.930849314
+2013,Associate professionals ,1.799999952
+2014,Associate professionals ,1.700000048
+2015,Associate professionals ,1.799999952
+2016,Associate professionals ,1.899999976
+2017,Associate professionals ,1.600000024
+2018,Associate professionals ,1.899999976
+2019,Associate professionals ,1.600000024
+2020,Associate professionals ,1.5
+1995,Admin and secretarial,3.299999952
+1996,Admin and secretarial,3.299999952
+1997,Admin and secretarial,3.299999952
+1998,Admin and secretarial,3.299999952
+1999,Admin and secretarial,3.400000095
+2000,Admin and secretarial,3.299999952
+2001,Admin and secretarial,2.700000048
+2002,Admin and secretarial,3.099999905
+2003,Admin and secretarial,3.299999952
+2004,Admin and secretarial,3.099999905
+2005,Admin and secretarial,2.799999952
+2006,Admin and secretarial,2.599999905
+2007,Admin and secretarial,2.900000095
+2008,Admin and secretarial,2.799999952
+2009,Admin and secretarial,2.799999952
+2010,Admin and secretarial,2.400000095
+2011,Admin and secretarial,2.200000048
+2012,Admin and secretarial,2.159980774
+2013,Admin and secretarial,2.200000048
+2014,Admin and secretarial,2.099999905
+2015,Admin and secretarial,2
+2016,Admin and secretarial,2.099999905
+2017,Admin and secretarial,2
+2018,Admin and secretarial,2
+2019,Admin and secretarial,1.899999976
+2020,Admin and secretarial,1.299999952
+1995,Skilled trade,3.099999905
+1996,Skilled trade,3.099999905
+1997,Skilled trade,3
+1998,Skilled trade,2.700000048
+1999,Skilled trade,3
+2000,Skilled trade,2.799999952
+2001,Skilled trade,2.599999905
+2002,Skilled trade,2.5
+2003,Skilled trade,2.900000095
+2004,Skilled trade,2.5
+2005,Skilled trade,2.599999905
+2006,Skilled trade,2.400000095
+2007,Skilled trade,2.5
+2008,Skilled trade,2.200000048
+2009,Skilled trade,1.899999976
+2010,Skilled trade,2.099999905
+2011,Skilled trade,2
+2012,Skilled trade,1.977241516
+2013,Skilled trade,1.700000048
+2014,Skilled trade,1.899999976
+2015,Skilled trade,1.799999952
+2016,Skilled trade,1.899999976
+2017,Skilled trade,1.799999952
+2018,Skilled trade,1.700000048
+2019,Skilled trade,1.799999952
+2020,Skilled trade,2.099999905
+1995,Service,4
+1996,Service,3.700000048
+1997,Service,3.799999952
+1998,Service,3.599999905
+1999,Service,3.799999952
+2000,Service,3.799999952
+2001,Service,4.099999905
+2002,Service,4.199999809
+2003,Service,3.900000095
+2004,Service,4.199999809
+2005,Service,3.400000095
+2006,Service,3.400000095
+2007,Service,3.900000095
+2008,Service,3.700000048
+2009,Service,3.599999905
+2010,Service,3.5
+2011,Service,3.099999905
+2012,Service,3.357276917
+2013,Service,3.200000048
+2014,Service,3.099999905
+2015,Service,2.900000095
+2016,Service,2.700000048
+2017,Service,2.799999952
+2018,Service,2.900000095
+2019,Service,2.900000095
+2020,Service,3.299999952
+1995,Sales and customer service,2.900000095
+1996,Sales and customer service,2.299999952
+1997,Sales and customer service,3
+1998,Sales and customer service,2.799999952
+1999,Sales and customer service,2.799999952
+2000,Sales and customer service,2.599999905
+2001,Sales and customer service,3.099999905
+2002,Sales and customer service,3
+2003,Sales and customer service,3.099999905
+2004,Sales and customer service,3.299999952
+2005,Sales and customer service,2.799999952
+2006,Sales and customer service,2.900000095
+2007,Sales and customer service,3
+2008,Sales and customer service,2.799999952
+2009,Sales and customer service,2.900000095
+2010,Sales and customer service,2.700000048
+2011,Sales and customer service,2.599999905
+2012,Sales and customer service,2.429056644
+2013,Sales and customer service,2.099999905
+2014,Sales and customer service,2.200000048
+2015,Sales and customer service,2.5
+2016,Sales and customer service,2.299999952
+2017,Sales and customer service,2.200000048
+2018,Sales and customer service,2.599999905
+2019,Sales and customer service,2.799999952
+2020,Sales and customer service,2.5
+1995,Operatives,4.199999809
+1996,Operatives,4
+1997,Operatives,4.099999905
+1998,Operatives,4
+1999,Operatives,4
+2000,Operatives,3.799999952
+2001,Operatives,3.5
+2002,Operatives,3.599999905
+2003,Operatives,3.700000048
+2004,Operatives,3.700000048
+2005,Operatives,3.299999952
+2006,Operatives,3.400000095
+2007,Operatives,3.400000095
+2008,Operatives,3.299999952
+2009,Operatives,2.5
+2010,Operatives,3
+2011,Operatives,2.700000048
+2012,Operatives,2.581810713
+2013,Operatives,2.400000095
+2014,Operatives,2.599999905
+2015,Operatives,2.799999952
+2016,Operatives,2.400000095
+2017,Operatives,2.200000048
+2018,Operatives,2.299999952
+2019,Operatives,2
+2020,Operatives,2.200000048
+1995,Elementary,3.700000048
+1996,Elementary,3.5
+1997,Elementary,3.900000095
+1998,Elementary,3.5
+1999,Elementary,3.700000048
+2000,Elementary,3.799999952
+2001,Elementary,3.700000048
+2002,Elementary,3.599999905
+2003,Elementary,3.700000048
+2004,Elementary,3.599999905
+2005,Elementary,3.299999952
+2006,Elementary,3.200000048
+2007,Elementary,3
+2008,Elementary,2.900000095
+2009,Elementary,2.900000095
+2010,Elementary,2.599999905
+2011,Elementary,2.5
+2012,Elementary,2.484870911
+2013,Elementary,2.5
+2014,Elementary,2.5
+2015,Elementary,2.599999905
+2016,Elementary,2.700000048
+2017,Elementary,2.599999905
+2018,Elementary,2.400000095
+2019,Elementary,2.299999952
+2020,Elementary,2.799999952
