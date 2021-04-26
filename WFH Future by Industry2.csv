@@ -1,0 +1,29 @@
+Industry,Permanent WFH,Percentage
+Manufacturing,Yes,17.8
+Water ,Yes,18.9
+Construction,Yes,13.4
+Wholesale & Retail ,Yes,15.8
+Transport & Storage,Yes,15.1
+Accommodation & Food,Yes,6.6
+Information & Comms,Yes,43.1
+Real Estate,Yes,30.2
+"Professional, Scientific & Technical",Yes,37.9
+Administrative ,Yes,20
+Education,Yes,31.1
+Human Health ,Yes,25.1
+"Arts, Entertainment & Recreation",Yes,18.9
+All Industries,Yes,21.3
+Manufacturing,No,48.5
+Water ,No,50
+Construction,No,61.3
+Wholesale & Retail ,No,54.7
+Transport & Storage,No,59.1
+Accommodation & Food,No,78.3
+Information & Comms,No,16.5
+Real Estate,No,37
+"Professional, Scientific & Technical",No,25.8
+Administrative ,No,49.6
+Education,No,24.7
+Human Health ,No,44.9
+"Arts, Entertainment & Recreation",No,48.4
+All Industries,No,47.9

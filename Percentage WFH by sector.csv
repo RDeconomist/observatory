@@ -1,0 +1,151 @@
+Sector,Date,Percentage
+Manufacturing,2020-04-01,25.4
+Other Production,2020-04-01,36.3
+Construction,2020-04-01,29.8
+Wholesale & Retail,2020-04-01,28.9
+Transport & Storage,2020-04-01,23.8
+Accom & Food,2020-04-01,10.3
+Info & Comms,2020-04-01,77.8
+Finance & Insurance,2020-04-01,68.4
+Real Estate,2020-04-01,53.2
+Prof & Scientific,2020-04-01,60.8
+Admin & Support,2020-04-01,40.8
+Health,2020-04-01,37.1
+Recreational Services,2020-04-01,31.9
+Other Services,2020-04-01,56.1
+Total,2020-04-01,36.7
+Manufacturing,2020-05-01,23.4
+Other Production,2020-05-01,24.7
+Construction,2020-05-01,35.0
+Wholesale & Retail,2020-05-01,22.3
+Transport & Storage,2020-05-01,28.8
+Accom & Food,2020-05-01,9.1
+Info & Comms,2020-05-01,76.7
+Finance & Insurance,2020-05-01,63.1
+Real Estate,2020-05-01,60.8
+Prof & Scientific,2020-05-01,57.9
+Admin & Support,2020-05-01,49.1
+Health,2020-05-01,31.5
+Recreational Services,2020-05-01,23.0
+Other Services,2020-05-01,51.1
+Total,2020-05-01,35.0
+Manufacturing,2020-06-01,22.1
+Other Production,2020-06-01,22.6
+Construction,2020-06-01,35.5
+Wholesale & Retail,2020-06-01,26.1
+Transport & Storage,2020-06-01,17.0
+Accom & Food,2020-06-01,13.0
+Info & Comms,2020-06-01,72.7
+Finance & Insurance,2020-06-01,52.7
+Real Estate,2020-06-01,52.3
+Prof & Scientific,2020-06-01,59.5
+Admin & Support,2020-06-01,41.8
+Health,2020-06-01,36.3
+Recreational Services,2020-06-01,26.1
+Other Services,2020-06-01,45.2
+Total,2020-06-01,34.0
+Manufacturing,2020-07-01,21.1
+Other Production,2020-07-01,35.1
+Construction,2020-07-01,20.2
+Wholesale & Retail,2020-07-01,22.5
+Transport & Storage,2020-07-01,21.7
+Accom & Food,2020-07-01,11.5
+Info & Comms,2020-07-01,82.2
+Finance & Insurance,2020-07-01,75.5
+Real Estate,2020-07-01,47.9
+Prof & Scientific,2020-07-01,59.0
+Admin & Support,2020-07-01,34.6
+Health,2020-07-01,41.3
+Recreational Services,2020-07-01,25.8
+Other Services,2020-07-01,48.0
+Total,2020-07-01,33.9
+Manufacturing,2020-08-01,19.0
+Other Production,2020-08-01,33.1
+Construction,2020-08-01,27.7
+Wholesale & Retail,2020-08-01,19.5
+Transport & Storage,2020-08-01,29.4
+Accom & Food,2020-08-01,6.7
+Info & Comms,2020-08-01,76.4
+Finance & Insurance,2020-08-01,58.6
+Real Estate,2020-08-01,51.5
+Prof & Scientific,2020-08-01,57.8
+Admin & Support,2020-08-01,39.7
+Health,2020-08-01,30.3
+Recreational Services,2020-08-01,23.8
+Other Services,2020-08-01,49.9
+Total,2020-08-01,31.9
+Manufacturing,2020-09-01,16.8
+Other Production,2020-09-01,30.2
+Construction,2020-09-01,27.7
+Wholesale & Retail,2020-09-01,26.9
+Transport & Storage,2020-09-01,13.3
+Accom & Food,2020-09-01,2.9
+Info & Comms,2020-09-01,63.1
+Finance & Insurance,2020-09-01,47.3
+Real Estate,2020-09-01,51.2
+Prof & Scientific,2020-09-01,53.1
+Admin & Support,2020-09-01,31.4
+Health,2020-09-01,32.5
+Recreational Services,2020-09-01,25.2
+Other Services,2020-09-01,30.8
+Total,2020-09-01,28.9
+Manufacturing,2020-10-01,21.8
+Other Production,2020-10-01,21.7
+Construction,2020-10-01,21.8
+Wholesale & Retail,2020-10-01,21.1
+Transport & Storage,2020-10-01,23.6
+Accom & Food,2020-10-01,14.0
+Info & Comms,2020-10-01,86.4
+Finance & Insurance,2020-10-01,61.4
+Real Estate,2020-10-01,46.2
+Prof & Scientific,2020-10-01,55.8
+Admin & Support,2020-10-01,43.8
+Health,2020-10-01,39.3
+Recreational Services,2020-10-01,33.5
+Other Services,2020-10-01,44.6
+Total,2020-10-01,34.0
+Manufacturing,2020-11-01,20.7
+Other Production,2020-11-01,40.9
+Construction,2020-11-01,34.2
+Wholesale & Retail,2020-11-01,24.7
+Transport & Storage,2020-11-01,25.6
+Accom & Food,2020-11-01,10.1
+Info & Comms,2020-11-01,87.6
+Finance & Insurance,2020-11-01,47.8
+Real Estate,2020-11-01,58.1
+Prof & Scientific,2020-11-01,64.8
+Admin & Support,2020-11-01,36.9
+Health,2020-11-01,33.5
+Recreational Services,2020-11-01,31.4
+Other Services,2020-11-01,44.3
+Total,2020-11-01,34.3
+Manufacturing,2020-12-01,20.2
+Other Production,2020-12-01,37.6
+Construction,2020-12-01,30.3
+Wholesale & Retail,2020-12-01,24.4
+Transport & Storage,2020-12-01,15.3
+Accom & Food,2020-12-01,9.4
+Info & Comms,2020-12-01,81.1
+Finance & Insurance,2020-12-01,57.3
+Real Estate,2020-12-01,49
+Prof & Scientific,2020-12-01,58.4
+Admin & Support,2020-12-01,47.8
+Health,2020-12-01,37.3
+Recreational Services,2020-12-01,29.6
+Other Services,2020-12-01,37.4
+Total,2020-12-01,34.3
+Manufacturing,2021-01-01,21.6
+Other Production,2021-01-01,28.1
+Construction,2021-01-01,34.7
+Wholesale & Retail,2021-01-01,30.6
+Transport & Storage,2021-01-01,19.2
+Accom & Food,2021-01-01,14.0
+Info & Comms,2021-01-01,88.8
+Finance & Insurance,2021-01-01,80.1
+Real Estate,2021-01-01,58.4
+Prof & Scientific,2021-01-01,68.8
+Admin & Support,2021-01-01,52.4
+Health,2021-01-01,53.0
+Recreational Services,2021-01-01,32.4
+Other Services,2021-01-01,54.6
+Total,2021-01-01,41.1

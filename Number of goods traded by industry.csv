@@ -1,0 +1,41 @@
+Code,Industry,Imp Exp Employees,Average number of goods traded
+A,"Agriculture, Forestry & Fishing",Exports 10+ employees,5.8
+A,"Agriculture, Forestry & Fishing",Imports 10+ employees,5.9
+A,"Agriculture, Forestry & Fishing",Exports 0-9 employees,2.7
+A,"Agriculture, Forestry & Fishing",Imports 0-9 employees,2.3
+B,Mining & Quarrying,Exports 10+ employees,28.1
+B,Mining & Quarrying,Imports 10+ employees,31.3
+B,Mining & Quarrying,Exports 0-9 employees,3.6
+B,Mining & Quarrying,Imports 0-9 employees,4.8
+C 10-12,"Food, Beverages & Tobacco",Exports 10+ employees,8.7
+C 10-12,"Food, Beverages & Tobacco",Imports 10+ employees,19.1
+C 10-12,"Food, Beverages & Tobacco",Exports 0-9 employees,2.9
+C 10-12,"Food, Beverages & Tobacco",Imports 0-9 employees,2.8
+C 20,Chemicals,Exports 10+ employees,18.3
+C 20,Chemicals,Imports 10+ employees,25
+C 20,Chemicals,Exports 0-9 employees,4
+C 20,Chemicals,Imports 0-9 employees,4
+C 21,Pharmaceuticals,Exports 10+ employees,19.3
+C 21,Pharmaceuticals,Imports 10+ employees,37.7
+C 21,Pharmaceuticals,Exports 0-9 employees,4
+C 21,Pharmaceuticals,Imports 0-9 employees,5.5
+C 26,"Computer, Electronic & Optical Products",Exports 10+ employees,19.2
+C 26,"Computer, Electronic & Optical Products",Imports 10+ employees,20.5
+C 26,"Computer, Electronic & Optical Products",Exports 0-9 employees,3.9
+C 26,"Computer, Electronic & Optical Products",Imports 0-9 employees,3.5
+C 28,Machinery and Equipment,Exports 10+ employees,17.7
+C 28,Machinery and Equipment,Imports 10+ employees,18.9
+C 28,Machinery and Equipment,Exports 0-9 employees,4.5
+C 28,Machinery and Equipment,Imports 0-9 employees,3.8
+C 29,Motor Vehicles,Exports 10+ employees,16.4
+C 29,Motor Vehicles,Imports 10+ employees,23.7
+C 29,Motor Vehicles,Exports 0-9 employees,3.1
+C 29,Motor Vehicles,Imports 0-9 employees,3.5
+C 30,Other Transport Equipment,Exports 10+ employees,34.6
+C 30,Other Transport Equipment,Imports 10+ employees,35.6
+C 30,Other Transport Equipment,Exports 0-9 employees,5.1
+C 30,Other Transport Equipment,Imports 0-9 employees,4
+C Other,Other Manufacturing,Exports 10+ employees,10.6
+C Other,Other Manufacturing,Imports 10+ employees,13.7
+C Other,Other Manufacturing,Exports 0-9 employees,3.5
+C Other,Other Manufacturing,Imports 0-9 employees,3.1

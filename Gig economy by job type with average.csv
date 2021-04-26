@@ -1,0 +1,2473 @@
+Date,Type of work,Value,Average
+2020-01-01,Clerical and data entry,1,1.000
+2020-01-02,Clerical and data entry,0.810996564,1.129
+2020-01-03,Clerical and data entry,1.176975945,1.201
+2020-01-04,Clerical and data entry,1.189003436,1.225
+2020-01-05,Clerical and data entry,1.04467354,1.277
+2020-01-06,Clerical and data entry,1.067010309,1.291
+2020-01-07,Clerical and data entry,1.309278351,1.295
+2020-01-08,Clerical and data entry,1.302405498,1.321
+2020-01-09,Clerical and data entry,1.316151203,1.356
+2020-01-10,Clerical and data entry,1.348797251,1.394
+2020-01-11,Clerical and data entry,1.551546392,1.423
+2020-01-12,Clerical and data entry,1.140893471,1.425
+2020-01-13,Clerical and data entry,1.097938144,1.447
+2020-01-14,Clerical and data entry,1.487972509,1.462
+2020-01-15,Clerical and data entry,1.546391753,1.464
+2020-01-16,Clerical and data entry,1.587628866,1.461
+2020-01-17,Clerical and data entry,1.548109966,1.434
+2020-01-18,Clerical and data entry,1.565292096,1.438
+2020-01-19,Clerical and data entry,1.293814433,1.430
+2020-01-20,Clerical and data entry,1.20790378,1.405
+2020-01-21,Clerical and data entry,1.496563574,1.361
+2020-01-22,Clerical and data entry,1.525773196,1.351
+2020-01-23,Clerical and data entry,1.402061856,1.344
+2020-01-24,Clerical and data entry,1.575601375,1.360
+2020-01-25,Clerical and data entry,1.506872852,1.349
+2020-01-26,Clerical and data entry,1.12371134,1.328
+2020-01-27,Clerical and data entry,0.89862543,1.321
+2020-01-28,Clerical and data entry,1.422680412,1.337
+2020-01-29,Clerical and data entry,1.47766323,1.357
+2020-01-30,Clerical and data entry,1.517182131,1.376
+2020-01-31,Clerical and data entry,1.494845361,1.354
+2020-02-01,Clerical and data entry,1.359106529,1.357
+2020-02-02,Clerical and data entry,1.073883162,1.372
+2020-02-03,Clerical and data entry,1.015463918,1.372
+2020-02-04,Clerical and data entry,1.563573883,1.377
+2020-02-05,Clerical and data entry,1.609965636,1.386
+2020-02-06,Clerical and data entry,1.360824742,1.377
+2020-02-07,Clerical and data entry,1.518900344,1.411
+2020-02-08,Clerical and data entry,1.462199313,1.418
+2020-02-09,Clerical and data entry,1.073883162,1.411
+2020-02-10,Clerical and data entry,1.048109966,1.431
+2020-02-11,Clerical and data entry,1.627147766,1.459
+2020-02-12,Clerical and data entry,1.54467354,1.461
+2020-02-13,Clerical and data entry,1.604810997,1.475
+2020-02-14,Clerical and data entry,1.565292096,1.494
+2020-02-15,Clerical and data entry,1.414089347,1.498
+2020-02-16,Clerical and data entry,1.211340206,1.518
+2020-02-17,Clerical and data entry,1.245704467,1.514
+2020-02-18,Clerical and data entry,1.640893471,1.510
+2020-02-19,Clerical and data entry,1.640893471,1.508
+2020-02-20,Clerical and data entry,1.738831615,1.512
+2020-02-21,Clerical and data entry,1.592783505,1.512
+2020-02-22,Clerical and data entry,1.556701031,1.513
+2020-02-23,Clerical and data entry,1.18556701,1.503
+2020-02-24,Clerical and data entry,1.211340206,1.503
+2020-02-25,Clerical and data entry,1.627147766,1.498
+2020-02-26,Clerical and data entry,1.673539519,1.501
+2020-02-27,Clerical and data entry,1.738831615,1.471
+2020-02-28,Clerical and data entry,1.599656357,1.493
+2020-02-29,Clerical and data entry,1.486254296,1.521
+2020-03-01,Clerical and data entry,1.187285223,1.542
+2020-03-02,Clerical and data entry,1.175257732,1.546
+2020-03-03,Clerical and data entry,1.647766323,1.544
+2020-03-04,Clerical and data entry,1.458762887,1.526
+2020-03-05,Clerical and data entry,1.896907216,1.552
+2020-03-06,Clerical and data entry,1.795532646,1.526
+2020-03-07,Clerical and data entry,1.630584192,1.469
+2020-03-08,Clerical and data entry,1.214776632,1.450
+2020-03-09,Clerical and data entry,1.161512027,1.447
+2020-03-10,Clerical and data entry,1.52233677,1.451
+2020-03-11,Clerical and data entry,1.639175258,1.400
+2020-03-12,Clerical and data entry,1.714776632,1.389
+2020-03-13,Clerical and data entry,1.402061856,1.357
+2020-03-14,Clerical and data entry,1.498281787,1.347
+2020-03-15,Clerical and data entry,1.194158076,1.314
+2020-03-16,Clerical and data entry,1.187285223,1.293
+2020-03-17,Clerical and data entry,1.163230241,1.280
+2020-03-18,Clerical and data entry,1.56185567,1.303
+2020-03-19,Clerical and data entry,1.489690722,1.255
+2020-03-20,Clerical and data entry,1.335051546,1.245
+2020-03-21,Clerical and data entry,1.266323024,1.263
+2020-03-22,Clerical and data entry,1.049828179,1.270
+2020-03-23,Clerical and data entry,1.092783505,1.310
+2020-03-24,Clerical and data entry,1.326460481,1.311
+2020-03-25,Clerical and data entry,1.225085911,1.321
+2020-03-26,Clerical and data entry,1.417525773,1.348
+2020-03-27,Clerical and data entry,1.465635739,1.363
+2020-03-28,Clerical and data entry,1.312714777,1.381
+2020-03-29,Clerical and data entry,1.326460481,1.402
+2020-03-30,Clerical and data entry,1.103092784,1.378
+2020-03-31,Clerical and data entry,1.39862543,1.376
+2020-04-01,Clerical and data entry,1.410652921,1.376
+2020-04-02,Clerical and data entry,1.524054983,1.368
+2020-04-03,Clerical and data entry,1.594501718,1.362
+2020-04-04,Clerical and data entry,1.453608247,1.355
+2020-04-05,Clerical and data entry,1.159793814,1.366
+2020-04-06,Clerical and data entry,1.092783505,1.379
+2020-04-07,Clerical and data entry,1.395189003,1.405
+2020-04-08,Clerical and data entry,1.355670103,1.413
+2020-04-09,Clerical and data entry,1.482817869,1.452
+2020-04-10,Clerical and data entry,1.54467354,1.497
+2020-04-11,Clerical and data entry,1.530927835,1.408
+2020-04-12,Clerical and data entry,1.249140893,1.449
+2020-04-13,Clerical and data entry,1.273195876,1.549
+2020-04-14,Clerical and data entry,1.453608247,1.527
+2020-04-15,Clerical and data entry,1.632302405,1.558
+2020-04-16,Clerical and data entry,1.793814433,1.582
+2020-04-17,Clerical and data entry,0.924398625,1.628
+2020-04-18,Clerical and data entry,1.817869416,1.741
+2020-04-19,Clerical and data entry,1.946735395,1.732
+2020-04-20,Clerical and data entry,1.12371134,1.648
+2020-04-21,Clerical and data entry,1.66838488,1.693
+2020-04-22,Clerical and data entry,1.800687285,1.684
+2020-04-23,Clerical and data entry,2.116838488,1.664
+2020-04-24,Clerical and data entry,1.709621993,1.598
+2020-04-25,Clerical and data entry,1.756013746,1.610
+2020-04-26,Clerical and data entry,1.360824742,1.606
+2020-04-27,Clerical and data entry,1.439862543,1.604
+2020-04-28,Clerical and data entry,1.60137457,1.592
+2020-04-29,Clerical and data entry,1.663230241,1.597
+2020-04-30,Clerical and data entry,1.652920962,1.607
+2020-05-01,Clerical and data entry,1.797250859,1.649
+2020-05-02,Clerical and data entry,1.723367698,1.652
+2020-05-03,Clerical and data entry,1.352233677,1.628
+2020-05-04,Clerical and data entry,1.355670103,1.633
+2020-05-05,Clerical and data entry,1.637457045,1.636
+2020-05-06,Clerical and data entry,1.73024055,1.627
+2020-05-07,Clerical and data entry,1.943298969,1.657
+2020-05-08,Clerical and data entry,1.821305842,1.640
+2020-05-09,Clerical and data entry,1.554982818,1.651
+2020-05-10,Clerical and data entry,1.390034364,1.690
+2020-05-11,Clerical and data entry,1.374570447,1.696
+2020-05-12,Clerical and data entry,1.572164948,1.717
+2020-05-13,Clerical and data entry,1.941580756,1.731
+2020-05-14,Clerical and data entry,1.823024055,1.706
+2020-05-15,Clerical and data entry,1.902061856,1.730
+2020-05-16,Clerical and data entry,1.828178694,1.711
+2020-05-17,Clerical and data entry,1.431271478,1.682
+2020-05-18,Clerical and data entry,1.520618557,1.676
+2020-05-19,Clerical and data entry,1.673539519,1.654
+2020-05-20,Clerical and data entry,1.762886598,1.655
+2020-05-21,Clerical and data entry,1.987972509,1.669
+2020-05-22,Clerical and data entry,1.774914089,1.637
+2020-05-23,Clerical and data entry,1.621993127,1.660
+2020-05-24,Clerical and data entry,1.388316151,1.687
+2020-05-25,Clerical and data entry,1.365979381,1.735
+2020-05-26,Clerical and data entry,1.683848797,1.711
+2020-05-27,Clerical and data entry,1.857388316,1.665
+2020-05-28,Clerical and data entry,1.766323024,1.607
+2020-05-29,Clerical and data entry,1.934707904,1.530
+2020-05-30,Clerical and data entry,1.81185567,1.467
+2020-05-31,Clerical and data entry,1.725085911,1.405
+2020-06-01,Clerical and data entry,1.195876289,1.321
+2020-06-02,Clerical and data entry,1.365979381,1.295
+2020-06-03,Clerical and data entry,1.446735395,1.289
+2020-06-04,Clerical and data entry,1.228522337,1.297
+2020-06-05,Clerical and data entry,1.496563574,1.338
+2020-06-06,Clerical and data entry,1.372852234,1.329
+2020-06-07,Clerical and data entry,1.139175258,1.349
+2020-06-08,Clerical and data entry,1.017182131,1.383
+2020-06-09,Clerical and data entry,1.321305842,1.405
+2020-06-10,Clerical and data entry,1.505154639,1.422
+2020-06-11,Clerical and data entry,1.510309278,1.415
+2020-06-12,Clerical and data entry,1.439862543,1.411
+2020-06-13,Clerical and data entry,1.507731959,1.409
+2020-06-14,Clerical and data entry,1.379725086,1.394
+2020-06-15,Clerical and data entry,1.16838488,1.362
+2020-06-16,Clerical and data entry,1.443728522,1.341
+2020-06-17,Clerical and data entry,1.453608247,1.332
+2020-06-18,Clerical and data entry,1.486254296,1.333
+2020-06-19,Clerical and data entry,1.426116838,1.325
+2020-06-20,Clerical and data entry,1.39862543,1.337
+2020-06-21,Clerical and data entry,1.158075601,1.324
+2020-06-22,Clerical and data entry,1.018900344,1.300
+2020-06-23,Clerical and data entry,1.381443299,1.297
+2020-06-24,Clerical and data entry,1.463917526,1.317
+2020-06-25,Clerical and data entry,1.427835052,1.312
+2020-06-26,Clerical and data entry,1.506872852,1.334
+2020-06-27,Clerical and data entry,1.310996564,1.334
+2020-06-28,Clerical and data entry,0.989690722,1.318
+2020-06-29,Clerical and data entry,0.998281787,1.324
+2020-06-30,Clerical and data entry,1.518900344,1.337
+2020-07-01,Clerical and data entry,1.432989691,1.196
+2020-07-02,Clerical and data entry,1.579037801,1.184
+2020-07-03,Clerical and data entry,1.505154639,1.202
+2020-07-04,Clerical and data entry,1.204467354,1.089
+2020-07-05,Clerical and data entry,1.029209622,1.100
+2020-07-06,Clerical and data entry,1.087628866,1.149
+2020-07-10,Clerical and data entry,0.536082474,1.185
+2020-07-11,Clerical and data entry,1.347079038,1.302
+2020-07-12,Clerical and data entry,1.702749141,1.318
+2020-07-13,Clerical and data entry,0.718213058,1.236
+2020-07-14,Clerical and data entry,1.278350515,1.289
+2020-07-15,Clerical and data entry,1.37628866,1.230
+2020-07-16,Clerical and data entry,1.335051546,1.278
+2020-07-17,Clerical and data entry,1.35395189,1.286
+2020-07-18,Clerical and data entry,1.463917526,1.290
+2020-07-19,Clerical and data entry,1.127147766,1.237
+2020-07-20,Clerical and data entry,1.091065292,1.244
+2020-07-21,Clerical and data entry,0.864261168,1.265
+2020-07-22,Clerical and data entry,1.70790378,1.369
+2020-07-23,Clerical and data entry,1.395189003,1.304
+2020-07-24,Clerical and data entry,1.379725086,1.299
+2020-07-25,Clerical and data entry,1.096219931,1.276
+2020-07-26,Clerical and data entry,1.173539519,1.308
+2020-07-27,Clerical and data entry,1.237113402,1.276
+2020-07-28,Clerical and data entry,1.591065292,1.256
+2020-07-29,Clerical and data entry,1.25257732,1.206
+2020-07-30,Clerical and data entry,1.362542955,1.226
+2020-07-31,Clerical and data entry,1.218213058,1.245
+2020-08-01,Clerical and data entry,1.323024055,1.229
+2020-08-02,Clerical and data entry,0.948453608,1.258
+2020-08-03,Clerical and data entry,1.096219931,1.269
+2020-08-04,Clerical and data entry,1.238831615,1.247
+2020-08-05,Clerical and data entry,1.395189003,1.271
+2020-08-06,Clerical and data entry,1.493127148,1.313
+2020-08-07,Clerical and data entry,1.10652921,1.312
+2020-08-08,Clerical and data entry,1.527491409,1.338
+2020-08-09,Clerical and data entry,1.02233677,1.301
+2020-08-10,Clerical and data entry,0.948453608,1.299
+2020-08-11,Clerical and data entry,1.407216495,1.289
+2020-08-12,Clerical and data entry,1.68556701,1.278
+2020-08-13,Clerical and data entry,1.487972509,1.225
+2020-08-14,Clerical and data entry,1.286941581,1.213
+2020-08-15,Clerical and data entry,1.266323024,1.216
+2020-08-16,Clerical and data entry,1.012027491,1.225
+2020-08-17,Clerical and data entry,0.879725086,1.235
+2020-08-18,Clerical and data entry,1.329896907,1.247
+2020-08-19,Clerical and data entry,1.309278351,1.247
+2020-08-20,Clerical and data entry,1.405498282,1.277
+2020-08-21,Clerical and data entry,1.305841924,1.219
+2020-08-22,Clerical and data entry,1.333333333,1.209
+2020-08-23,Clerical and data entry,1.082474227,1.231
+2020-08-24,Clerical and data entry,0.962199313,1.212
+2020-08-25,Clerical and data entry,1.33161512,1.207
+2020-08-26,Clerical and data entry,1.517182131,1.194
+2020-08-27,Clerical and data entry,1.003436426,1.173
+2020-08-28,Clerical and data entry,1.23024055,1.269
+2020-08-29,Clerical and data entry,1.491408935,1.330
+2020-08-30,Clerical and data entry,0.945017182,1.343
+2020-08-31,Clerical and data entry,0.929553265,1.369
+2020-09-01,Clerical and data entry,1.238831615,1.388
+2020-09-02,Clerical and data entry,1.372852234,1.391
+2020-09-03,Clerical and data entry,1.676975945,1.382
+2020-09-04,Clerical and data entry,1.652920962,1.364
+2020-09-05,Clerical and data entry,1.582474227,1.329
+2020-09-06,Clerical and data entry,1.132302405,1.309
+2020-09-07,Clerical and data entry,1.060137457,1.322
+2020-09-08,Clerical and data entry,1.259450172,1.315
+2020-09-09,Clerical and data entry,1.310996564,1.323
+2020-09-10,Clerical and data entry,1.549828179,1.355
+2020-09-11,Clerical and data entry,1.410652921,1.389
+2020-09-12,Clerical and data entry,1.441580756,1.429
+2020-09-13,Clerical and data entry,1.223367698,1.441
+2020-09-14,Clerical and data entry,1.006872852,1.426
+2020-09-15,Clerical and data entry,1.317869416,1.453
+2020-09-16,Clerical and data entry,1.537800687,1.515
+2020-09-17,Clerical and data entry,1.781786942,1.604
+2020-09-18,Clerical and data entry,1.695876289,1.600
+2020-09-19,Clerical and data entry,1.525773196,1.585
+2020-09-20,Clerical and data entry,1.113402062,1.568
+2020-09-21,Clerical and data entry,1.197594502,1.565
+2020-09-22,Clerical and data entry,1.750859107,1.541
+2020-09-23,Clerical and data entry,2.163230241,1.531
+2020-09-24,Clerical and data entry,1.750859107,1.427
+2020-09-25,Clerical and data entry,1.591065292,1.387
+2020-09-26,Clerical and data entry,1.412371134,1.364
+2020-09-27,Clerical and data entry,1.089347079,1.358
+2020-09-28,Clerical and data entry,1.027491409,1.350
+2020-09-29,Clerical and data entry,1.683848797,1.376
+2020-09-30,Clerical and data entry,1.431271478,1.341
+2020-10-01,Clerical and data entry,1.474226804,1.371
+2020-10-02,Clerical and data entry,1.427835052,1.388
+2020-10-03,Clerical and data entry,1.371134021,1.423
+2020-10-04,Clerical and data entry,1.034364261,1.463
+2020-10-05,Clerical and data entry,1.206185567,1.509
+2020-10-06,Clerical and data entry,1.443298969,1.531
+2020-10-07,Clerical and data entry,1.639175258,1.687
+2020-10-08,Clerical and data entry,1.594501718,1.628
+2020-10-09,Clerical and data entry,1.673539519,1.635
+2020-10-10,Clerical and data entry,1.649484536,1.684
+2020-10-11,Clerical and data entry,1.355670103,1.719
+2020-10-12,Clerical and data entry,1.364261168,1.708
+2020-10-13,Clerical and data entry,2.534364261,1.736
+2020-10-14,Clerical and data entry,1.226804124,1.623
+2020-10-15,Clerical and data entry,1.644329897,1.730
+2020-10-16,Clerical and data entry,2.010309278,1.772
+2020-10-17,Clerical and data entry,1.900343643,1.763
+2020-10-18,Clerical and data entry,1.274914089,1.771
+2020-10-19,Clerical and data entry,1.563573883,1.788
+2020-10-20,Clerical and data entry,1.740549828,1.792
+2020-10-21,Clerical and data entry,1.97766323,1.849
+2020-10-22,Clerical and data entry,1.934707904,1.863
+2020-10-23,Clerical and data entry,1.950171821,1.897
+2020-10-24,Clerical and data entry,1.956185567,1.931
+2020-10-25,Clerical and data entry,1.395189003,1.922
+2020-10-26,Clerical and data entry,1.591065292,1.948
+2020-10-27,Clerical and data entry,2.137457045,1.943
+2020-10-28,Clerical and data entry,2.075601375,2.044
+2020-10-29,Clerical and data entry,2.175257732,2.088
+2020-10-30,Clerical and data entry,2.189003436,2.088
+2020-10-31,Clerical and data entry,1.89347079,2.097
+2020-11-01,Clerical and data entry,1.575601375,2.143
+2020-11-02,Clerical and data entry,1.551546392,2.168
+2020-11-03,Clerical and data entry,2.848797251,2.174
+2020-11-04,Clerical and data entry,2.383161512,2.059
+2020-11-05,Clerical and data entry,2.171821306,2.016
+2020-11-06,Clerical and data entry,2.25257732,2.025
+2020-11-07,Clerical and data entry,2.216494845,2.121
+2020-11-08,Clerical and data entry,1.754295533,2.103
+2020-11-09,Clerical and data entry,1.592783505,2.085
+2020-11-10,Clerical and data entry,2.04467354,2.066
+2020-11-11,Clerical and data entry,2.079037801,2.066
+2020-11-12,Clerical and data entry,2.231958763,2.108
+2020-11-13,Clerical and data entry,2.926116838,2.137
+2020-11-14,Clerical and data entry,2.092783505,2.018
+2020-11-15,Clerical and data entry,1.627147766,1.984
+2020-11-16,Clerical and data entry,1.458762887,2.000
+2020-11-17,Clerical and data entry,2.042955326,2.028
+2020-11-18,Clerical and data entry,2.37628866,2.069
+2020-11-19,Clerical and data entry,2.436426117,2.017
+2020-11-20,Clerical and data entry,2.092783505,1.940
+2020-11-21,Clerical and data entry,1.850515464,1.889
+2020-11-22,Clerical and data entry,1.742268041,1.842
+2020-11-23,Clerical and data entry,1.652920962,1.788
+2020-11-24,Clerical and data entry,2.335051546,1.780
+2020-11-25,Clerical and data entry,2.012027491,1.713
+2020-11-26,Clerical and data entry,1.895189003,1.750
+2020-11-27,Clerical and data entry,1.735395189,1.787
+2020-11-28,Clerical and data entry,1.524054983,1.826
+2020-11-29,Clerical and data entry,1.360824742,1.868
+2020-11-30,Clerical and data entry,1.594501718,1.876
+2020-12-01,Clerical and data entry,1.865979381,1.894
+2020-12-02,Clerical and data entry,2.273195876,1.907
+2020-12-03,Clerical and data entry,2.154639175,1.897
+2020-12-04,Clerical and data entry,2.012027491,1.929
+2020-12-05,Clerical and data entry,1.81443299,1.951
+2020-12-06,Clerical and data entry,1.41580756,1.957
+2020-12-07,Clerical and data entry,1.723367698,1.981
+2020-12-08,Clerical and data entry,1.953608247,2.002
+2020-12-09,Clerical and data entry,2.206185567,2.038
+2020-12-10,Clerical and data entry,2.378006873,2.013
+2020-12-11,Clerical and data entry,2.164948454,1.959
+2020-12-12,Clerical and data entry,1.859106529,1.926
+2020-12-13,Clerical and data entry,1.582474227,1.912
+2020-12-14,Clerical and data entry,1.871134021,1.886
+2020-12-15,Clerical and data entry,2.201030928,1.803
+2020-12-16,Clerical and data entry,2.036082474,1.743
+2020-12-17,Clerical and data entry,2.001718213,1.719
+2020-12-18,Clerical and data entry,1.927835052,1.678
+2020-12-19,Clerical and data entry,1.766323024,1.595
+2020-12-20,Clerical and data entry,1.39862543,1.500
+2020-12-21,Clerical and data entry,1.29209622,1.452
+2020-12-22,Clerical and data entry,1.776632302,1.428
+2020-12-23,Clerical and data entry,1.872852234,1.418
+2020-12-24,Clerical and data entry,1.711340206,1.365
+2020-12-25,Clerical and data entry,1.345360825,1.349
+2020-12-26,Clerical and data entry,1.099656357,1.330
+2020-12-27,Clerical and data entry,1.068728522,1.327
+2020-12-28,Clerical and data entry,1.118556701,1.333
+2020-12-29,Clerical and data entry,1.706185567,1.351
+2020-12-30,Clerical and data entry,1.506872852,1.353
+2020-12-31,Clerical and data entry,1.599656357,1.423
+2021-01-01,Clerical and data entry,1.211340206,1.468
+2021-01-02,Clerical and data entry,1.075601375,1.556
+2021-01-03,Clerical and data entry,1.115120275,1.636
+2021-01-04,Clerical and data entry,1.238831615,1.665
+2021-01-05,Clerical and data entry,1.725085911,1.678
+2021-01-06,Clerical and data entry,1.998281787,1.674
+2021-01-07,Clerical and data entry,1.914089347,1.561
+2021-01-08,Clerical and data entry,1.828178694,1.504
+2021-01-09,Clerical and data entry,1.635738832,1.526
+2021-01-10,Clerical and data entry,1.316151203,1.532
+2021-01-11,Clerical and data entry,1.33161512,1.560
+2021-01-12,Clerical and data entry,1.695876289,1.633
+2021-01-13,Clerical and data entry,1.206185567,1.691
+2021-01-15,Clerical and data entry,1.513745704,1.796
+2021-01-16,Clerical and data entry,1.979381443,1.857
+2021-01-17,Clerical and data entry,1.680412371,1.830
+2021-01-18,Clerical and data entry,1.510309278,1.785
+2021-01-19,Clerical and data entry,1.847079038,1.796
+2021-01-20,Clerical and data entry,2.103092784,1.828
+2021-01-21,Clerical and data entry,1.939862543,1.850
+2021-01-22,Clerical and data entry,1.93814433,1.937
+2021-01-23,Clerical and data entry,1.788659794,1.996
+2021-01-24,Clerical and data entry,1.365979381,2.003
+2021-01-25,Clerical and data entry,1.589347079,2.012
+2021-01-26,Clerical and data entry,2.068728522,2.004
+2021-01-27,Clerical and data entry,2.259450172,1.984
+2021-01-28,Clerical and data entry,2.548109966,1.974
+2021-01-29,Clerical and data entry,2.348797251,1.946
+2021-01-30,Clerical and data entry,1.843642612,1.920
+2021-01-31,Clerical and data entry,1.426116838,1.936
+2021-02-01,Clerical and data entry,1.532646048,1.937
+2021-02-02,Clerical and data entry,1.927835052,1.934
+2021-02-03,Clerical and data entry,2.192439863,1.987
+2021-02-04,Clerical and data entry,2.347079038,1.982
+2021-02-05,Clerical and data entry,2.171821306,1.965
+2021-02-06,Clerical and data entry,1.951890034,1.976
+2021-02-07,Clerical and data entry,1.434707904,1.969
+2021-02-08,Clerical and data entry,1.512027491,1.986
+2021-02-09,Clerical and data entry,2.300687285,1.970
+2021-02-10,Clerical and data entry,2.158075601,1.917
+2021-02-11,Clerical and data entry,2.223367698,1.904
+2021-02-12,Clerical and data entry,2.254295533,1.902
+2021-02-13,Clerical and data entry,1.896907216,1.881
+2021-02-14,Clerical and data entry,1.553264605,1.753
+2021-02-15,Clerical and data entry,1.400343643,1.659
+2021-02-16,Clerical and data entry,1.934707904,1.622
+2021-02-17,Clerical and data entry,2.065292096,1.521
+2021-02-18,Clerical and data entry,2.20790378,1.388
+2021-02-19,Clerical and data entry,2.111683849,1.211
+2020-01-01,Creative and multimedia,1,1.097
+2020-01-02,Creative and multimedia,0.890260631,1.154
+2020-01-03,Creative and multimedia,1.146090535,1.225
+2020-01-04,Creative and multimedia,1.222908093,1.265
+2020-01-05,Creative and multimedia,1.135802469,1.284
+2020-01-06,Creative and multimedia,0.972565158,1.281
+2020-01-07,Creative and multimedia,1.312757202,1.314
+2020-01-08,Creative and multimedia,1.399176955,1.347
+2020-01-09,Creative and multimedia,1.388888889,1.382
+2020-01-10,Creative and multimedia,1.425925926,1.410
+2020-01-11,Creative and multimedia,1.354595336,1.425
+2020-01-12,Creative and multimedia,1.115912209,1.442
+2020-01-13,Creative and multimedia,1.198216735,1.451
+2020-01-14,Creative and multimedia,1.549382716,1.455
+2020-01-15,Creative and multimedia,1.641975309,1.489
+2020-01-16,Creative and multimedia,1.581618656,1.492
+2020-01-17,Creative and multimedia,1.534979424,1.500
+2020-01-18,Creative and multimedia,1.468449931,1.500
+2020-01-19,Creative and multimedia,1.179698217,1.516
+2020-01-20,Creative and multimedia,1.225651578,1.505
+2020-01-21,Creative and multimedia,1.788065844,1.487
+2020-01-22,Creative and multimedia,1.66872428,1.461
+2020-01-23,Creative and multimedia,1.637174211,1.442
+2020-01-24,Creative and multimedia,1.531550069,1.438
+2020-01-25,Creative and multimedia,1.579561043,1.439
+2020-01-26,Creative and multimedia,1.104252401,1.415
+2020-01-27,Creative and multimedia,1.100823045,1.420
+2020-01-28,Creative and multimedia,1.605624143,1.418
+2020-01-29,Creative and multimedia,1.531550069,1.443
+2020-01-30,Creative and multimedia,1.614540466,1.452
+2020-01-31,Creative and multimedia,1.537037037,1.449
+2020-02-01,Creative and multimedia,1.409465021,1.464
+2020-02-02,Creative and multimedia,1.144032922,1.482
+2020-02-03,Creative and multimedia,1.085733882,1.486
+2020-02-04,Creative and multimedia,1.775720165,1.500
+2020-02-05,Creative and multimedia,1.598765432,1.483
+2020-02-06,Creative and multimedia,1.589163237,1.487
+2020-02-07,Creative and multimedia,1.643347051,1.493
+2020-02-08,Creative and multimedia,1.536351166,1.482
+2020-02-09,Creative and multimedia,1.173525377,1.446
+2020-02-10,Creative and multimedia,1.183813443,1.435
+2020-02-11,Creative and multimedia,1.652949246,1.424
+2020-02-12,Creative and multimedia,1.631687243,1.413
+2020-02-13,Creative and multimedia,1.631687243,1.403
+2020-02-14,Creative and multimedia,1.567215364,1.412
+2020-02-15,Creative and multimedia,1.277777778,1.405
+2020-02-16,Creative and multimedia,1.098079561,1.421
+2020-02-17,Creative and multimedia,1.106310014,1.428
+2020-02-18,Creative and multimedia,1.576131687,1.437
+2020-02-19,Creative and multimedia,1.567215364,1.434
+2020-02-20,Creative and multimedia,1.691358025,1.456
+2020-02-21,Creative and multimedia,1.517832647,1.442
+2020-02-22,Creative and multimedia,1.390260631,1.441
+2020-02-23,Creative and multimedia,1.144718793,1.437
+2020-02-24,Creative and multimedia,1.16872428,1.431
+2020-02-25,Creative and multimedia,1.559670782,1.433
+2020-02-26,Creative and multimedia,1.716735254,1.454
+2020-02-27,Creative and multimedia,1.593964335,1.417
+2020-02-28,Creative and multimedia,1.515775034,1.415
+2020-02-29,Creative and multimedia,1.35733882,1.426
+2020-03-01,Creative and multimedia,1.104938272,1.437
+2020-03-02,Creative and multimedia,1.185871056,1.464
+2020-03-03,Creative and multimedia,1.704389575,1.457
+2020-03-04,Creative and multimedia,1.458161866,1.428
+2020-03-05,Creative and multimedia,1.575445816,1.440
+2020-03-06,Creative and multimedia,1.593278464,1.436
+2020-03-07,Creative and multimedia,1.437585734,1.409
+2020-03-08,Creative and multimedia,1.296296296,1.386
+2020-03-09,Creative and multimedia,1.133744856,1.346
+2020-03-10,Creative and multimedia,1.5,1.329
+2020-03-11,Creative and multimedia,1.545953361,1.294
+2020-03-12,Creative and multimedia,1.546639232,1.253
+2020-03-13,Creative and multimedia,1.405349794,1.213
+2020-03-14,Creative and multimedia,1.27297668,1.186
+2020-03-15,Creative and multimedia,1.019890261,1.176
+2020-03-16,Creative and multimedia,1.009602195,1.180
+2020-03-17,Creative and multimedia,1.260631001,1.176
+2020-03-18,Creative and multimedia,1.25308642,1.165
+2020-03-19,Creative and multimedia,1.269547325,1.133
+2020-03-20,Creative and multimedia,1.215363512,1.107
+2020-03-21,Creative and multimedia,1.205075446,1.087
+2020-03-22,Creative and multimedia,1.049382716,1.053
+2020-03-23,Creative and multimedia,0.978737997,1.026
+2020-03-24,Creative and multimedia,1.181069959,1.013
+2020-03-25,Creative and multimedia,1.029492455,1.013
+2020-03-26,Creative and multimedia,1.089163237,1.026
+2020-03-27,Creative and multimedia,1.073388203,1.044
+2020-03-28,Creative and multimedia,0.973251029,1.053
+2020-03-29,Creative and multimedia,0.855967078,1.073
+2020-03-30,Creative and multimedia,0.886145405,1.085
+2020-03-31,Creative and multimedia,1.180384088,1.096
+2020-04-01,Creative and multimedia,1.124828532,1.094
+2020-04-02,Creative and multimedia,1.211248285,1.104
+2020-04-03,Creative and multimedia,1.140603567,1.123
+2020-04-04,Creative and multimedia,1.11042524,1.165
+2020-04-05,Creative and multimedia,0.942386831,1.213
+2020-04-06,Creative and multimedia,0.958847737,1.237
+2020-04-07,Creative and multimedia,1.169410151,1.266
+2020-04-08,Creative and multimedia,1.195473251,1.317
+2020-04-09,Creative and multimedia,1.341563786,1.363
+2020-04-10,Creative and multimedia,1.439643347,1.398
+2020-04-11,Creative and multimedia,1.446502058,1.411
+2020-04-12,Creative and multimedia,1.108367627,1.422
+2020-04-13,Creative and multimedia,1.159122085,1.438
+2020-04-14,Creative and multimedia,1.531550069,1.457
+2020-04-15,Creative and multimedia,1.514403292,1.470
+2020-04-16,Creative and multimedia,1.588477366,1.502
+2020-04-17,Creative and multimedia,1.525377229,1.524
+2020-04-18,Creative and multimedia,1.526748971,1.536
+2020-04-19,Creative and multimedia,1.221536351,1.553
+2020-04-20,Creative and multimedia,1.291495199,1.564
+2020-04-21,Creative and multimedia,1.62345679,1.594
+2020-04-22,Creative and multimedia,1.74005487,1.609
+2020-04-23,Creative and multimedia,1.737311385,1.592
+2020-04-24,Creative and multimedia,1.613854595,1.564
+2020-04-25,Creative and multimedia,1.640603567,1.551
+2020-04-26,Creative and multimedia,1.301783265,1.519
+2020-04-27,Creative and multimedia,1.497942387,1.507
+2020-04-28,Creative and multimedia,1.729766804,1.490
+2020-04-29,Creative and multimedia,1.622085048,1.486
+2020-04-30,Creative and multimedia,1.544581619,1.495
+2020-05-01,Creative and multimedia,1.520576132,1.534
+2020-05-02,Creative and multimedia,1.416323731,1.557
+2020-05-03,Creative and multimedia,1.216049383,1.562
+2020-05-04,Creative and multimedia,1.377229081,1.580
+2020-05-05,Creative and multimedia,1.708504801,1.553
+2020-05-06,Creative and multimedia,1.678326475,1.530
+2020-05-07,Creative and multimedia,1.820301783,1.519
+2020-05-08,Creative and multimedia,1.68175583,1.500
+2020-05-09,Creative and multimedia,1.448559671,1.504
+2020-05-10,Creative and multimedia,1.343621399,1.533
+2020-05-11,Creative and multimedia,1.187242798,1.554
+2020-05-12,Creative and multimedia,1.550068587,1.561
+2020-05-13,Creative and multimedia,1.601508916,1.601
+2020-05-14,Creative and multimedia,1.689986283,1.626
+2020-05-15,Creative and multimedia,1.709876543,1.649
+2020-05-16,Creative and multimedia,1.651577503,1.646
+2020-05-17,Creative and multimedia,1.490397805,1.633
+2020-05-18,Creative and multimedia,1.235253772,1.619
+2020-05-19,Creative and multimedia,1.825788752,1.632
+2020-05-20,Creative and multimedia,1.781207133,1.611
+2020-05-21,Creative and multimedia,1.849108368,1.607
+2020-05-22,Creative and multimedia,1.685185185,1.591
+2020-05-23,Creative and multimedia,1.562414266,1.590
+2020-05-24,Creative and multimedia,1.396433471,1.628
+2020-05-25,Creative and multimedia,1.323731139,1.596
+2020-05-26,Creative and multimedia,1.679012346,1.574
+2020-05-27,Creative and multimedia,1.755144033,1.529
+2020-05-28,Creative and multimedia,1.736625514,1.473
+2020-05-29,Creative and multimedia,1.677640604,1.368
+2020-05-30,Creative and multimedia,1.829903978,1.320
+2020-05-31,Creative and multimedia,1.166666667,1.222
+2020-06-01,Creative and multimedia,1.173525377,1.209
+2020-06-02,Creative and multimedia,1.362139918,1.181
+2020-06-03,Creative and multimedia,1.365569273,1.157
+2020-06-04,Creative and multimedia,1.002743484,1.136
+2020-06-05,Creative and multimedia,1.340192044,1.169
+2020-06-06,Creative and multimedia,1.145404664,1.145
+2020-06-07,Creative and multimedia,1.073388203,1.280
+2020-06-08,Creative and multimedia,0.978052126,1.278
+2020-06-09,Creative and multimedia,1.192729767,1.288
+2020-06-10,Creative and multimedia,1.216735254,1.393
+2020-06-11,Creative and multimedia,1.238683128,1.386
+2020-06-12,Creative and multimedia,1.16872428,1.368
+2020-06-13,Creative and multimedia,2.091906722,1.358
+2020-06-14,Creative and multimedia,1.059670782,1.207
+2020-06-15,Creative and multimedia,1.04526749,1.168
+2020-06-16,Creative and multimedia,1.930041152,1.147
+2020-06-17,Creative and multimedia,1.168038409,1.035
+2020-06-18,Creative and multimedia,1.113168724,1.023
+2020-06-19,Creative and multimedia,1.09739369,1.027
+2020-06-20,Creative and multimedia,1.033607682,1.034
+2020-06-21,Creative and multimedia,0.790809328,1.029
+2020-06-22,Creative and multimedia,0.899176955,1.037
+2020-06-23,Creative and multimedia,1.141289438,1.032
+2020-06-24,Creative and multimedia,1.082990398,1.028
+2020-06-25,Creative and multimedia,1.144718793,1.040
+2020-06-26,Creative and multimedia,1.146090535,1.041
+2020-06-27,Creative and multimedia,0.995198903,1.049
+2020-06-28,Creative and multimedia,0.852537723,1.080
+2020-06-29,Creative and multimedia,0.858024691,1.105
+2020-06-30,Creative and multimedia,1.118655693,1.136
+2020-07-01,Creative and multimedia,1.164609053,1.043
+2020-07-02,Creative and multimedia,1.150205761,0.939
+2020-07-03,Creative and multimedia,1.206447188,0.885
+2020-07-04,Creative and multimedia,1.207133059,0.790
+2020-07-05,Creative and multimedia,1.028120713,0.792
+2020-07-06,Creative and multimedia,1.075445816,0.834
+2020-07-10,Creative and multimedia,0.468449931,0.877
+2020-07-11,Creative and multimedia,0.43484225,0.974
+2020-07-12,Creative and multimedia,0.771947874,1.057
+2020-07-13,Creative and multimedia,0.546639232,1.068
+2020-07-14,Creative and multimedia,1.218792867,1.111
+2020-07-15,Creative and multimedia,1.319615912,1.029
+2020-07-16,Creative and multimedia,1.381344307,1.062
+2020-07-17,Creative and multimedia,1.147462277,1.025
+2020-07-18,Creative and multimedia,1.012345679,1.024
+2020-07-19,Creative and multimedia,0.853223594,1.026
+2020-07-20,Creative and multimedia,0.842935528,1.017
+2020-07-21,Creative and multimedia,0.645404664,1.037
+2020-07-22,Creative and multimedia,1.5521262,1.104
+2020-07-23,Creative and multimedia,1.118655693,1.043
+2020-07-24,Creative and multimedia,1.139917695,1.047
+2020-07-25,Creative and multimedia,1.028120713,1.037
+2020-07-26,Creative and multimedia,0.791495199,1.054
+2020-07-27,Creative and multimedia,0.984224966,1.051
+2020-07-28,Creative and multimedia,1.112482853,1.030
+2020-07-29,Creative and multimedia,1.126886145,1.037
+2020-07-30,Creative and multimedia,1.144718793,1.039
+2020-07-31,Creative and multimedia,1.068587106,1.044
+2020-08-01,Creative and multimedia,1.150205761,1.043
+2020-08-02,Creative and multimedia,0.768175583,1.034
+2020-08-03,Creative and multimedia,0.838134431,1.039
+2020-08-04,Creative and multimedia,1.164609053,1.032
+2020-08-05,Creative and multimedia,1.139917695,1.036
+2020-08-06,Creative and multimedia,1.18175583,1.039
+2020-08-07,Creative and multimedia,1.060356653,1.040
+2020-08-08,Creative and multimedia,1.086419753,1.051
+2020-08-09,Creative and multimedia,0.800411523,1.044
+2020-08-10,Creative and multimedia,0.789437586,1.051
+2020-08-11,Creative and multimedia,1.19478738,1.062
+2020-08-12,Creative and multimedia,1.157064472,1.057
+2020-08-13,Creative and multimedia,1.189986283,1.060
+2020-08-14,Creative and multimedia,1.137860082,1.061
+2020-08-15,Creative and multimedia,1.037722908,1.055
+2020-08-16,Creative and multimedia,0.847050754,1.043
+2020-08-17,Creative and multimedia,0.868998628,1.041
+2020-08-18,Creative and multimedia,1.159122085,1.035
+2020-08-19,Creative and multimedia,1.177640604,1.036
+2020-08-20,Creative and multimedia,1.199588477,1.038
+2020-08-21,Creative and multimedia,1.091906722,1.044
+2020-08-22,Creative and multimedia,0.959533608,1.053
+2020-08-23,Creative and multimedia,0.833333333,1.068
+2020-08-24,Creative and multimedia,0.825788752,1.065
+2020-08-25,Creative and multimedia,1.161865569,1.071
+2020-08-26,Creative and multimedia,1.196844993,1.065
+2020-08-27,Creative and multimedia,1.239368999,1.068
+2020-08-28,Creative and multimedia,1.155006859,1.068
+2020-08-29,Creative and multimedia,1.061728395,1.071
+2020-08-30,Creative and multimedia,0.812071331,1.061
+2020-08-31,Creative and multimedia,0.867626886,1.054
+2020-09-01,Creative and multimedia,1.121399177,1.043
+2020-09-02,Creative and multimedia,1.216049383,1.031
+2020-09-03,Creative and multimedia,1.244170096,1.018
+2020-09-04,Creative and multimedia,1.174211248,1.004
+2020-09-05,Creative and multimedia,0.990397805,0.992
+2020-09-06,Creative and multimedia,0.767489712,0.997
+2020-09-07,Creative and multimedia,0.786694102,1.001
+2020-09-08,Creative and multimedia,1.03909465,0.999
+2020-09-09,Creative and multimedia,1.120713306,1.010
+2020-09-10,Creative and multimedia,1.147462277,1.012
+2020-09-11,Creative and multimedia,1.094650206,1.006
+2020-09-12,Creative and multimedia,1.022633745,1.009
+2020-09-13,Creative and multimedia,0.799039781,1.014
+2020-09-14,Creative and multimedia,0.767489712,1.010
+2020-09-15,Creative and multimedia,1.120713306,1.022
+2020-09-16,Creative and multimedia,1.128943759,1.023
+2020-09-17,Creative and multimedia,1.106310014,1.026
+2020-09-18,Creative and multimedia,1.117969822,1.030
+2020-09-19,Creative and multimedia,1.057613169,1.023
+2020-09-20,Creative and multimedia,0.774348422,1.017
+2020-09-21,Creative and multimedia,0.845679012,1.020
+2020-09-22,Creative and multimedia,1.12962963,1.008
+2020-09-23,Creative and multimedia,1.150205761,1.018
+2020-09-24,Creative and multimedia,1.13648834,1.014
+2020-09-25,Creative and multimedia,1.069272977,1.006
+2020-09-26,Creative and multimedia,1.012345679,1.007
+2020-09-27,Creative and multimedia,0.795610425,1.004
+2020-09-28,Creative and multimedia,0.764746228,1.008
+2020-09-29,Creative and multimedia,1.195473251,1.012
+2020-09-30,Creative and multimedia,1.121399177,1.003
+2020-10-01,Creative and multimedia,1.082990398,1.012
+2020-10-02,Creative and multimedia,1.078875171,1.023
+2020-10-03,Creative and multimedia,0.991769547,1.022
+2020-10-04,Creative and multimedia,0.818930041,1.012
+2020-10-05,Creative and multimedia,0.794924554,1.008
+2020-10-06,Creative and multimedia,1.133058985,1.007
+2020-10-07,Creative and multimedia,1.182441701,0.997
+2020-10-08,Creative and multimedia,1.16255144,0.990
+2020-10-09,Creative and multimedia,1.070644719,0.992
+2020-10-10,Creative and multimedia,0.920438957,1.001
+2020-10-11,Creative and multimedia,0.788751715,1.012
+2020-10-12,Creative and multimedia,0.790809328,1.015
+2020-10-13,Creative and multimedia,1.06515775,1.015
+2020-10-14,Creative and multimedia,1.133058985,1.024
+2020-10-15,Creative and multimedia,1.172839506,1.032
+2020-10-16,Creative and multimedia,1.133058985,1.027
+2020-10-17,Creative and multimedia,0.999314129,1.032
+2020-10-18,Creative and multimedia,0.813443073,1.210
+2020-10-19,Creative and multimedia,0.790123457,1.276
+2020-10-20,Creative and multimedia,1.126886145,1.318
+2020-10-21,Creative and multimedia,1.18861454,1.389
+2020-10-22,Creative and multimedia,1.134430727,1.439
+2020-10-23,Creative and multimedia,1.174211248,1.497
+2020-10-24,Creative and multimedia,2.242798354,1.546
+2020-10-25,Creative and multimedia,1.274348422,1.406
+2020-10-26,Creative and multimedia,1.082990398,1.355
+2020-10-27,Creative and multimedia,1.622770919,1.362
+2020-10-28,Creative and multimedia,1.538408779,1.322
+2020-10-29,Creative and multimedia,1.541152263,1.329
+2020-10-30,Creative and multimedia,1.519890261,1.290
+2020-10-31,Creative and multimedia,1.262002743,1.292
+2020-11-01,Creative and multimedia,0.917695473,1.288
+2020-11-02,Creative and multimedia,1.12962963,1.298
+2020-11-03,Creative and multimedia,1.342935528,1.283
+2020-11-04,Creative and multimedia,1.586419753,1.316
+2020-11-05,Creative and multimedia,1.273662551,1.302
+2020-11-06,Creative and multimedia,1.534293553,1.321
+2020-11-07,Creative and multimedia,1.232510288,1.325
+2020-11-08,Creative and multimedia,0.987654321,1.343
+2020-11-09,Creative and multimedia,1.023319616,1.354
+2020-11-10,Creative and multimedia,1.572702332,1.345
+2020-11-11,Creative and multimedia,1.48696845,1.341
+2020-11-12,Creative and multimedia,1.412894376,1.348
+2020-11-13,Creative and multimedia,1.556241427,1.351
+2020-11-14,Creative and multimedia,1.362825789,1.341
+2020-11-15,Creative and multimedia,1.061042524,1.331
+2020-11-16,Creative and multimedia,0.958847737,1.325
+2020-11-17,Creative and multimedia,1.549382716,1.351
+2020-11-18,Creative and multimedia,1.537722908,1.348
+2020-11-19,Creative and multimedia,1.432098765,1.349
+2020-11-20,Creative and multimedia,1.482853224,1.351
+2020-11-21,Creative and multimedia,1.292866941,1.324
+2020-11-22,Creative and multimedia,1.021947874,1.301
+2020-11-23,Creative and multimedia,1.137860082,1.300
+2020-11-24,Creative and multimedia,1.53223594,1.287
+2020-11-25,Creative and multimedia,1.540466392,1.281
+2020-11-26,Creative and multimedia,1.449931413,1.291
+2020-11-27,Creative and multimedia,1.290809328,1.297
+2020-11-28,Creative and multimedia,1.137174211,1.315
+2020-11-29,Creative and multimedia,1.008230453,1.344
+2020-11-30,Creative and multimedia,1.050068587,1.343
+2020-12-01,Creative and multimedia,1.492455418,1.345
+2020-12-02,Creative and multimedia,1.605624143,1.349
+2020-12-03,Creative and multimedia,1.493141289,1.340
+2020-12-04,Creative and multimedia,1.421124829,1.364
+2020-12-05,Creative and multimedia,1.336076818,1.365
+2020-12-06,Creative and multimedia,1,1.370
+2020-12-07,Creative and multimedia,1.064471879,1.368
+2020-12-08,Creative and multimedia,1.524005487,1.362
+2020-12-09,Creative and multimedia,1.543209877,1.384
+2020-12-10,Creative and multimedia,1.659122085,1.369
+2020-12-11,Creative and multimedia,1.427297668,1.329
+2020-12-12,Creative and multimedia,1.371056241,1.321
+2020-12-13,Creative and multimedia,0.989026063,1.299
+2020-12-14,Creative and multimedia,1.019890261,1.293
+2020-12-15,Creative and multimedia,1.681069959,1.286
+2020-12-16,Creative and multimedia,1.438271605,1.234
+2020-12-17,Creative and multimedia,1.375171468,1.208
+2020-12-18,Creative and multimedia,1.373113855,1.179
+2020-12-19,Creative and multimedia,1.21399177,1.121
+2020-12-20,Creative and multimedia,0.950617284,1.051
+2020-12-21,Creative and multimedia,0.971193416,1.029
+2020-12-22,Creative and multimedia,1.316186557,1.018
+2020-12-23,Creative and multimedia,1.253772291,1.010
+2020-12-24,Creative and multimedia,1.17558299,0.999
+2020-12-25,Creative and multimedia,0.967078189,1.000
+2020-12-26,Creative and multimedia,0.724279835,0.998
+2020-12-27,Creative and multimedia,0.795610425,0.996
+2020-12-28,Creative and multimedia,0.891632373,1.026
+2020-12-29,Creative and multimedia,1.265432099,1.049
+2020-12-30,Creative and multimedia,1.172153635,1.068
+2020-12-31,Creative and multimedia,1.184499314,1.109
+2021-01-01,Creative and multimedia,0.953360768,1.260
+2021-01-02,Creative and multimedia,0.712620027,1.315
+2021-01-03,Creative and multimedia,1.002057613,1.393
+2021-01-04,Creative and multimedia,1.052812071,1.395
+2021-01-05,Creative and multimedia,1.400548697,1.389
+2021-01-06,Creative and multimedia,1.45473251,1.391
+2021-01-07,Creative and multimedia,2.245541838,1.398
+2021-01-08,Creative and multimedia,1.338820302,1.470
+2021-01-09,Creative and multimedia,1.257201646,1.472
+2021-01-10,Creative and multimedia,1.015775034,1.438
+2021-01-11,Creative and multimedia,1.009602195,1.454
+2021-01-12,Creative and multimedia,1.412208505,1.530
+2021-01-13,Creative and multimedia,1.508230453,1.568
+2021-01-15,Creative and multimedia,2.746227709,1.570
+2021-01-16,Creative and multimedia,1.356652949,1.399
+2021-01-17,Creative and multimedia,1.020576132,1.396
+2021-01-18,Creative and multimedia,1.121399177,1.419
+2021-01-19,Creative and multimedia,1.541838134,1.409
+2021-01-20,Creative and multimedia,1.682441701,1.412
+2021-01-21,Creative and multimedia,1.524005487,1.397
+2021-01-22,Creative and multimedia,1.54526749,1.411
+2021-01-23,Creative and multimedia,1.338820302,1.410
+2021-01-24,Creative and multimedia,1.179698217,1.415
+2021-01-25,Creative and multimedia,1.048696845,1.405
+2021-01-26,Creative and multimedia,1.561728395,1.394
+2021-01-27,Creative and multimedia,1.583676269,1.396
+2021-01-28,Creative and multimedia,1.617969822,1.400
+2021-01-29,Creative and multimedia,1.538408779,1.398
+2021-01-30,Creative and multimedia,1.377229081,1.403
+2021-01-31,Creative and multimedia,1.104938272,1.411
+2021-02-01,Creative and multimedia,0.975994513,1.404
+2021-02-02,Creative and multimedia,1.576817558,1.424
+2021-02-03,Creative and multimedia,1.605624143,1.419
+2021-02-04,Creative and multimedia,1.604938272,1.418
+2021-02-05,Creative and multimedia,1.572702332,1.429
+2021-02-06,Creative and multimedia,1.438957476,1.425
+2021-02-07,Creative and multimedia,1.052812071,1.411
+2021-02-08,Creative and multimedia,1.113168724,1.414
+2021-02-09,Creative and multimedia,1.54526749,1.398
+2021-02-10,Creative and multimedia,1.601508916,1.389
+2021-02-11,Creative and multimedia,1.680384088,1.389
+2021-02-12,Creative and multimedia,1.54526749,1.374
+2021-02-13,Creative and multimedia,1.339506173,1.385
+2021-02-14,Creative and multimedia,1.074759945,1.336
+2021-02-15,Creative and multimedia,0.995884774,1.337
+2021-02-16,Creative and multimedia,1.487654321,1.419
+2021-02-17,Creative and multimedia,1.600823045,1.418
+2021-02-18,Creative and multimedia,1.570644719,1.379
+2021-02-19,Creative and multimedia,1.624828532,1.364
+2020-01-01,Professional services,1,1.322
+2020-01-02,Professional services,1.079136691,1.344
+2020-01-03,Professional services,1.568345324,1.363
+2020-01-04,Professional services,1.482014388,1.382
+2020-01-05,Professional services,1.330935252,1.396
+2020-01-06,Professional services,1.460431655,1.402
+2020-01-07,Professional services,1.330935252,1.413
+2020-01-08,Professional services,1.158273381,1.455
+2020-01-09,Professional services,1.208633094,1.525
+2020-01-10,Professional services,1.705035971,1.585
+2020-01-11,Professional services,1.575539568,1.587
+2020-01-12,Professional services,1.374100719,1.636
+2020-01-13,Professional services,1.539568345,1.643
+2020-01-14,Professional services,1.625899281,1.597
+2020-01-15,Professional services,1.647482014,1.645
+2020-01-16,Professional services,1.625899281,1.633
+2020-01-17,Professional services,1.71942446,1.617
+2020-01-18,Professional services,1.920863309,1.592
+2020-01-19,Professional services,1.424460432,1.557
+2020-01-20,Professional services,1.215827338,1.522
+2020-01-21,Professional services,1.964028777,1.536
+2020-01-22,Professional services,1.561151079,1.512
+2020-01-23,Professional services,1.510791367,1.539
+2020-01-24,Professional services,1.54676259,1.558
+2020-01-25,Professional services,1.676258993,1.564
+2020-01-26,Professional services,1.179856115,1.556
+2020-01-27,Professional services,1.316546763,1.564
+2020-01-28,Professional services,1.791366906,1.567
+2020-01-29,Professional services,1.748201439,1.570
+2020-01-30,Professional services,1.647482014,1.602
+2020-01-31,Professional services,1.589928058,1.645
+2020-02-01,Professional services,1.618705036,1.716
+2020-02-02,Professional services,1.237410072,1.787
+2020-02-03,Professional services,1.338129496,1.863
+2020-02-04,Professional services,1.81294964,1.901
+2020-02-05,Professional services,1.971223022,1.906
+2020-02-06,Professional services,1.949640288,1.866
+2020-02-07,Professional services,2.086330935,1.820
+2020-02-08,Professional services,2.115107914,1.836
+2020-02-09,Professional services,1.769784173,1.823
+2020-02-10,Professional services,1.604316547,1.848
+2020-02-11,Professional services,1.848920863,1.812
+2020-02-12,Professional services,1.690647482,1.821
+2020-02-13,Professional services,1.625899281,1.830
+2020-02-14,Professional services,2.194244604,1.884
+2020-02-15,Professional services,2.028776978,1.818
+2020-02-16,Professional services,1.942446043,1.810
+2020-02-17,Professional services,1.352517986,1.756
+2020-02-18,Professional services,1.913669065,1.800
+2020-02-19,Professional services,1.755395683,1.804
+2020-02-20,Professional services,2,1.857
+2020-02-21,Professional services,1.73381295,1.792
+2020-02-22,Professional services,1.971223022,1.844
+2020-02-23,Professional services,1.568345324,1.806
+2020-02-24,Professional services,1.654676259,1.831
+2020-02-25,Professional services,1.942446043,1.820
+2020-02-26,Professional services,2.129496403,1.850
+2020-02-27,Professional services,1.54676259,1.748
+2020-02-28,Professional services,2.09352518,1.825
+2020-02-29,Professional services,1.705035971,1.826
+2020-03-01,Professional services,1.748201439,1.890
+2020-03-02,Professional services,1.575539568,1.881
+2020-03-03,Professional services,2.151079137,1.866
+2020-03-04,Professional services,1.417266187,1.803
+2020-03-05,Professional services,2.086330935,1.832
+2020-03-06,Professional services,2.100719424,1.803
+2020-03-07,Professional services,2.151079137,1.773
+2020-03-08,Professional services,1.683453237,1.746
+2020-03-09,Professional services,1.474820144,1.741
+2020-03-10,Professional services,1.705035971,1.721
+2020-03-11,Professional services,1.625899281,1.723
+2020-03-12,Professional services,1.877697842,1.717
+2020-03-13,Professional services,1.892086331,1.716
+2020-03-14,Professional services,1.964028777,1.726
+2020-03-15,Professional services,1.647482014,1.745
+2020-03-16,Professional services,1.338129496,1.750
+2020-03-17,Professional services,1.712230216,1.760
+2020-03-18,Professional services,1.589928058,1.757
+2020-03-19,Professional services,1.870503597,1.705
+2020-03-20,Professional services,1.956834532,1.655
+2020-03-21,Professional services,2.100719424,1.626
+2020-03-22,Professional services,1.683453237,1.560
+2020-03-23,Professional services,1.402877698,1.546
+2020-03-24,Professional services,1.697841727,1.590
+2020-03-25,Professional services,1.223021583,1.601
+2020-03-26,Professional services,1.517985612,1.616
+2020-03-27,Professional services,1.755395683,1.638
+2020-03-28,Professional services,1.64028777,1.645
+2020-03-29,Professional services,1.582733813,1.664
+2020-03-30,Professional services,1.712230216,1.670
+2020-03-31,Professional services,1.776978417,1.614
+2020-04-01,Professional services,1.323741007,1.554
+2020-04-02,Professional services,1.676258993,1.596
+2020-04-03,Professional services,1.805755396,1.609
+2020-04-04,Professional services,1.769784173,1.657
+2020-04-05,Professional services,1.625899281,1.729
+2020-04-06,Professional services,1.316546763,1.721
+2020-04-07,Professional services,1.35971223,1.743
+2020-04-08,Professional services,1.618705036,1.780
+2020-04-09,Professional services,1.769784173,1.767
+2020-04-10,Professional services,2.136690647,1.781
+2020-04-11,Professional services,2.273381295,1.736
+2020-04-12,Professional services,1.575539568,1.698
+2020-04-13,Professional services,1.467625899,1.718
+2020-04-14,Professional services,1.618705036,1.754
+2020-04-15,Professional services,1.525179856,1.774
+2020-04-16,Professional services,1.870503597,1.834
+2020-04-17,Professional services,1.820143885,1.845
+2020-04-18,Professional services,2.007194245,1.839
+2020-04-19,Professional services,1.71942446,1.826
+2020-04-20,Professional services,1.71942446,1.801
+2020-04-21,Professional services,1.755395683,1.815
+2020-04-22,Professional services,1.942446043,1.824
+2020-04-23,Professional services,1.949640288,1.816
+2020-04-24,Professional services,1.776978417,1.795
+2020-04-25,Professional services,1.920863309,1.788
+2020-04-26,Professional services,1.539568345,1.761
+2020-04-27,Professional services,1.820143885,1.769
+2020-04-28,Professional services,1.820143885,1.763
+2020-04-29,Professional services,1.884892086,1.787
+2020-04-30,Professional services,1.805755396,1.779
+2020-05-01,Professional services,1.726618705,1.770
+2020-05-02,Professional services,1.726618705,1.802
+2020-05-03,Professional services,1.597122302,1.829
+2020-05-04,Professional services,1.776978417,1.894
+2020-05-05,Professional services,1.992805755,1.846
+2020-05-06,Professional services,1.827338129,1.843
+2020-05-07,Professional services,1.741007194,1.857
+2020-05-08,Professional services,1.949640288,1.866
+2020-05-09,Professional services,1.920863309,1.887
+2020-05-10,Professional services,2.050359712,1.877
+2020-05-11,Professional services,1.438848921,1.850
+2020-05-12,Professional services,1.971223022,1.851
+2020-05-13,Professional services,1.928057554,1.857
+2020-05-14,Professional services,1.805755396,1.860
+2020-05-15,Professional services,2.09352518,1.881
+2020-05-16,Professional services,1.848920863,1.893
+2020-05-17,Professional services,1.863309353,1.932
+2020-05-18,Professional services,1.446043165,1.934
+2020-05-19,Professional services,2.014388489,1.998
+2020-05-20,Professional services,1.949640288,1.996
+2020-05-21,Professional services,1.949640288,1.999
+2020-05-22,Professional services,2.179856115,2.011
+2020-05-23,Professional services,2.122302158,2.022
+2020-05-24,Professional services,1.877697842,2.005
+2020-05-25,Professional services,1.892086331,1.925
+2020-05-26,Professional services,2,1.830
+2020-05-27,Professional services,1.971223022,1.759
+2020-05-28,Professional services,2.035971223,1.675
+2020-05-29,Professional services,2.251798561,1.563
+2020-05-30,Professional services,2.003597122,1.471
+2020-05-31,Professional services,1.323741007,1.392
+2020-06-01,Professional services,1.223021583,1.413
+2020-06-02,Professional services,1.503597122,1.395
+2020-06-03,Professional services,1.381294964,1.443
+2020-06-04,Professional services,1.251798561,1.440
+2020-06-05,Professional services,1.611510791,1.465
+2020-06-06,Professional services,1.446043165,1.435
+2020-06-07,Professional services,1.474820144,1.446
+2020-06-08,Professional services,1.09352518,1.462
+2020-06-09,Professional services,1.841726619,1.532
+2020-06-10,Professional services,1.35971223,1.492
+2020-06-11,Professional services,1.424460432,1.468
+2020-06-12,Professional services,1.402877698,1.471
+2020-06-13,Professional services,1.525179856,1.480
+2020-06-14,Professional services,1.589928058,1.471
+2020-06-15,Professional services,1.582733813,1.377
+2020-06-16,Professional services,1.557553957,1.317
+2020-06-17,Professional services,1.194244604,1.284
+2020-06-18,Professional services,1.446043165,1.271
+2020-06-19,Professional services,1.467625899,1.248
+2020-06-20,Professional services,1.460431655,1.234
+2020-06-21,Professional services,0.928057554,1.185
+2020-06-22,Professional services,1.165467626,1.199
+2020-06-23,Professional services,1.323741007,1.190
+2020-06-24,Professional services,1.107913669,1.246
+2020-06-25,Professional services,1.28057554,1.248
+2020-06-26,Professional services,1.374100719,1.250
+2020-06-27,Professional services,1.115107914,1.283
+2020-06-28,Professional services,1.028776978,1.345
+2020-06-29,Professional services,1.100719424,1.376
+2020-06-30,Professional services,1.712230216,1.400
+2020-07-01,Professional services,1.122302158,1.269
+2020-07-02,Professional services,1.294964029,1.229
+2020-07-03,Professional services,1.604316547,1.192
+2020-07-04,Professional services,1.553956835,1.038
+2020-07-05,Professional services,1.244604317,1.005
+2020-07-06,Professional services,1.26618705,1.042
+2020-07-10,Professional services,0.798561151,1.088
+2020-07-11,Professional services,0.841726619,1.137
+2020-07-12,Professional services,1.032374101,1.172
+2020-07-13,Professional services,0.525179856,1.147
+2020-07-14,Professional services,1.323741007,1.216
+2020-07-15,Professional services,1.503597122,1.090
+2020-07-16,Professional services,1.589928058,1.146
+2020-07-17,Professional services,1.143884892,1.099
+2020-07-18,Professional services,1.086330935,1.121
+2020-07-19,Professional services,0.856115108,1.159
+2020-07-20,Professional services,1.007194245,1.192
+2020-07-21,Professional services,0.446043165,1.198
+2020-07-22,Professional services,1.892086331,1.312
+2020-07-23,Professional services,1.258992806,1.208
+2020-07-24,Professional services,1.302158273,1.237
+2020-07-25,Professional services,1.352517986,1.254
+2020-07-26,Professional services,1.086330935,1.244
+2020-07-27,Professional services,1.050359712,1.238
+2020-07-28,Professional services,1.244604317,1.214
+2020-07-29,Professional services,1.158273381,1.215
+2020-07-30,Professional services,1.467625899,1.232
+2020-07-31,Professional services,1.417266187,1.203
+2020-08-01,Professional services,1.28057554,1.165
+2020-08-02,Professional services,1.050359712,1.150
+2020-08-03,Professional services,0.877697842,1.137
+2020-08-04,Professional services,1.251798561,1.147
+2020-08-05,Professional services,1.28057554,1.129
+2020-08-06,Professional services,1.26618705,1.102
+2020-08-07,Professional services,1.151079137,1.102
+2020-08-08,Professional services,1.172661871,1.160
+2020-08-09,Professional services,0.956834532,1.117
+2020-08-10,Professional services,0.949640288,1.163
+2020-08-11,Professional services,1.129496403,1.180
+2020-08-12,Professional services,1.086330935,1.195
+2020-08-13,Professional services,1.26618705,1.157
+2020-08-14,Professional services,1.561151079,1.214
+2020-08-15,Professional services,0.870503597,1.124
+2020-08-16,Professional services,1.28057554,1.247
+2020-08-17,Professional services,1.064748201,1.209
+2020-08-18,Professional services,1.237410072,1.219
+2020-08-19,Professional services,0.820143885,1.208
+2020-08-20,Professional services,1.661870504,1.290
+2020-08-21,Professional services,0.935251799,1.234
+2020-08-22,Professional services,1.726618705,1.295
+2020-08-23,Professional services,1.014388489,1.245
+2020-08-24,Professional services,1.136690647,1.262
+2020-08-25,Professional services,1.158273381,1.233
+2020-08-26,Professional services,1.395683453,1.254
+2020-08-27,Professional services,1.273381295,1.220
+2020-08-28,Professional services,1.35971223,1.245
+2020-08-29,Professional services,1.374100719,1.184
+2020-08-30,Professional services,1.136690647,1.266
+2020-08-31,Professional services,0.935251799,1.233
+2020-09-01,Professional services,1.302158273,1.248
+2020-09-02,Professional services,1.158273381,1.233
+2020-09-03,Professional services,1.446043165,1.270
+2020-09-04,Professional services,0.935251799,1.283
+2020-09-05,Professional services,1.949640288,1.372
+2020-09-06,Professional services,0.90647482,1.274
+2020-09-07,Professional services,1.035971223,1.303
+2020-09-08,Professional services,1.201438849,1.307
+2020-09-09,Professional services,1.417266187,1.313
+2020-09-10,Professional services,1.532374101,1.286
+2020-09-11,Professional services,1.561151079,1.258
+2020-09-12,Professional services,1.26618705,1.250
+2020-09-13,Professional services,1.107913669,1.305
+2020-09-14,Professional services,1.064748201,1.286
+2020-09-15,Professional services,1.244604317,1.291
+2020-09-16,Professional services,1.223021583,1.307
+2020-09-17,Professional services,1.338129496,1.329
+2020-09-18,Professional services,1.503597122,1.335
+2020-09-19,Professional services,1.654676259,1.332
+2020-09-20,Professional services,0.971223022,1.280
+2020-09-21,Professional services,1.100719424,1.307
+2020-09-22,Professional services,1.35971223,1.295
+2020-09-23,Professional services,1.374100719,1.290
+2020-09-24,Professional services,1.381294964,1.283
+2020-09-25,Professional services,1.482014388,1.259
+2020-09-26,Professional services,1.287769784,1.255
+2020-09-27,Professional services,1.165467626,1.268
+2020-09-28,Professional services,1.014388489,1.274
+2020-09-29,Professional services,1.323741007,1.276
+2020-09-30,Professional services,1.323741007,1.274
+2020-10-01,Professional services,1.215827338,1.262
+2020-10-02,Professional services,1.45323741,1.269
+2020-10-03,Professional services,1.381294964,1.272
+2020-10-04,Professional services,1.208633094,1.268
+2020-10-05,Professional services,1.028776978,1.229
+2020-10-06,Professional services,1.309352518,1.236
+2020-10-07,Professional services,1.237410072,1.183
+2020-10-08,Professional services,1.26618705,1.211
+2020-10-09,Professional services,1.474820144,1.226
+2020-10-10,Professional services,1.352517986,1.213
+2020-10-11,Professional services,0.935251799,1.215
+2020-10-12,Professional services,1.079136691,1.261
+2020-10-13,Professional services,0.935251799,1.256
+2020-10-14,Professional services,1.431654676,1.336
+2020-10-15,Professional services,1.374100719,1.313
+2020-10-16,Professional services,1.381294964,1.327
+2020-10-17,Professional services,1.366906475,1.365
+2020-10-18,Professional services,1.258992806,1.387
+2020-10-19,Professional services,1.043165468,1.452
+2020-10-20,Professional services,1.496402878,1.581
+2020-10-21,Professional services,1.273381295,1.743
+2020-10-22,Professional services,1.467625899,1.886
+2020-10-23,Professional services,1.647482014,2.011
+2020-10-24,Professional services,1.525179856,2.155
+2020-10-25,Professional services,1.712230216,2.182
+2020-10-26,Professional services,1.942446043,2.362
+2020-10-27,Professional services,2.633093525,2.338
+2020-10-28,Professional services,2.273381295,2.240
+2020-10-29,Professional services,2.345323741,2.257
+2020-10-30,Professional services,2.654676259,2.215
+2020-10-31,Professional services,1.712230216,2.133
+2020-11-01,Professional services,2.971223022,2.170
+2020-11-02,Professional services,1.776978417,2.005
+2020-11-03,Professional services,1.949640288,2.008
+2020-11-04,Professional services,2.388489209,2.068
+2020-11-05,Professional services,2.050359712,2.018
+2020-11-06,Professional services,2.079136691,2.091
+2020-11-07,Professional services,1.971223022,2.079
+2020-11-08,Professional services,1.820143885,2.127
+2020-11-09,Professional services,1.798561151,2.144
+2020-11-10,Professional services,2.366906475,2.128
+2020-11-11,Professional services,2.043165468,2.083
+2020-11-12,Professional services,2.561151079,2.065
+2020-11-13,Professional services,1.992805755,2.036
+2020-11-14,Professional services,2.309352518,2.081
+2020-11-15,Professional services,1.935251799,2.088
+2020-11-16,Professional services,1.690647482,2.054
+2020-11-17,Professional services,2.050359712,2.086
+2020-11-18,Professional services,1.913669065,2.099
+2020-11-19,Professional services,2.35971223,2.132
+2020-11-20,Professional services,2.309352518,2.103
+2020-11-21,Professional services,2.35971223,2.092
+2020-11-22,Professional services,1.697841727,2.048
+2020-11-23,Professional services,1.913669065,2.083
+2020-11-24,Professional services,2.136690647,2.042
+2020-11-25,Professional services,2.143884892,2.080
+2020-11-26,Professional services,2.158273381,2.073
+2020-11-27,Professional services,2.237410072,2.079
+2020-11-28,Professional services,2.050359712,2.070
+2020-11-29,Professional services,1.942446043,2.067
+2020-11-30,Professional services,1.625899281,2.024
+2020-12-01,Professional services,2.402877698,2.058
+2020-12-02,Professional services,2.09352518,1.994
+2020-12-03,Professional services,2.201438849,2.007
+2020-12-04,Professional services,2.172661871,2.058
+2020-12-05,Professional services,2.028776978,2.108
+2020-12-06,Professional services,1.64028777,2.121
+2020-12-07,Professional services,1.863309353,2.162
+2020-12-08,Professional services,1.956834532,2.127
+2020-12-09,Professional services,2.18705036,2.146
+2020-12-10,Professional services,2.553956835,2.143
+2020-12-11,Professional services,2.525179856,2.124
+2020-12-12,Professional services,2.122302158,2.143
+2020-12-13,Professional services,1.928057554,2.137
+2020-12-14,Professional services,1.618705036,2.076
+2020-12-15,Professional services,2.086330935,2.076
+2020-12-16,Professional services,2.165467626,2.067
+2020-12-17,Professional services,2.424460432,2.063
+2020-12-18,Professional services,2.654676259,2.004
+2020-12-19,Professional services,2.079136691,1.916
+2020-12-20,Professional services,1.503597122,1.853
+2020-12-21,Professional services,1.618705036,1.814
+2020-12-22,Professional services,2.021582734,1.782
+2020-12-23,Professional services,2.136690647,1.804
+2020-12-24,Professional services,2.014388489,1.824
+2020-12-25,Professional services,2.035971223,1.793
+2020-12-26,Professional services,1.64028777,1.735
+2020-12-27,Professional services,1.230215827,1.701
+2020-12-28,Professional services,1.395683453,1.781
+2020-12-29,Professional services,2.172661871,1.822
+2020-12-30,Professional services,2.28057554,1.857
+2020-12-31,Professional services,1.798561151,1.887
+2021-01-01,Professional services,1.625899281,1.923
+2021-01-02,Professional services,1.402877698,2.084
+2021-01-03,Professional services,1.791366906,2.232
+2021-01-04,Professional services,1.683453237,2.263
+2021-01-05,Professional services,2.417266187,2.283
+2021-01-06,Professional services,2.489208633,2.312
+2021-01-07,Professional services,2.050359712,2.354
+2021-01-08,Professional services,2.755395683,2.378
+2021-01-09,Professional services,2.438848921,2.329
+2021-01-10,Professional services,2.007194245,2.256
+2021-01-11,Professional services,1.820143885,2.237
+2021-01-12,Professional services,2.625899281,2.380
+2021-01-13,Professional services,2.776978417,2.390
+2021-01-15,Professional services,2.223021583,2.328
+2021-01-16,Professional services,2.410071942,2.413
+2021-01-17,Professional services,1.928057554,2.465
+2021-01-18,Professional services,1.877697842,2.452
+2021-01-19,Professional services,2.820143885,2.455
+2021-01-20,Professional services,2.690647482,2.381
+2021-01-21,Professional services,2.348920863,2.375
+2021-01-22,Professional services,2.81294964,2.340
+2021-01-23,Professional services,2.776978417,2.349
+2021-01-24,Professional services,1.834532374,2.359
+2021-01-25,Professional services,1.899280576,2.379
+2021-01-26,Professional services,2.305755396,2.390
+2021-01-27,Professional services,2.647482014,2.405
+2021-01-28,Professional services,2.102517986,2.455
+2021-01-29,Professional services,2.877697842,2.468
+2021-01-30,Professional services,2.848920863,2.442
+2021-01-31,Professional services,1.971223022,2.443
+2021-02-01,Professional services,1.978417266,2.458
+2021-02-02,Professional services,2.410071942,2.459
+2021-02-03,Professional services,2.992805755,2.467
+2021-02-04,Professional services,2.194244604,2.329
+2021-02-05,Professional services,2.701438849,2.333
+2021-02-06,Professional services,2.856115108,2.268
+2021-02-07,Professional services,2.071942446,2.259
+2021-02-08,Professional services,1.985611511,2.267
+2021-02-09,Professional services,2.464028777,2.273
+2021-02-10,Professional services,2.028776978,2.327
+2021-02-11,Professional services,2.224820144,2.335
+2021-02-12,Professional services,2.246402878,2.365
+2021-02-13,Professional services,2.791366906,2.395
+2021-02-14,Professional services,2.129496403,2.139
+2021-02-15,Professional services,2.028776978,1.957
+2021-02-16,Professional services,2.841726619,1.855
+2021-02-17,Professional services,2.079136691,1.647
+2021-02-18,Professional services,2.435251799,1.506
+2021-02-19,Professional services,2.460431655,1.311
+2020-01-01,Sales and marketing,1,1.167
+2020-01-02,Sales and marketing,0.854356307,1.247
+2020-01-03,Sales and marketing,1.310793238,1.364
+2020-01-04,Sales and marketing,1.386215865,1.406
+2020-01-05,Sales and marketing,1.097529259,1.419
+2020-01-06,Sales and marketing,1.067620286,1.417
+2020-01-07,Sales and marketing,1.44993498,1.428
+2020-01-08,Sales and marketing,1.561768531,1.456
+2020-01-09,Sales and marketing,1.677503251,1.494
+2020-01-10,Sales and marketing,1.603381014,1.503
+2020-01-11,Sales and marketing,1.478543563,1.530
+2020-01-12,Sales and marketing,1.079323797,1.539
+2020-01-13,Sales and marketing,1.144343303,1.546
+2020-01-14,Sales and marketing,1.646293888,1.539
+2020-01-15,Sales and marketing,1.825747724,1.582
+2020-01-16,Sales and marketing,1.745123537,1.592
+2020-01-17,Sales and marketing,1.788036411,1.584
+2020-01-18,Sales and marketing,1.546163849,1.587
+2020-01-19,Sales and marketing,1.127438231,1.572
+2020-01-20,Sales and marketing,1.092327698,1.569
+2020-01-21,Sales and marketing,1.949284785,1.570
+2020-01-22,Sales and marketing,1.895968791,1.529
+2020-01-23,Sales and marketing,1.691807542,1.508
+2020-01-24,Sales and marketing,1.804941482,1.535
+2020-01-25,Sales and marketing,1.44473342,1.522
+2020-01-26,Sales and marketing,1.104031209,1.528
+2020-01-27,Sales and marketing,1.100130039,1.537
+2020-01-28,Sales and marketing,1.659297789,1.542
+2020-01-29,Sales and marketing,1.747724317,1.560
+2020-01-30,Sales and marketing,1.88426528,1.584
+2020-01-31,Sales and marketing,1.711313394,1.570
+2020-02-01,Sales and marketing,1.491547464,1.575
+2020-02-02,Sales and marketing,1.162548765,1.592
+2020-02-03,Sales and marketing,1.133940182,1.597
+2020-02-04,Sales and marketing,1.789336801,1.599
+2020-02-05,Sales and marketing,1.911573472,1.591
+2020-02-06,Sales and marketing,1.790637191,1.580
+2020-02-07,Sales and marketing,1.743823147,1.574
+2020-02-08,Sales and marketing,1.611183355,1.586
+2020-02-09,Sales and marketing,1.197659298,1.582
+2020-02-10,Sales and marketing,1.152145644,1.568
+2020-02-11,Sales and marketing,1.732119636,1.559
+2020-02-12,Sales and marketing,1.834850455,1.557
+2020-02-13,Sales and marketing,1.746423927,1.532
+2020-02-14,Sales and marketing,1.830949285,1.536
+2020-02-15,Sales and marketing,1.579973992,1.527
+2020-02-16,Sales and marketing,1.096228869,1.532
+2020-02-17,Sales and marketing,1.093628088,1.537
+2020-02-18,Sales and marketing,1.717815345,1.544
+2020-02-19,Sales and marketing,1.66189857,1.544
+2020-02-20,Sales and marketing,1.768530559,1.570
+2020-02-21,Sales and marketing,1.77243173,1.567
+2020-02-22,Sales and marketing,1.611183355,1.550
+2020-02-23,Sales and marketing,1.135240572,1.521
+2020-02-24,Sales and marketing,1.139141743,1.520
+2020-02-25,Sales and marketing,1.720416125,1.517
+2020-02-26,Sales and marketing,1.841352406,1.518
+2020-02-27,Sales and marketing,1.751625488,1.490
+2020-02-28,Sales and marketing,1.654096229,1.495
+2020-02-29,Sales and marketing,1.403120936,1.490
+2020-03-01,Sales and marketing,1.130039012,1.514
+2020-03-02,Sales and marketing,1.117035111,1.518
+2020-03-03,Sales and marketing,1.726918075,1.510
+2020-03-04,Sales and marketing,1.643693108,1.499
+2020-03-05,Sales and marketing,1.789336801,1.501
+2020-03-06,Sales and marketing,1.622886866,1.495
+2020-03-07,Sales and marketing,1.566970091,1.476
+2020-03-08,Sales and marketing,1.158647594,1.438
+2020-03-09,Sales and marketing,1.063719116,1.407
+2020-03-10,Sales and marketing,1.644993498,1.396
+2020-03-11,Sales and marketing,1.659297789,1.344
+2020-03-12,Sales and marketing,1.745123537,1.286
+2020-03-13,Sales and marketing,1.490247074,1.226
+2020-03-14,Sales and marketing,1.302990897,1.198
+2020-03-15,Sales and marketing,0.941482445,1.179
+2020-03-16,Sales and marketing,0.985695709,1.192
+2020-03-17,Sales and marketing,1.283485046,1.174
+2020-03-18,Sales and marketing,1.250975293,1.164
+2020-03-19,Sales and marketing,1.327698309,1.156
+2020-03-20,Sales and marketing,1.291287386,1.134
+2020-03-21,Sales and marketing,1.169050715,1.122
+2020-03-22,Sales and marketing,1.033810143,1.115
+2020-03-23,Sales and marketing,0.860858257,1.095
+2020-03-24,Sales and marketing,1.213263979,1.102
+2020-03-25,Sales and marketing,1.196358908,1.107
+2020-03-26,Sales and marketing,1.172951886,1.132
+2020-03-27,Sales and marketing,1.205461638,1.161
+2020-03-28,Sales and marketing,1.119635891,1.173
+2020-03-29,Sales and marketing,0.894668401,1.189
+2020-03-30,Sales and marketing,0.912873862,1.198
+2020-03-31,Sales and marketing,1.248374512,1.206
+2020-04-01,Sales and marketing,1.371911573,1.209
+2020-04-02,Sales and marketing,1.370611183,1.211
+2020-04-03,Sales and marketing,1.289986996,1.226
+2020-04-04,Sales and marketing,1.237971391,1.255
+2020-04-05,Sales and marketing,0.957087126,1.290
+2020-04-06,Sales and marketing,0.963589077,1.328
+2020-04-07,Sales and marketing,1.269180754,1.338
+2020-04-08,Sales and marketing,1.387516255,1.370
+2020-04-09,Sales and marketing,1.475942783,1.411
+2020-04-10,Sales and marketing,1.491547464,1.428
+2020-04-11,Sales and marketing,1.482444733,1.445
+2020-04-12,Sales and marketing,1.2236671,1.472
+2020-04-13,Sales and marketing,1.035110533,1.483
+2020-04-14,Sales and marketing,1.495448635,1.524
+2020-04-15,Sales and marketing,1.6710013,1.543
+2020-04-16,Sales and marketing,1.595578674,1.571
+2020-04-17,Sales and marketing,1.609882965,1.609
+2020-04-18,Sales and marketing,1.6710013,1.635
+2020-04-19,Sales and marketing,1.302990897,1.647
+2020-04-20,Sales and marketing,1.321196359,1.652
+2020-04-21,Sales and marketing,1.630689207,1.670
+2020-04-22,Sales and marketing,1.867360208,1.711
+2020-04-23,Sales and marketing,1.860858257,1.700
+2020-04-24,Sales and marketing,1.789336801,1.682
+2020-04-25,Sales and marketing,1.758127438,1.684
+2020-04-26,Sales and marketing,1.33550065,1.650
+2020-04-27,Sales and marketing,1.44993498,1.650
+2020-04-28,Sales and marketing,1.919375813,1.636
+2020-04-29,Sales and marketing,1.788036411,1.621
+2020-04-30,Sales and marketing,1.733420026,1.632
+2020-05-01,Sales and marketing,1.801040312,1.673
+2020-05-02,Sales and marketing,1.522756827,1.675
+2020-05-03,Sales and marketing,1.33289987,1.697
+2020-05-04,Sales and marketing,1.351105332,1.711
+2020-05-05,Sales and marketing,1.820546164,1.698
+2020-05-06,Sales and marketing,1.859557867,1.691
+2020-05-07,Sales and marketing,2.023407022,1.699
+2020-05-08,Sales and marketing,1.811443433,1.698
+2020-05-09,Sales and marketing,1.677503251,1.721
+2020-05-10,Sales and marketing,1.433029909,1.742
+2020-05-11,Sales and marketing,1.262678804,1.756
+2020-05-12,Sales and marketing,1.769830949,1.772
+2020-05-13,Sales and marketing,1.918075423,1.780
+2020-05-14,Sales and marketing,2.011703511,1.770
+2020-05-15,Sales and marketing,1.976592978,1.771
+2020-05-16,Sales and marketing,1.824447334,1.752
+2020-05-17,Sales and marketing,1.526657997,1.731
+2020-05-18,Sales and marketing,1.378413524,1.716
+2020-05-19,Sales and marketing,1.825747724,1.700
+2020-05-20,Sales and marketing,1.847854356,1.690
+2020-05-21,Sales and marketing,2.015604681,1.684
+2020-05-22,Sales and marketing,1.847854356,1.664
+2020-05-23,Sales and marketing,1.674902471,1.648
+2020-05-24,Sales and marketing,1.421326398,1.744
+2020-05-25,Sales and marketing,1.267880364,1.693
+2020-05-26,Sales and marketing,1.752925878,1.654
+2020-05-27,Sales and marketing,1.810143043,1.581
+2020-05-28,Sales and marketing,1.872561769,1.508
+2020-05-29,Sales and marketing,1.736020806,1.342
+2020-05-30,Sales and marketing,2.349804941,1.276
+2020-05-31,Sales and marketing,1.059817945,1.099
+2020-06-01,Sales and marketing,0.99479844,1.095
+2020-06-02,Sales and marketing,1.241872562,1.072
+2020-06-03,Sales and marketing,1.304291287,1.053
+2020-06-04,Sales and marketing,0.708712614,1.049
+2020-06-05,Sales and marketing,1.275682705,1.136
+2020-06-06,Sales and marketing,1.10793238,1.127
+2020-06-07,Sales and marketing,1.031209363,1.390
+2020-06-08,Sales and marketing,0.836150845,1.394
+2020-06-09,Sales and marketing,1.105331599,1.430
+2020-06-10,Sales and marketing,1.280884265,1.651
+2020-06-11,Sales and marketing,1.314694408,1.653
+2020-06-12,Sales and marketing,1.210663199,1.643
+2020-06-13,Sales and marketing,2.951885566,1.645
+2020-06-14,Sales and marketing,1.058517555,1.380
+2020-06-15,Sales and marketing,1.089726918,1.352
+2020-06-16,Sales and marketing,2.647594278,1.310
+2020-06-17,Sales and marketing,1.296488947,1.110
+2020-06-18,Sales and marketing,1.245773732,1.106
+2020-06-19,Sales and marketing,1.22236671,1.098
+2020-06-20,Sales and marketing,1.100130039,1.100
+2020-06-21,Sales and marketing,0.859557867,1.092
+2020-06-22,Sales and marketing,0.797139142,1.091
+2020-06-23,Sales and marketing,1.248374512,1.087
+2020-06-24,Sales and marketing,1.266579974,1.092
+2020-06-25,Sales and marketing,1.188556567,1.083
+2020-06-26,Sales and marketing,1.240572172,1.092
+2020-06-27,Sales and marketing,1.042912874,1.084
+2020-06-28,Sales and marketing,0.851755527,1.100
+2020-06-29,Sales and marketing,0.768530559,1.106
+2020-06-30,Sales and marketing,1.282184655,1.128
+2020-07-01,Sales and marketing,1.209362809,1.048
+2020-07-02,Sales and marketing,1.247074122,0.964
+2020-07-03,Sales and marketing,1.184655397,1.170
+2020-07-04,Sales and marketing,1.153446034,1.059
+2020-07-05,Sales and marketing,0.894668401,1.066
+2020-07-06,Sales and marketing,0.925877763,1.129
+2020-07-10,Sales and marketing,0.723016905,1.192
+2020-07-11,Sales and marketing,0.616384915,1.276
+2020-07-12,Sales and marketing,2.694408322,1.338
+2020-07-13,Sales and marketing,0.407022107,1.087
+2020-07-14,Sales and marketing,1.201560468,1.156
+2020-07-15,Sales and marketing,1.33810143,1.045
+2020-07-16,Sales and marketing,1.364109233,1.145
+2020-07-17,Sales and marketing,1.310793238,1.138
+2020-07-18,Sales and marketing,1.052015605,1.131
+2020-07-19,Sales and marketing,0.932379714,1.140
+2020-07-20,Sales and marketing,0.89076723,1.125
+2020-07-21,Sales and marketing,0.423927178,1.132
+2020-07-22,Sales and marketing,2.041612484,1.246
+2020-07-23,Sales and marketing,1.312093628,1.147
+2020-07-24,Sales and marketing,1.263979194,1.145
+2020-07-25,Sales and marketing,1.11573472,1.130
+2020-07-26,Sales and marketing,0.828348505,1.144
+2020-07-27,Sales and marketing,0.938881664,1.129
+2020-07-28,Sales and marketing,1.21976593,1.112
+2020-07-29,Sales and marketing,1.349804941,1.109
+2020-07-30,Sales and marketing,1.296488947,1.108
+2020-07-31,Sales and marketing,1.162548765,1.116
+2020-08-01,Sales and marketing,1.214564369,1.128
+2020-08-02,Sales and marketing,0.721716515,1.123
+2020-08-03,Sales and marketing,0.817945384,1.132
+2020-08-04,Sales and marketing,1.202860858,1.135
+2020-08-05,Sales and marketing,1.33810143,1.144
+2020-08-06,Sales and marketing,1.355006502,1.144
+2020-08-07,Sales and marketing,1.247074122,1.142
+2020-08-08,Sales and marketing,1.179453836,1.138
+2020-08-09,Sales and marketing,0.784135241,1.138
+2020-08-10,Sales and marketing,0.840052016,1.148
+2020-08-11,Sales and marketing,1.261378414,1.165
+2020-08-12,Sales and marketing,1.342002601,1.161
+2020-08-13,Sales and marketing,1.33810143,1.155
+2020-08-14,Sales and marketing,1.2236671,1.150
+2020-08-15,Sales and marketing,1.178153446,1.158
+2020-08-16,Sales and marketing,0.854356307,1.145
+2020-08-17,Sales and marketing,0.958387516,1.149
+2020-08-18,Sales and marketing,1.232769831,1.134
+2020-08-19,Sales and marketing,1.299089727,1.132
+2020-08-20,Sales and marketing,1.305591678,1.124
+2020-08-21,Sales and marketing,1.279583875,1.131
+2020-08-22,Sales and marketing,1.084525358,1.126
+2020-08-23,Sales and marketing,0.880364109,1.118
+2020-08-24,Sales and marketing,0.853055917,1.102
+2020-08-25,Sales and marketing,1.21976593,1.082
+2020-08-26,Sales and marketing,1.241872562,1.082
+2020-08-27,Sales and marketing,1.357607282,1.085
+2020-08-28,Sales and marketing,1.247074122,1.094
+2020-08-29,Sales and marketing,1.026007802,1.104
+2020-08-30,Sales and marketing,0.765929779,1.125
+2020-08-31,Sales and marketing,0.715214564,1.126
+2020-09-01,Sales and marketing,1.22106632,1.137
+2020-09-02,Sales and marketing,1.262678804,1.118
+2020-09-03,Sales and marketing,1.421326398,1.126
+2020-09-04,Sales and marketing,1.314694408,1.108
+2020-09-05,Sales and marketing,1.171651495,1.103
+2020-09-06,Sales and marketing,0.77243173,1.106
+2020-09-07,Sales and marketing,0.795838752,1.112
+2020-09-08,Sales and marketing,1.089726918,1.117
+2020-09-09,Sales and marketing,1.314694408,1.140
+2020-09-10,Sales and marketing,1.293888166,1.135
+2020-09-11,Sales and marketing,1.283485046,1.134
+2020-09-12,Sales and marketing,1.188556567,1.140
+2020-09-13,Sales and marketing,0.820546164,1.138
+2020-09-14,Sales and marketing,0.830949285,1.143
+2020-09-15,Sales and marketing,1.245773732,1.142
+2020-09-16,Sales and marketing,1.280884265,1.157
+2020-09-17,Sales and marketing,1.287386216,1.157
+2020-09-18,Sales and marketing,1.322496749,1.173
+2020-09-19,Sales and marketing,1.178153446,1.170
+2020-09-20,Sales and marketing,0.858257477,1.162
+2020-09-21,Sales and marketing,0.823146944,1.172
+2020-09-22,Sales and marketing,1.348504551,1.170
+2020-09-23,Sales and marketing,1.279583875,1.173
+2020-09-24,Sales and marketing,1.399219766,1.190
+2020-09-25,Sales and marketing,1.300390117,1.177
+2020-09-26,Sales and marketing,1.124837451,1.179
+2020-09-27,Sales and marketing,0.929778934,1.173
+2020-09-28,Sales and marketing,0.807542263,1.166
+2020-09-29,Sales and marketing,1.366710013,1.169
+2020-09-30,Sales and marketing,1.399219766,1.149
+2020-10-01,Sales and marketing,1.310793238,1.153
+2020-10-02,Sales and marketing,1.313394018,1.162
+2020-10-03,Sales and marketing,1.083224967,1.152
+2020-10-04,Sales and marketing,0.879063719,1.150
+2020-10-05,Sales and marketing,0.830949285,1.136
+2020-10-06,Sales and marketing,1.228868661,1.129
+2020-10-07,Sales and marketing,1.423927178,1.133
+2020-10-08,Sales and marketing,1.374512354,1.120
+2020-10-09,Sales and marketing,1.244473342,1.112
+2020-10-10,Sales and marketing,1.071521456,1.121
+2020-10-11,Sales and marketing,0.78023407,1.132
+2020-10-12,Sales and marketing,0.77893368,1.140
+2020-10-13,Sales and marketing,1.258777633,1.159
+2020-10-14,Sales and marketing,1.33420026,1.168
+2020-10-15,Sales and marketing,1.315994798,1.176
+2020-10-16,Sales and marketing,1.305591678,1.175
+2020-10-17,Sales and marketing,1.149544863,1.171
+2020-10-18,Sales and marketing,0.840052016,1.200
+2020-10-19,Sales and marketing,0.907672302,1.272
+2020-10-20,Sales and marketing,1.322496749,1.321
+2020-10-21,Sales and marketing,1.388816645,1.417
+2020-10-22,Sales and marketing,1.312093628,1.499
+2020-10-23,Sales and marketing,1.278283485,1.593
+2020-10-24,Sales and marketing,1.350455137,1.682
+2020-10-25,Sales and marketing,1.345903771,1.699
+2020-10-26,Sales and marketing,1.249674902,1.654
+2020-10-27,Sales and marketing,1.993498049,1.646
+2020-10-28,Sales and marketing,1.966189857,1.606
+2020-10-29,Sales and marketing,1.967490247,1.597
+2020-10-30,Sales and marketing,1.903771131,1.554
+2020-10-31,Sales and marketing,1.465539662,1.539
+2020-11-01,Sales and marketing,1.031209363,1.551
+2020-11-02,Sales and marketing,1.191157347,1.564
+2020-11-03,Sales and marketing,1.715214564,1.546
+2020-11-04,Sales and marketing,1.902470741,1.581
+2020-11-05,Sales and marketing,1.6710013,1.569
+2020-11-06,Sales and marketing,1.793237971,1.586
+2020-11-07,Sales and marketing,1.55136541,1.604
+2020-11-08,Sales and marketing,1.123537061,1.598
+2020-11-09,Sales and marketing,1.062418726,1.602
+2020-11-10,Sales and marketing,1.964889467,1.602
+2020-11-11,Sales and marketing,1.814044213,1.586
+2020-11-12,Sales and marketing,1.791937581,1.594
+2020-11-13,Sales and marketing,1.916775033,1.604
+2020-11-14,Sales and marketing,1.511053316,1.591
+2020-11-15,Sales and marketing,1.154746424,1.605
+2020-11-16,Sales and marketing,1.058517555,1.606
+2020-11-17,Sales and marketing,1.853055917,1.615
+2020-11-18,Sales and marketing,1.871261378,1.604
+2020-11-19,Sales and marketing,1.866059818,1.591
+2020-11-20,Sales and marketing,1.823146944,1.575
+2020-11-21,Sales and marketing,1.607282185,1.510
+2020-11-22,Sales and marketing,1.165149545,1.475
+2020-11-23,Sales and marketing,1.117035111,1.462
+2020-11-24,Sales and marketing,1.7763329,1.455
+2020-11-25,Sales and marketing,1.78283485,1.453
+2020-11-26,Sales and marketing,1.750325098,1.457
+2020-11-27,Sales and marketing,1.369310793,1.459
+2020-11-28,Sales and marketing,1.365409623,1.502
+2020-11-29,Sales and marketing,1.071521456,1.527
+2020-11-30,Sales and marketing,1.068920676,1.541
+2020-12-01,Sales and marketing,1.764629389,1.542
+2020-12-02,Sales and marketing,1.811443433,1.539
+2020-12-03,Sales and marketing,1.763328999,1.529
+2020-12-04,Sales and marketing,1.66840052,1.558
+2020-12-05,Sales and marketing,1.540962289,1.568
+2020-12-06,Sales and marketing,1.170351105,1.557
+2020-12-07,Sales and marketing,1.075422627,1.555
+2020-12-08,Sales and marketing,1.746423927,1.568
+2020-12-09,Sales and marketing,1.738621586,1.560
+2020-12-10,Sales and marketing,1.963589077,1.555
+2020-12-11,Sales and marketing,1.741222367,1.518
+2020-12-12,Sales and marketing,1.466840052,1.499
+2020-12-13,Sales and marketing,1.149544863,1.504
+2020-12-14,Sales and marketing,1.167750325,1.487
+2020-12-15,Sales and marketing,1.695708713,1.460
+2020-12-16,Sales and marketing,1.703511053,1.427
+2020-12-17,Sales and marketing,1.698309493,1.391
+2020-12-18,Sales and marketing,1.613784135,1.341
+2020-12-19,Sales and marketing,1.500650195,1.254
+2020-12-20,Sales and marketing,1.026007802,1.149
+2020-12-21,Sales and marketing,0.980494148,1.129
+2020-12-22,Sales and marketing,1.462938882,1.147
+2020-12-23,Sales and marketing,1.455136541,1.158
+2020-12-24,Sales and marketing,1.345903771,1.170
+2020-12-25,Sales and marketing,1.007802341,1.183
+2020-12-26,Sales and marketing,0.762028609,1.185
+2020-12-27,Sales and marketing,0.88556567,1.205
+2020-12-28,Sales and marketing,1.11183355,1.241
+2020-12-29,Sales and marketing,1.539661899,1.261
+2020-12-30,Sales and marketing,1.538361508,1.312
+2020-12-31,Sales and marketing,1.436931079,1.377
+2021-01-01,Sales and marketing,1.023407022,1.500
+2021-01-02,Sales and marketing,0.902470741,1.630
+2021-01-03,Sales and marketing,1.132639792,1.747
+2021-01-04,Sales and marketing,1.254876463,1.755
+2021-01-05,Sales and marketing,1.897269181,1.749
+2021-01-06,Sales and marketing,1.988296489,1.757
+2021-01-07,Sales and marketing,2.301690507,1.755
+2021-01-08,Sales and marketing,1.932379714,1.653
+2021-01-09,Sales and marketing,1.724317295,1.616
+2021-01-10,Sales and marketing,1.183355007,1.544
+2021-01-11,Sales and marketing,1.214564369,1.551
+2021-01-12,Sales and marketing,1.957087126,1.661
+2021-01-13,Sales and marketing,1.971391417,1.683
+2021-01-15,Sales and marketing,1.585825748,1.704
+2021-01-16,Sales and marketing,1.672301691,1.777
+2021-01-17,Sales and marketing,1.22236671,1.790
+2021-01-18,Sales and marketing,1.232769831,1.799
+2021-01-19,Sales and marketing,1.988296489,1.811
+2021-01-20,Sales and marketing,2.10793238,1.826
+2021-01-21,Sales and marketing,2.119635891,1.813
+2021-01-22,Sales and marketing,2.094928479,1.820
+2021-01-23,Sales and marketing,1.762028609,1.792
+2021-01-24,Sales and marketing,1.287386216,1.777
+2021-01-25,Sales and marketing,1.315994798,1.779
+2021-01-26,Sales and marketing,2.094928479,1.771
+2021-01-27,Sales and marketing,2.019505852,1.768
+2021-01-28,Sales and marketing,2.166449935,1.784
+2021-01-29,Sales and marketing,1.897269181,1.773
+2021-01-30,Sales and marketing,1.654096229,1.801
+2021-01-31,Sales and marketing,1.304291287,1.825
+2021-02-01,Sales and marketing,1.260078023,1.825
+2021-02-02,Sales and marketing,2.076723017,1.833
+2021-02-03,Sales and marketing,2.130039012,1.833
+2021-02-04,Sales and marketing,2.088426528,1.846
+2021-02-05,Sales and marketing,2.094928479,1.860
+2021-02-06,Sales and marketing,1.817945384,1.871
+2021-02-07,Sales and marketing,1.305591678,1.858
+2021-02-08,Sales and marketing,1.315994798,1.855
+2021-02-09,Sales and marketing,2.080624187,1.839
+2021-02-10,Sales and marketing,2.215864759,1.818
+2021-02-11,Sales and marketing,2.187256177,1.821
+2021-02-12,Sales and marketing,2.170351105,1.815
+2021-02-13,Sales and marketing,1.726918075,1.818
+2021-02-14,Sales and marketing,1.286085826,1.714
+2021-02-15,Sales and marketing,1.208062419,1.655
+2021-02-16,Sales and marketing,1.932379714,1.663
+2021-02-17,Sales and marketing,2.237971391,1.579
+2021-02-18,Sales and marketing,2.143042913,1.421
+2021-02-19,Sales and marketing,2.189856957,1.268
+2020-01-01,Software development,1,1.155
+2020-01-02,Software development,0.876515987,1.203
+2020-01-03,Software development,1.2646086,1.286
+2020-01-04,Software development,1.343256156,1.322
+2020-01-05,Software development,1.131569276,1.333
+2020-01-06,Software development,1.072767365,1.340
+2020-01-07,Software development,1.397647924,1.364
+2020-01-08,Software development,1.337743477,1.388
+2020-01-09,Software development,1.456082323,1.445
+2020-01-10,Software development,1.513414186,1.463
+2020-01-11,Software development,1.422271224,1.482
+2020-01-12,Software development,1.177508269,1.507
+2020-01-13,Software development,1.245130467,1.521
+2020-01-14,Software development,1.561925763,1.525
+2020-01-15,Software development,1.736493936,1.603
+2020-01-16,Software development,1.581036384,1.600
+2020-01-17,Software development,1.652701213,1.618
+2020-01-18,Software development,1.594634326,1.630
+2020-01-19,Software development,1.276368982,1.629
+2020-01-20,Software development,1.273428886,1.609
+2020-01-21,Software development,2.103638368,1.591
+2020-01-22,Software development,1.715545755,1.553
+2020-01-23,Software development,1.712238148,1.541
+2020-01-24,Software development,1.736861448,1.548
+2020-01-25,Software development,1.587651599,1.541
+2020-01-26,Software development,1.13046674,1.537
+2020-01-27,Software development,1.148107313,1.543
+2020-01-28,Software development,1.84123484,1.538
+2020-01-29,Software development,1.632120544,1.547
+2020-01-30,Software development,1.758177141,1.580
+2020-01-31,Software development,1.691289967,1.586
+2020-02-01,Software development,1.558250643,1.596
+2020-02-02,Software development,1.16832047,1.614
+2020-02-03,Software development,1.114296215,1.622
+2020-02-04,Software development,1.908489526,1.637
+2020-02-05,Software development,1.862918045,1.628
+2020-02-06,Software development,1.796030871,1.617
+2020-02-07,Software development,1.766262404,1.619
+2020-02-08,Software development,1.678794561,1.615
+2020-02-09,Software development,1.226019846,1.590
+2020-02-10,Software development,1.217567071,1.587
+2020-02-11,Software development,1.848585079,1.586
+2020-02-12,Software development,1.784270489,1.571
+2020-02-13,Software development,1.813671444,1.562
+2020-02-14,Software development,1.73906652,1.557
+2020-02-15,Software development,1.498346196,1.561
+2020-02-16,Software development,1.206174201,1.571
+2020-02-17,Software development,1.212789416,1.579
+2020-02-18,Software development,1.742741639,1.581
+2020-02-19,Software development,1.72216097,1.585
+2020-02-20,Software development,1.777655274,1.623
+2020-02-21,Software development,1.768834987,1.609
+2020-02-22,Software development,1.56523337,1.612
+2020-02-23,Software development,1.261300992,1.601
+2020-02-24,Software development,1.227489893,1.604
+2020-02-25,Software development,1.775817714,1.605
+2020-02-26,Software development,1.981991915,1.615
+2020-02-27,Software development,1.680999632,1.562
+2020-02-28,Software development,1.794560823,1.573
+2020-02-29,Software development,1.484748254,1.563
+2020-03-01,Software development,1.284454245,1.582
+2020-03-02,Software development,1.231900037,1.586
+2020-03-03,Software development,1.84490996,1.581
+2020-03-04,Software development,1.613009923,1.553
+2020-03-05,Software development,1.759279677,1.566
+2020-03-06,Software development,1.723263506,1.563
+2020-03-07,Software development,1.619625138,1.549
+2020-03-08,Software development,1.310180081,1.526
+2020-03-09,Software development,1.195883866,1.513
+2020-03-10,Software development,1.647923558,1.499
+2020-03-11,Software development,1.706725469,1.479
+2020-03-12,Software development,1.734288864,1.462
+2020-03-13,Software development,1.627342889,1.443
+2020-03-14,Software development,1.460124954,1.427
+2020-03-15,Software development,1.219772143,1.432
+2020-03-16,Software development,1.099963249,1.442
+2020-03-17,Software development,1.506431459,1.455
+2020-03-18,Software development,1.583608967,1.454
+2020-03-19,Software development,1.601984564,1.422
+2020-03-20,Software development,1.514516722,1.399
+2020-03-21,Software development,1.495406101,1.387
+2020-03-22,Software development,1.294744579,1.363
+2020-03-23,Software development,1.191473723,1.339
+2020-03-24,Software development,1.493201029,1.336
+2020-03-25,Software development,1.363469313,1.364
+2020-03-26,Software development,1.439911797,1.394
+2020-03-27,Software development,1.427783903,1.413
+2020-03-28,Software development,1.327453142,1.434
+2020-03-29,Software development,1.127159133,1.471
+2020-03-30,Software development,1.172730614,1.489
+2020-03-31,Software development,1.686879824,1.510
+2020-04-01,Software development,1.574053657,1.501
+2020-04-02,Software development,1.57662624,1.517
+2020-04-03,Software development,1.570746049,1.561
+2020-04-04,Software development,1.590224182,1.616
+2020-04-05,Software development,1.254685777,1.663
+2020-04-06,Software development,1.31569276,1.696
+2020-04-07,Software development,1.627342889,1.722
+2020-04-08,Software development,1.686512312,1.769
+2020-04-09,Software development,1.884233738,1.807
+2020-04-10,Software development,1.950385888,1.832
+2020-04-11,Software development,1.91877986,1.835
+2020-04-12,Software development,1.491363469,1.848
+2020-04-13,Software development,1.494303565,1.863
+2020-04-14,Software development,1.955163543,1.884
+2020-04-15,Software development,1.955898567,1.890
+2020-04-16,Software development,2.060271959,1.930
+2020-04-17,Software development,1.97170158,1.963
+2020-04-18,Software development,2.009187799,1.959
+2020-04-19,Software development,1.592796766,1.957
+2020-04-20,Software development,1.644983462,1.963
+2020-04-21,Software development,1.998529952,1.983
+2020-04-22,Software development,2.234105108,2.003
+2020-04-23,Software development,2.291436972,1.985
+2020-04-24,Software development,1.940463065,1.954
+2020-04-25,Software development,1.997794928,1.964
+2020-04-26,Software development,1.635795663,1.939
+2020-04-27,Software development,1.782800441,1.938
+2020-04-28,Software development,2.138919515,1.928
+2020-04-29,Software development,2.10584344,1.936
+2020-04-30,Software development,2.077912532,1.933
+2020-05-01,Software development,2.008820287,1.960
+2020-05-02,Software development,1.825431827,1.976
+2020-05-03,Software development,1.624035281,1.981
+2020-05-04,Software development,1.714810731,1.996
+2020-05-05,Software development,2.194413818,1.962
+2020-05-06,Software development,2.083792723,1.935
+2020-05-07,Software development,2.265343624,1.929
+2020-05-08,Software development,2.126056597,1.897
+2020-05-09,Software development,1.857772878,1.894
+2020-05-10,Software development,1.732451305,1.916
+2020-05-11,Software development,1.475560456,1.919
+2020-05-12,Software development,2.006247703,1.925
+2020-05-13,Software development,2.040426314,1.937
+2020-05-14,Software development,2.037486218,1.955
+2020-05-15,Software development,2.10584344,1.981
+2020-05-16,Software development,2.014332966,1.982
+2020-05-17,Software development,1.75229695,1.958
+2020-05-18,Software development,1.519661889,1.946
+2020-05-19,Software development,2.089672914,1.946
+2020-05-20,Software development,2.163542815,1.925
+2020-05-21,Software development,2.223447262,1.915
+2020-05-22,Software development,2.113928703,1.895
+2020-05-23,Software development,1.844542448,1.881
+2020-05-24,Software development,1.670341786,1.916
+2020-05-25,Software development,1.515251746,1.870
+2020-05-26,Software development,1.945608232,1.849
+2020-05-27,Software development,2.09261301,1.797
+2020-05-28,Software development,2.080485116,1.722
+2020-05-29,Software development,2.020948181,1.606
+2020-05-30,Software development,2.086549063,1.549
+2020-05-31,Software development,1.345828739,1.454
+2020-06-01,Software development,1.373024623,1.454
+2020-06-02,Software development,1.57662624,1.424
+2020-06-03,Software development,1.56707093,1.405
+2020-06-04,Software development,1.272693863,1.394
+2020-06-05,Software development,1.621462698,1.432
+2020-06-06,Software development,1.420801176,1.399
+2020-06-07,Software development,1.347298787,1.529
+2020-06-08,Software development,1.159500184,1.534
+2020-06-09,Software development,1.44799706,1.552
+2020-06-10,Software development,1.488790886,1.610
+2020-06-11,Software development,1.535464903,1.607
+2020-06-12,Software development,1.394340316,1.592
+2020-06-13,Software development,2.328188166,1.591
+2020-06-14,Software development,1.380742374,1.437
+2020-06-15,Software development,1.288864388,1.383
+2020-06-16,Software development,1.85446527,1.350
+2020-06-17,Software development,1.468210217,1.290
+2020-06-18,Software development,1.428886439,1.276
+2020-06-19,Software development,1.388460125,1.282
+2020-06-20,Software development,1.252848218,1.299
+2020-06-21,Software development,0.999632488,1.301
+2020-06-22,Software development,1.060271959,1.310
+2020-06-23,Software development,1.428518927,1.310
+2020-06-24,Software development,1.374494671,1.325
+2020-06-25,Software development,1.471517824,1.317
+2020-06-26,Software development,1.503123852,1.300
+2020-06-27,Software development,1.269018743,1.298
+2020-06-28,Software development,1.062844542,1.326
+2020-06-29,Software development,1.061006983,1.345
+2020-06-30,Software development,1.533259831,1.360
+2020-07-01,Software development,1.320837927,1.218
+2020-07-02,Software development,1.351708931,1.098
+2020-07-03,Software development,1.48585079,1.027
+2020-07-04,Software development,1.465270121,0.911
+2020-07-05,Software development,1.198088938,0.906
+2020-07-06,Software development,1.163175303,0.955
+2020-07-10,Software development,0.540242558,1.097
+2020-07-11,Software development,0.483278207,1.218
+2020-07-12,Software development,0.851708931,1.330
+2020-07-13,Software development,0.674384417,1.355
+2020-07-14,Software development,1.428151415,1.396
+2020-07-15,Software development,1.541712606,1.311
+2020-07-16,Software development,2.160235208,1.344
+2020-07-17,Software development,1.386622565,1.233
+2020-07-18,Software development,1.2646086,1.226
+2020-07-19,Software development,1.02646086,1.222
+2020-07-20,Software development,0.963983829,1.217
+2020-07-21,Software development,0.835722161,1.238
+2020-07-22,Software development,1.767732451,1.304
+2020-07-23,Software development,1.385887541,1.244
+2020-07-24,Software development,1.334803381,1.237
+2020-07-25,Software development,1.241455347,1.236
+2020-07-26,Software development,0.992649761,1.249
+2020-07-27,Software development,1.109518559,1.237
+2020-07-28,Software development,1.297317163,1.217
+2020-07-29,Software development,1.348401323,1.211
+2020-07-30,Software development,1.331495774,1.214
+2020-07-31,Software development,1.328188166,1.218
+2020-08-01,Software development,1.337375965,1.208
+2020-08-02,Software development,0.903711871,1.200
+2020-08-03,Software development,0.969864021,1.197
+2020-08-04,Software development,1.257625873,1.189
+2020-08-05,Software development,1.367511944,1.200
+2020-08-06,Software development,1.363836825,1.195
+2020-08-07,Software development,1.258728409,1.198
+2020-08-08,Software development,1.277104006,1.216
+2020-08-09,Software development,0.882028666,1.195
+2020-08-10,Software development,0.917309813,1.212
+2020-08-11,Software development,1.331495774,1.235
+2020-08-12,Software development,1.337375965,1.242
+2020-08-13,Software development,1.380742374,1.233
+2020-08-14,Software development,1.382579934,1.254
+2020-08-15,Software development,1.136346931,1.240
+2020-08-16,Software development,1.001470048,1.258
+2020-08-17,Software development,1.076074972,1.261
+2020-08-18,Software development,1.381477398,1.244
+2020-08-19,Software development,1.274531422,1.243
+2020-08-20,Software development,1.528849688,1.263
+2020-08-21,Software development,1.279676589,1.251
+2020-08-22,Software development,1.261668504,1.262
+2020-08-23,Software development,1.026093348,1.277
+2020-08-24,Software development,0.954061007,1.263
+2020-08-25,Software development,1.373024623,1.261
+2020-08-26,Software development,1.414185961,1.253
+2020-08-27,Software development,1.44983462,1.258
+2020-08-28,Software development,1.354649026,1.268
+2020-08-29,Software development,1.369717016,1.269
+2020-08-30,Software development,0.927967659,1.267
+2020-08-31,Software development,0.934582874,1.273
+2020-09-01,Software development,1.319000368,1.271
+2020-09-02,Software development,1.449099596,1.267
+2020-09-03,Software development,1.520764425,1.250
+2020-09-04,Software development,1.365306872,1.239
+2020-09-05,Software development,1.351708931,1.236
+2020-09-06,Software development,0.972804116,1.218
+2020-09-07,Software development,0.916574789,1.214
+2020-09-08,Software development,1.294377067,1.214
+2020-09-09,Software development,1.327820654,1.227
+2020-09-10,Software development,1.445424476,1.237
+2020-09-11,Software development,1.345093716,1.231
+2020-09-12,Software development,1.220507166,1.234
+2020-09-13,Software development,0.950018376,1.243
+2020-09-14,Software development,0.912532157,1.243
+2020-09-15,Software development,1.390665197,1.255
+2020-09-16,Software development,1.392135244,1.270
+2020-09-17,Software development,1.408673282,1.275
+2020-09-18,Software development,1.366409408,1.274
+2020-09-19,Software development,1.283719221,1.276
+2020-09-20,Software development,0.943770673,1.267
+2020-09-21,Software development,1.002572584,1.272
+2020-09-22,Software development,1.496141125,1.261
+2020-09-23,Software development,1.42337376,1.250
+2020-09-24,Software development,1.400955531,1.242
+2020-09-25,Software development,1.381477398,1.240
+2020-09-26,Software development,1.223814774,1.232
+2020-09-27,Software development,0.977214259,1.234
+2020-09-28,Software development,0.923557516,1.246
+2020-09-29,Software development,1.421168688,1.245
+2020-09-30,Software development,1.36677692,1.234
+2020-10-01,Software development,1.388092613,1.243
+2020-10-02,Software development,1.321572951,1.254
+2020-10-03,Software development,1.240352811,1.264
+2020-10-04,Software development,1.063579566,1.264
+2020-10-05,Software development,0.913267181,1.249
+2020-10-06,Software development,1.347666299,1.256
+2020-10-07,Software development,1.429621463,1.252
+2020-10-08,Software development,1.45938993,1.243
+2020-10-09,Software development,1.39507534,1.242
+2020-10-10,Software development,1.240720323,1.245
+2020-10-11,Software development,0.955531055,1.243
+2020-10-12,Software development,0.966188901,1.253
+2020-10-13,Software development,1.315325248,1.251
+2020-10-14,Software development,1.369717016,1.266
+2020-10-15,Software development,1.452039691,1.274
+2020-10-16,Software development,1.413818449,1.268
+2020-10-17,Software development,1.228224917,1.261
+2020-10-18,Software development,1.026093348,1.470
+2020-10-19,Software development,0.953693495,1.611
+2020-10-20,Software development,1.415656009,1.669
+2020-10-21,Software development,1.425578831,1.760
+2020-10-22,Software development,1.411613377,1.822
+2020-10-23,Software development,1.368246968,1.901
+2020-10-24,Software development,2.687614847,1.991
+2020-10-25,Software development,2.01139287,1.831
+2020-10-26,Software development,1.364939361,1.726
+2020-10-27,Software development,2.050716648,1.722
+2020-10-28,Software development,1.861080485,1.683
+2020-10-29,Software development,1.962881294,1.698
+2020-10-30,Software development,2.001102536,1.675
+2020-10-31,Software development,1.56523337,1.671
+2020-11-01,Software development,1.275633958,1.674
+2020-11-02,Software development,1.337375965,1.676
+2020-11-03,Software development,1.774347666,1.651
+2020-11-04,Software development,1.970599044,1.678
+2020-11-05,Software development,1.79970599,1.665
+2020-11-06,Software development,1.977581771,1.671
+2020-11-07,Software development,1.586181551,1.667
+2020-11-08,Software development,1.2892319,1.683
+2020-11-09,Software development,1.159500184,1.676
+2020-11-10,Software development,1.961411246,1.674
+2020-11-11,Software development,1.883131202,1.665
+2020-11-12,Software development,1.83939728,1.668
+2020-11-13,Software development,1.952590959,1.677
+2020-11-14,Software development,1.694230062,1.665
+2020-11-15,Software development,1.244762955,1.659
+2020-11-16,Software development,1.141124587,1.660
+2020-11-17,Software development,1.900404263,1.682
+2020-11-18,Software development,1.901139287,1.678
+2020-11-19,Software development,1.90554943,1.683
+2020-11-20,Software development,1.86585814,1.667
+2020-11-21,Software development,1.654538773,1.648
+2020-11-22,Software development,1.252480706,1.629
+2020-11-23,Software development,1.294744579,1.626
+2020-11-24,Software development,1.873208379,1.614
+2020-11-25,Software development,1.937522969,1.617
+2020-11-26,Software development,1.791620728,1.622
+2020-11-27,Software development,1.729511209,1.634
+2020-11-28,Software development,1.523337008,1.649
+2020-11-29,Software development,1.234105108,1.667
+2020-11-30,Software development,1.205439177,1.674
+2020-12-01,Software development,1.897096656,1.690
+2020-12-02,Software development,1.974274164,1.688
+2020-12-03,Software development,1.875045939,1.676
+2020-12-04,Software development,1.835354649,1.700
+2020-12-05,Software development,1.648291069,1.696
+2020-12-06,Software development,1.279309078,1.701
+2020-12-07,Software development,1.317162808,1.696
+2020-12-08,Software development,1.884968761,1.688
+2020-12-09,Software development,1.892319,1.697
+2020-12-10,Software development,2.044836457,1.699
+2020-12-11,Software development,1.806321205,1.669
+2020-12-12,Software development,1.679162073,1.661
+2020-12-13,Software development,1.245497979,1.648
+2020-12-14,Software development,1.265711136,1.632
+2020-12-15,Software development,1.948180816,1.611
+2020-12-16,Software development,1.900771775,1.563
+2020-12-17,Software development,1.835354649,1.523
+2020-12-18,Software development,1.753399485,1.474
+2020-12-19,Software development,1.585446527,1.405
+2020-12-20,Software development,1.134509372,1.316
+2020-12-21,Software development,1.121646454,1.299
+2020-12-22,Software development,1.60676222,1.297
+2020-12-23,Software development,1.621462698,1.288
+2020-12-24,Software development,1.494303565,1.266
+2020-12-25,Software development,1.271223815,1.260
+2020-12-26,Software development,0.965453877,1.236
+2020-12-27,Software development,1.011025358,1.226
+2020-12-28,Software development,1.110621095,1.233
+2020-12-29,Software development,1.545020213,1.258
+2020-12-30,Software development,1.462697538,1.275
+2020-12-31,Software development,1.452774715,1.314
+2021-01-01,Software development,1.105475928,1.468
+2021-01-02,Software development,0.895259096,1.557
+2021-01-03,Software development,1.061006983,1.649
+2021-01-04,Software development,1.284821757,1.671
+2021-01-05,Software development,1.665931643,1.653
+2021-01-06,Software development,1.736126424,1.673
+2021-01-07,Software development,2.527012128,1.686
+2021-01-08,Software development,1.726203602,1.537
+2021-01-09,Software development,1.544652701,1.524
+2021-01-10,Software development,1.214994487,1.490
+2021-01-11,Software development,1.158030136,1.500
+2021-01-12,Software development,1.806321205,1.602
+2021-01-13,Software development,1.827269386,1.623
+2021-01-15,Software development,1.482175671,1.643
+2021-01-16,Software development,1.636530687,1.697
+2021-01-17,Software development,1.303564866,1.714
+2021-01-18,Software development,1.288864388,1.714
+2021-01-19,Software development,1.869165748,1.701
+2021-01-20,Software development,1.951120911,1.719
+2021-01-21,Software development,1.968393973,1.712
+2021-01-22,Software development,1.858507902,1.705
+2021-01-23,Software development,1.759647189,1.709
+2021-01-24,Software development,1.305769938,1.698
+2021-01-25,Software development,1.197353914,1.696
+2021-01-26,Software development,1.991179713,1.703
+2021-01-27,Software development,1.906284454,1.695
+2021-01-28,Software development,1.918044836,1.699
+2021-01-29,Software development,1.882028666,1.706
+2021-01-30,Software development,1.68246968,1.713
+2021-01-31,Software development,1.294009555,1.713
+2021-02-01,Software development,1.24770305,1.717
+2021-02-02,Software development,1.93568541,1.734
+2021-02-03,Software development,1.930540243,1.731
+2021-02-04,Software development,1.968761485,1.741
+2021-02-05,Software development,1.934215362,1.739
+2021-02-06,Software development,1.678427049,1.735
+2021-02-07,Software development,1.326718118,1.740
+2021-02-08,Software development,1.363836825,1.741
+2021-02-09,Software development,1.914737229,1.709
+2021-02-10,Software development,2.003675119,1.704
+2021-02-11,Software development,1.952958471,1.706
+2021-02-12,Software development,1.90554943,1.709
+2021-02-13,Software development,1.709665564,1.723
+2021-02-14,Software development,1.335538405,1.622
+2021-02-15,Software development,1.141492098,1.558
+2021-02-16,Software development,1.876148475,1.588
+2021-02-17,Software development,2.017640573,1.529
+2021-02-18,Software development,1.973906652,1.402
+2021-02-19,Software development,2.009922822,1.277
+2020-01-01,Writing and translation,1,1.195
+2020-01-02,Writing and translation,0.88372093,1.262
+2020-01-03,Writing and translation,1.35250918,1.342
+2020-01-04,Writing and translation,1.462668299,1.394
+2020-01-05,Writing and translation,1.132190942,1.390
+2020-01-06,Writing and translation,1.097919217,1.393
+2020-01-07,Writing and translation,1.438188494,1.422
+2020-01-08,Writing and translation,1.463892289,1.447
+2020-01-09,Writing and translation,1.449204406,1.496
+2020-01-10,Writing and translation,1.714810282,1.525
+2020-01-11,Writing and translation,1.435740514,1.520
+2020-01-12,Writing and translation,1.151774786,1.553
+2020-01-13,Writing and translation,1.298653611,1.557
+2020-01-14,Writing and translation,1.614443084,1.541
+2020-01-15,Writing and translation,1.806609547,1.589
+2020-01-16,Writing and translation,1.654834761,1.599
+2020-01-17,Writing and translation,1.679314565,1.597
+2020-01-18,Writing and translation,1.662178703,1.597
+2020-01-19,Writing and translation,1.186046512,1.578
+2020-01-20,Writing and translation,1.186046512,1.560
+2020-01-21,Writing and translation,1.949816401,1.567
+2020-01-22,Writing and translation,1.875152999,1.536
+2020-01-23,Writing and translation,1.643818849,1.510
+2020-01-24,Writing and translation,1.675642595,1.523
+2020-01-25,Writing and translation,1.526315789,1.545
+2020-01-26,Writing and translation,1.062423501,1.547
+2020-01-27,Writing and translation,1.23378213,1.556
+2020-01-28,Writing and translation,1.736842105,1.542
+2020-01-29,Writing and translation,1.690330477,1.564
+2020-01-30,Writing and translation,1.733170135,1.596
+2020-01-31,Writing and translation,1.833537332,1.607
+2020-02-01,Writing and translation,1.541003672,1.592
+2020-02-02,Writing and translation,1.126070991,1.616
+2020-02-03,Writing and translation,1.130966952,1.627
+2020-02-04,Writing and translation,1.892288862,1.635
+2020-02-05,Writing and translation,1.913096695,1.628
+2020-02-06,Writing and translation,1.809057528,1.616
+2020-02-07,Writing and translation,1.731946144,1.611
+2020-02-08,Writing and translation,1.70624235,1.597
+2020-02-09,Writing and translation,1.203182375,1.558
+2020-02-10,Writing and translation,1.188494492,1.547
+2020-02-11,Writing and translation,1.847001224,1.533
+2020-02-12,Writing and translation,1.82374541,1.524
+2020-02-13,Writing and translation,1.776009792,1.505
+2020-02-14,Writing and translation,1.631578947,1.515
+2020-02-15,Writing and translation,1.436964504,1.529
+2020-02-16,Writing and translation,1.128518972,1.536
+2020-02-17,Writing and translation,1.084455324,1.552
+2020-02-18,Writing and translation,1.784577723,1.565
+2020-02-19,Writing and translation,1.692778458,1.559
+2020-02-20,Writing and translation,1.843329253,1.591
+2020-02-21,Writing and translation,1.734394125,1.579
+2020-02-22,Writing and translation,1.487148103,1.563
+2020-02-23,Writing and translation,1.23623011,1.557
+2020-02-24,Writing and translation,1.179926561,1.544
+2020-02-25,Writing and translation,1.739290086,1.560
+2020-02-26,Writing and translation,1.917992656,1.568
+2020-02-27,Writing and translation,1.756425949,1.514
+2020-02-28,Writing and translation,1.620563035,1.516
+2020-02-29,Writing and translation,1.451652387,1.519
+2020-03-01,Writing and translation,1.139534884,1.531
+2020-03-02,Writing and translation,1.29375765,1.541
+2020-03-03,Writing and translation,1.796817625,1.519
+2020-03-04,Writing and translation,1.539779682,1.495
+2020-03-05,Writing and translation,1.76744186,1.505
+2020-03-06,Writing and translation,1.64504284,1.496
+2020-03-07,Writing and translation,1.532435741,1.492
+2020-03-08,Writing and translation,1.212974296,1.480
+2020-03-09,Writing and translation,1.140758874,1.472
+2020-03-10,Writing and translation,1.627906977,1.460
+2020-03-11,Writing and translation,1.607099143,1.446
+2020-03-12,Writing and translation,1.70624235,1.445
+2020-03-13,Writing and translation,1.615667075,1.413
+2020-03-14,Writing and translation,1.451652387,1.390
+2020-03-15,Writing and translation,1.156670747,1.382
+2020-03-16,Writing and translation,1.051407589,1.378
+2020-03-17,Writing and translation,1.52998776,1.357
+2020-03-18,Writing and translation,1.602203182,1.331
+2020-03-19,Writing and translation,1.484700122,1.282
+2020-03-20,Writing and translation,1.454100367,1.250
+2020-03-21,Writing and translation,1.392900857,1.222
+2020-03-22,Writing and translation,1.130966952,1.207
+2020-03-23,Writing and translation,0.902080783,1.187
+2020-03-24,Writing and translation,1.347613219,1.197
+2020-03-25,Writing and translation,1.259485924,1.207
+2020-03-26,Writing and translation,1.259485924,1.220
+2020-03-27,Writing and translation,1.263157895,1.247
+2020-03-28,Writing and translation,1.287637699,1.297
+2020-03-29,Writing and translation,0.988984088,1.302
+2020-03-30,Writing and translation,0.970624235,1.330
+2020-03-31,Writing and translation,1.421052632,1.342
+2020-04-01,Writing and translation,1.35128519,1.347
+2020-04-02,Writing and translation,1.447980416,1.371
+2020-04-03,Writing and translation,1.613219094,1.389
+2020-04-04,Writing and translation,1.320685435,1.407
+2020-04-05,Writing and translation,1.188494492,1.463
+2020-04-06,Writing and translation,1.051407589,1.478
+2020-04-07,Writing and translation,1.457772338,1.507
+2020-04-08,Writing and translation,1.515299878,1.532
+2020-04-09,Writing and translation,1.576499388,1.567
+2020-04-10,Writing and translation,1.740514076,1.599
+2020-04-11,Writing and translation,1.70869033,1.595
+2020-04-12,Writing and translation,1.298653611,1.587
+2020-04-13,Writing and translation,1.249694002,1.593
+2020-04-14,Writing and translation,1.634026928,1.606
+2020-04-15,Writing and translation,1.757649939,1.613
+2020-04-16,Writing and translation,1.800489596,1.629
+2020-04-17,Writing and translation,1.714810282,1.656
+2020-04-18,Writing and translation,1.653610771,1.651
+2020-04-19,Writing and translation,1.339045288,1.668
+2020-04-20,Writing and translation,1.342717258,1.664
+2020-04-21,Writing and translation,1.685434517,1.685
+2020-04-22,Writing and translation,1.867809058,1.698
+2020-04-23,Writing and translation,1.988984088,1.677
+2020-04-24,Writing and translation,1.678090575,1.645
+2020-04-25,Writing and translation,1.777233782,1.637
+2020-04-26,Writing and translation,1.305997552,1.599
+2020-04-27,Writing and translation,1.493268054,1.603
+2020-04-28,Writing and translation,1.776009792,1.589
+2020-04-29,Writing and translation,1.719706242,1.588
+2020-04-30,Writing and translation,1.7625459,1.593
+2020-05-01,Writing and translation,1.626682987,1.600
+2020-05-02,Writing and translation,1.511627907,1.611
+2020-05-03,Writing and translation,1.328029376,1.620
+2020-05-04,Writing and translation,1.397796818,1.623
+2020-05-05,Writing and translation,1.769889841,1.597
+2020-05-06,Writing and translation,1.756425949,1.578
+2020-05-07,Writing and translation,1.809057528,1.566
+2020-05-08,Writing and translation,1.70379437,1.569
+2020-05-09,Writing and translation,1.576499388,1.567
+2020-05-10,Writing and translation,1.348837209,1.582
+2020-05-11,Writing and translation,1.215422277,1.594
+2020-05-12,Writing and translation,1.638922889,1.590
+2020-05-13,Writing and translation,1.671970624,1.616
+2020-05-14,Writing and translation,1.827417381,1.632
+2020-05-15,Writing and translation,1.687882497,1.638
+2020-05-16,Writing and translation,1.682986536,1.654
+2020-05-17,Writing and translation,1.433292534,1.644
+2020-05-18,Writing and translation,1.190942472,1.639
+2020-05-19,Writing and translation,1.815177479,1.654
+2020-05-20,Writing and translation,1.788249694,1.632
+2020-05-21,Writing and translation,1.864137087,1.632
+2020-05-22,Writing and translation,1.800489596,1.616
+2020-05-23,Writing and translation,1.613219094,1.586
+2020-05-24,Writing and translation,1.403916769,1.608
+2020-05-25,Writing and translation,1.29498164,1.559
+2020-05-26,Writing and translation,1.659730722,1.519
+2020-05-27,Writing and translation,1.785801714,1.469
+2020-05-28,Writing and translation,1.752753978,1.391
+2020-05-29,Writing and translation,1.591187271,1.283
+2020-05-30,Writing and translation,1.769277846,1.229
+2020-05-31,Writing and translation,1.05630355,1.141
+2020-06-01,Writing and translation,1.018359853,1.140
+2020-06-02,Writing and translation,1.305997552,1.124
+2020-06-03,Writing and translation,1.246022032,1.109
+2020-06-04,Writing and translation,0.996328029,1.101
+2020-06-05,Writing and translation,1.212974296,1.145
+2020-06-06,Writing and translation,1.154222766,1.124
+2020-06-07,Writing and translation,1.048959608,1.368
+2020-06-08,Writing and translation,0.900856793,1.379
+2020-06-09,Writing and translation,1.206854345,1.403
+2020-06-10,Writing and translation,1.187270502,1.515
+2020-06-11,Writing and translation,1.301101591,1.510
+2020-06-12,Writing and translation,1.070991432,1.482
+2020-06-13,Writing and translation,2.861689106,1.493
+2020-06-14,Writing and translation,1.121175031,1.240
+2020-06-15,Writing and translation,1.069767442,1.199
+2020-06-16,Writing and translation,1.991432069,1.165
+2020-06-17,Writing and translation,1.154222766,1.046
+2020-06-18,Writing and translation,1.104039168,1.035
+2020-06-19,Writing and translation,1.150550796,1.045
+2020-06-20,Writing and translation,1.089351285,1.042
+2020-06-21,Writing and translation,0.835985312,1.035
+2020-06-22,Writing and translation,0.831089351,1.021
+2020-06-23,Writing and translation,1.156670747,1.026
+2020-06-24,Writing and translation,1.074663403,1.034
+2020-06-25,Writing and translation,1.179926561,1.043
+2020-06-26,Writing and translation,1.126070991,1.032
+2020-06-27,Writing and translation,1.042839657,1.052
+2020-06-28,Writing and translation,0.738066095,1.077
+2020-06-29,Writing and translation,0.865361077,1.111
+2020-06-30,Writing and translation,1.214198286,1.117
+2020-07-01,Writing and translation,1.137086903,1.029
+2020-07-02,Writing and translation,1.100367197,0.948
+2020-07-03,Writing and translation,1.264381885,1.186
+2020-07-04,Writing and translation,1.221542228,1.071
+2020-07-05,Writing and translation,0.971848225,1.060
+2020-07-06,Writing and translation,0.908200734,1.104
+2020-07-10,Writing and translation,0.600979192,1.157
+2020-07-11,Writing and translation,0.565483476,1.233
+2020-07-12,Writing and translation,2.771113831,1.288
+2020-07-13,Writing and translation,0.457772338,1.001
+2020-07-14,Writing and translation,1.143206854,1.049
+2020-07-15,Writing and translation,1.282741738,0.956
+2020-07-16,Writing and translation,1.277845777,1.016
+2020-07-17,Writing and translation,1.129742962,0.993
+2020-07-18,Writing and translation,0.954712362,0.993
+2020-07-19,Writing and translation,0.758873929,1.008
+2020-07-20,Writing and translation,0.794369645,1.002
+2020-07-21,Writing and translation,0.493268054,1.005
+2020-07-22,Writing and translation,1.702570379,1.093
+2020-07-23,Writing and translation,1.11750306,1.002
+2020-07-24,Writing and translation,1.129742962,0.997
+2020-07-25,Writing and translation,1.05630355,0.990
+2020-07-26,Writing and translation,0.720930233,0.995
+2020-07-27,Writing and translation,0.812729498,0.995
+2020-07-28,Writing and translation,1.113831089,0.987
+2020-07-29,Writing and translation,1.063647491,0.988
+2020-07-30,Writing and translation,1.082007344,1.007
+2020-07-31,Writing and translation,1.078335373,1.014
+2020-08-01,Writing and translation,1.091799266,1.019
+2020-08-02,Writing and translation,0.723378213,1.014
+2020-08-03,Writing and translation,0.755201958,1.028
+2020-08-04,Writing and translation,1.121175031,1.030
+2020-08-05,Writing and translation,1.194614443,1.021
+2020-08-06,Writing and translation,1.133414933,1.020
+2020-08-07,Writing and translation,1.11505508,1.017
+2020-08-08,Writing and translation,1.055079559,1.021
+2020-08-09,Writing and translation,0.82374541,0.999
+2020-08-10,Writing and translation,0.76499388,1.000
+2020-08-11,Writing and translation,1.062423501,1.015
+2020-08-12,Writing and translation,1.182374541,1.021
+2020-08-13,Writing and translation,1.11750306,1.006
+2020-08-14,Writing and translation,1.138310894,1.013
+2020-08-15,Writing and translation,0.905752754,1.002
+2020-08-16,Writing and translation,0.82619339,1.027
+2020-08-17,Writing and translation,0.869033048,1.024
+2020-08-18,Writing and translation,1.105263158,1.019
+2020-08-19,Writing and translation,1.078335373,1.027
+2020-08-20,Writing and translation,1.166462668,1.032
+2020-08-21,Writing and translation,1.066095471,1.040
+2020-08-22,Writing and translation,1.080783354,1.049
+2020-08-23,Writing and translation,0.805385557,1.050
+2020-08-24,Writing and translation,0.829865361,1.041
+2020-08-25,Writing and translation,1.159118727,1.037
+2020-08-26,Writing and translation,1.11627907,1.023
+2020-08-27,Writing and translation,1.222766218,1.029
+2020-08-28,Writing and translation,1.129742962,1.043
+2020-08-29,Writing and translation,1.084455324,1.047
+2020-08-30,Writing and translation,0.741738066,1.052
+2020-08-31,Writing and translation,0.802937576,1.058
+2020-09-01,Writing and translation,1.062423501,1.052
+2020-09-02,Writing and translation,1.159118727,1.042
+2020-09-03,Writing and translation,1.319461444,1.037
+2020-09-04,Writing and translation,1.156670747,1.010
+2020-09-05,Writing and translation,1.122399021,1.010
+2020-09-06,Writing and translation,0.780905753,1.001
+2020-09-07,Writing and translation,0.76376989,0.992
+2020-09-08,Writing and translation,0.991432069,0.992
+2020-09-09,Writing and translation,1.126070991,1.008
+2020-09-10,Writing and translation,1.130966952,1.028
+2020-09-11,Writing and translation,1.151774786,1.036
+2020-09-12,Writing and translation,1.064871481,1.045
+2020-09-13,Writing and translation,0.714810282,1.045
+2020-09-14,Writing and translation,0.76376989,1.063
+2020-09-15,Writing and translation,1.104039168,1.069
+2020-09-16,Writing and translation,1.263157895,1.095
+2020-09-17,Writing and translation,1.187270502,1.101
+2020-09-18,Writing and translation,1.217870257,1.097
+2020-09-19,Writing and translation,1.062423501,1.084
+2020-09-20,Writing and translation,0.842105263,1.087
+2020-09-21,Writing and translation,0.802937576,1.095
+2020-09-22,Writing and translation,1.286413709,1.101
+2020-09-23,Writing and translation,1.305997552,1.093
+2020-09-24,Writing and translation,1.157894737,1.067
+2020-09-25,Writing and translation,1.128518972,1.067
+2020-09-26,Writing and translation,1.088127295,1.075
+2020-09-27,Writing and translation,0.895960832,1.064
+2020-09-28,Writing and translation,0.845777234,1.049
+2020-09-29,Writing and translation,1.228886169,1.038
+2020-09-30,Writing and translation,1.124847001,1.030
+2020-10-01,Writing and translation,1.159118727,1.046
+2020-10-02,Writing and translation,1.181150551,1.053
+2020-10-03,Writing and translation,1.011015912,1.058
+2020-10-04,Writing and translation,0.794369645,1.072
+2020-10-05,Writing and translation,0.76376989,1.067
+2020-10-06,Writing and translation,1.17625459,1.065
+2020-10-07,Writing and translation,1.23378213,1.065
+2020-10-08,Writing and translation,1.212974296,1.055
+2020-10-09,Writing and translation,1.215422277,1.063
+2020-10-10,Writing and translation,1.105263158,1.055
+2020-10-11,Writing and translation,0.761321909,1.043
+2020-10-12,Writing and translation,0.747858017,1.054
+2020-10-13,Writing and translation,1.1750306,1.062
+2020-10-14,Writing and translation,1.165238678,1.061
+2020-10-15,Writing and translation,1.270501836,1.076
+2020-10-16,Writing and translation,1.156670747,1.077
+2020-10-17,Writing and translation,1.025703794,1.081
+2020-10-18,Writing and translation,0.837209302,1.117
+2020-10-19,Writing and translation,0.800489596,1.177
+2020-10-20,Writing and translation,1.168910649,1.228
+2020-10-21,Writing and translation,1.274173807,1.313
+2020-10-22,Writing and translation,1.275397797,1.374
+2020-10-23,Writing and translation,1.184822521,1.441
+2020-10-24,Writing and translation,1.274785802,1.510
+2020-10-25,Writing and translation,1.258261934,1.513
+2020-10-26,Writing and translation,1.157894737,1.499
+2020-10-27,Writing and translation,1.768665851,1.490
+2020-10-28,Writing and translation,1.701346389,1.451
+2020-10-29,Writing and translation,1.744186047,1.472
+2020-10-30,Writing and translation,1.665850673,1.458
+2020-10-31,Writing and translation,1.29498164,1.476
+2020-11-01,Writing and translation,1.162790698,1.501
+2020-11-02,Writing and translation,1.095471236,1.495
+2020-11-03,Writing and translation,1.493268054,1.489
+2020-11-04,Writing and translation,1.844553244,1.516
+2020-11-05,Writing and translation,1.64626683,1.479
+2020-11-06,Writing and translation,1.794369645,1.467
+2020-11-07,Writing and translation,1.47246022,1.467
+2020-11-08,Writing and translation,1.11872705,1.468
+2020-11-09,Writing and translation,1.050183599,1.477
+2020-11-10,Writing and translation,1.687882497,1.476
+2020-11-11,Writing and translation,1.582619339,1.482
+2020-11-12,Writing and translation,1.559363525,1.488
+2020-11-13,Writing and translation,1.795593635,1.504
+2020-11-14,Writing and translation,1.483476132,1.486
+2020-11-15,Writing and translation,1.182374541,1.484
+2020-11-16,Writing and translation,1.042839657,1.476
+2020-11-17,Writing and translation,1.729498164,1.490
+2020-11-18,Writing and translation,1.623011016,1.486
+2020-11-19,Writing and translation,1.670746634,1.497
+2020-11-20,Writing and translation,1.669522644,1.494
+2020-11-21,Writing and translation,1.47001224,1.470
+2020-11-22,Writing and translation,1.128518972,1.467
+2020-11-23,Writing and translation,1.139534884,1.468
+2020-11-24,Writing and translation,1.701346389,1.457
+2020-11-25,Writing and translation,1.698898409,1.453
+2020-11-26,Writing and translation,1.64749082,1.468
+2020-11-27,Writing and translation,1.501835985,1.467
+2020-11-28,Writing and translation,1.447980416,1.491
+2020-11-29,Writing and translation,1.139534884,1.496
+2020-11-30,Writing and translation,1.064871481,1.502
+2020-12-01,Writing and translation,1.673194614,1.524
+2020-12-02,Writing and translation,1.800489596,1.528
+2020-12-03,Writing and translation,1.643818849,1.510
+2020-12-04,Writing and translation,1.668298654,1.557
+2020-12-05,Writing and translation,1.481028152,1.558
+2020-12-06,Writing and translation,1.183598531,1.566
+2020-12-07,Writing and translation,1.216646267,1.562
+2020-12-08,Writing and translation,1.701346389,1.551
+2020-12-09,Writing and translation,1.674418605,1.542
+2020-12-10,Writing and translation,1.973072215,1.534
+2020-12-11,Writing and translation,1.676866585,1.497
+2020-12-12,Writing and translation,1.538555692,1.481
+2020-12-13,Writing and translation,1.152998776,1.459
+2020-12-14,Writing and translation,1.138310894,1.443
+2020-12-15,Writing and translation,1.641370869,1.426
+2020-12-16,Writing and translation,1.615667075,1.393
+2020-12-17,Writing and translation,1.714810282,1.367
+2020-12-18,Writing and translation,1.567931457,1.304
+2020-12-19,Writing and translation,1.380660955,1.244
+2020-12-20,Writing and translation,1.042839657,1.165
+2020-12-21,Writing and translation,1.020807834,1.143
+2020-12-22,Writing and translation,1.407588739,1.150
+2020-12-23,Writing and translation,1.432068543,1.137
+2020-12-24,Writing and translation,1.276621787,1.126
+2020-12-25,Writing and translation,1.148102815,1.130
+2020-12-26,Writing and translation,0.828641371,1.113
+2020-12-27,Writing and translation,0.886168911,1.112
+2020-12-28,Writing and translation,1.070991432,1.129
+2020-12-29,Writing and translation,1.318237454,1.126
+2020-12-30,Writing and translation,1.356181151,1.154
+2020-12-31,Writing and translation,1.299877601,1.191
+2021-01-01,Writing and translation,1.031823745,1.310
+2021-01-02,Writing and translation,0.820073439,1.377
+2021-01-03,Writing and translation,1.007343941,1.447
+2021-01-04,Writing and translation,1.048959608,1.477
+2021-01-05,Writing and translation,1.511627907,1.479
+2021-01-06,Writing and translation,1.615667075,1.495
+2021-01-07,Writing and translation,2.132190942,1.502
+2021-01-08,Writing and translation,1.500611995,1.389
+2021-01-09,Writing and translation,1.310893513,1.394
+2021-01-10,Writing and translation,1.216646267,1.368
+2021-01-11,Writing and translation,1.068543452,1.363
+2021-01-12,Writing and translation,1.618115055,1.449
+2021-01-13,Writing and translation,1.668298654,1.469
+2021-01-15,Writing and translation,1.343329253,1.488
+2021-01-16,Writing and translation,1.534883721,1.532
+2021-01-17,Writing and translation,1.127294982,1.523
+2021-01-18,Writing and translation,1.179926561,1.517
+2021-01-19,Writing and translation,1.668298654,1.507
+2021-01-20,Writing and translation,1.7625459,1.506
+2021-01-21,Writing and translation,1.796817625,1.487
+2021-01-22,Writing and translation,1.651162791,1.486
+2021-01-23,Writing and translation,1.474908201,1.483
+2021-01-24,Writing and translation,1.085679315,1.485
+2021-01-25,Writing and translation,1.110159119,1.502
+2021-01-26,Writing and translation,1.659730722,1.497
+2021-01-27,Writing and translation,1.630354957,1.499
+2021-01-28,Writing and translation,1.791921665,1.508
+2021-01-29,Writing and translation,1.631578947,1.513
+2021-01-30,Writing and translation,1.485924113,1.529
+2021-01-31,Writing and translation,1.201958384,1.560
+2021-02-01,Writing and translation,1.079559364,1.562
+2021-02-02,Writing and translation,1.668298654,1.581
+2021-02-03,Writing and translation,1.695226438,1.605
+2021-02-04,Writing and translation,1.831089351,1.625
+2021-02-05,Writing and translation,1.742962056,1.613
+2021-02-06,Writing and translation,1.698898409,1.604
+2021-02-07,Writing and translation,1.216646267,1.582
+2021-02-08,Writing and translation,1.214198286,1.571
+2021-02-09,Writing and translation,1.834761322,1.555
+2021-02-10,Writing and translation,1.839657283,1.545
+2021-02-11,Writing and translation,1.741738066,1.544
+2021-02-12,Writing and translation,1.684210526,1.555
+2021-02-13,Writing and translation,1.544675643,1.570
+2021-02-14,Writing and translation,1.140758874,1.574
+2021-02-15,Writing and translation,1.097919217,1.661
+2021-02-16,Writing and translation,1.76376989,1.802
+2021-02-17,Writing and translation,1.835985312,1.815
+2021-02-18,Writing and translation,1.817625459,1.804
+2021-02-19,Writing and translation,1.790697674,1.791

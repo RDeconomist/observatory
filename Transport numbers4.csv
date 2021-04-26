@@ -1,0 +1,1315 @@
+Date,Transport type,Percentage
+2020-03-01,National rail,97
+2020-03-02,National rail,94
+2020-03-03,National rail,95
+2020-03-04,National rail,95
+2020-03-05,National rail,97
+2020-03-06,National rail,99
+2020-03-07,National rail,99
+2020-03-08,National rail,99
+2020-03-09,National rail,100
+2020-03-10,National rail,99
+2020-03-11,National rail,98
+2020-03-12,National rail,96
+2020-03-13,National rail,92
+2020-03-14,National rail,89
+2020-03-15,National rail,85
+2020-03-16,National rail,78
+2020-03-17,National rail,69
+2020-03-18,National rail,59
+2020-03-19,National rail,51
+2020-03-20,National rail,43
+2020-03-21,National rail,37
+2020-03-22,National rail,33
+2020-03-23,National rail,25
+2020-03-24,National rail,20
+2020-03-25,National rail,16
+2020-03-26,National rail,13
+2020-03-27,National rail,10
+2020-03-28,National rail,9
+2020-03-29,National rail,8
+2020-03-30,National rail,6
+2020-03-31,National rail,5
+2020-04-01,National rail,5
+2020-04-02,National rail,5
+2020-04-03,National rail,5
+2020-04-04,National rail,5
+2020-04-05,National rail,5
+2020-04-06,National rail,5
+2020-04-07,National rail,5
+2020-04-08,National rail,5
+2020-04-09,National rail,5
+2020-04-10,National rail,4
+2020-04-11,National rail,4
+2020-04-12,National rail,4
+2020-04-13,National rail,4
+2020-04-14,National rail,4
+2020-04-15,National rail,4
+2020-04-16,National rail,4
+2020-04-17,National rail,5
+2020-04-18,National rail,5
+2020-04-19,National rail,5
+2020-04-20,National rail,6
+2020-04-21,National rail,5
+2020-04-22,National rail,5
+2020-04-23,National rail,5
+2020-04-24,National rail,4
+2020-04-25,National rail,4
+2020-04-26,National rail,4
+2020-04-27,National rail,4
+2020-04-28,National rail,4
+2020-04-29,National rail,4
+2020-04-30,National rail,4
+2020-05-01,National rail,4
+2020-05-02,National rail,4
+2020-05-03,National rail,4
+2020-05-04,National rail,5
+2020-05-05,National rail,5
+2020-05-06,National rail,5
+2020-05-07,National rail,5
+2020-05-08,National rail,5
+2020-05-09,National rail,5
+2020-05-10,National rail,5
+2020-05-11,National rail,5
+2020-05-12,National rail,5
+2020-05-13,National rail,5
+2020-05-14,National rail,5
+2020-05-15,National rail,6
+2020-05-16,National rail,6
+2020-05-17,National rail,6
+2020-05-18,National rail,6
+2020-05-19,National rail,7
+2020-05-20,National rail,7
+2020-05-21,National rail,7
+2020-05-22,National rail,7
+2020-05-23,National rail,7
+2020-05-24,National rail,7
+2020-05-25,National rail,7
+2020-05-26,National rail,7
+2020-05-27,National rail,7
+2020-05-28,National rail,7
+2020-05-29,National rail,8
+2020-05-30,National rail,8
+2020-05-31,National rail,8
+2020-06-01,National rail,8
+2020-06-02,National rail,9
+2020-06-03,National rail,10
+2020-06-04,National rail,10
+2020-06-05,National rail,11
+2020-06-06,National rail,11
+2020-06-07,National rail,12
+2020-06-08,National rail,13
+2020-06-09,National rail,13
+2020-06-10,National rail,12
+2020-06-11,National rail,12
+2020-06-12,National rail,12
+2020-06-13,National rail,13
+2020-06-14,National rail,12
+2020-06-15,National rail,12
+2020-06-16,National rail,13
+2020-06-17,National rail,13
+2020-06-18,National rail,14
+2020-06-19,National rail,14
+2020-06-20,National rail,15
+2020-06-21,National rail,15
+2020-06-22,National rail,15
+2020-06-23,National rail,15
+2020-06-24,National rail,16
+2020-06-25,National rail,16
+2020-06-26,National rail,17
+2020-06-27,National rail,16
+2020-06-28,National rail,17
+2020-06-29,National rail,16
+2020-06-30,National rail,17
+2020-07-01,National rail,16
+2020-07-02,National rail,16
+2020-07-03,National rail,17
+2020-07-04,National rail,17
+2020-07-05,National rail,18
+2020-07-06,National rail,19
+2020-07-07,National rail,19
+2020-07-08,National rail,20
+2020-07-09,National rail,21
+2020-07-10,National rail,21
+2020-07-11,National rail,22
+2020-07-12,National rail,22
+2020-07-13,National rail,23
+2020-07-14,National rail,23
+2020-07-15,National rail,24
+2020-07-16,National rail,25
+2020-07-17,National rail,25
+2020-07-18,National rail,26
+2020-07-19,National rail,26
+2020-07-20,National rail,27
+2020-07-21,National rail,27
+2020-07-22,National rail,27
+2020-07-23,National rail,28
+2020-07-24,National rail,28
+2020-07-25,National rail,28
+2020-07-26,National rail,29
+2020-07-27,National rail,29
+2020-07-28,National rail,29
+2020-07-29,National rail,29
+2020-07-30,National rail,29
+2020-07-31,National rail,30
+2020-08-01,National rail,31
+2020-08-02,National rail,31
+2020-08-03,National rail,32
+2020-08-04,National rail,32
+2020-08-05,National rail,33
+2020-08-06,National rail,33
+2020-08-07,National rail,33
+2020-08-08,National rail,34
+2020-08-09,National rail,34
+2020-08-10,National rail,35
+2020-08-11,National rail,34
+2020-08-12,National rail,35
+2020-08-13,National rail,34
+2020-08-14,National rail,34
+2020-08-15,National rail,33
+2020-08-16,National rail,33
+2020-08-17,National rail,33
+2020-08-18,National rail,33
+2020-08-19,National rail,33
+2020-08-20,National rail,34
+2020-08-21,National rail,34
+2020-08-22,National rail,35
+2020-08-23,National rail,36
+2020-08-24,National rail,40
+2020-08-25,National rail,38
+2020-08-26,National rail,38
+2020-08-27,National rail,38
+2020-08-28,National rail,38
+2020-08-29,National rail,38
+2020-08-30,National rail,38
+2020-08-31,National rail,32
+2020-09-01,National rail,35
+2020-09-02,National rail,36
+2020-09-03,National rail,37
+2020-09-04,National rail,38
+2020-09-05,National rail,38
+2020-09-06,National rail,39
+2020-09-07,National rail,43
+2020-09-08,National rail,43
+2020-09-09,National rail,43
+2020-09-10,National rail,42
+2020-09-11,National rail,42
+2020-09-12,National rail,41
+2020-09-13,National rail,41
+2020-09-14,National rail,40
+2020-09-15,National rail,40
+2020-09-16,National rail,40
+2020-09-17,National rail,39
+2020-09-18,National rail,39
+2020-09-19,National rail,39
+2020-09-20,National rail,39
+2020-09-21,National rail,39
+2020-09-22,National rail,39
+2020-09-23,National rail,38
+2020-09-24,National rail,38
+2020-09-25,National rail,37
+2020-09-26,National rail,37
+2020-09-27,National rail,36
+2020-09-28,National rail,35
+2020-09-29,National rail,34
+2020-09-30,National rail,33
+2020-10-01,National rail,34
+2020-10-02,National rail,34
+2020-10-03,National rail,33
+2020-10-04,National rail,33
+2020-10-05,National rail,34
+2020-10-06,National rail,35
+2020-10-07,National rail,36
+2020-10-08,National rail,35
+2020-10-09,National rail,36
+2020-10-10,National rail,36
+2020-10-11,National rail,36
+2020-10-12,National rail,36
+2020-10-13,National rail,37
+2020-10-14,National rail,36
+2020-10-15,National rail,36
+2020-10-16,National rail,36
+2020-10-17,National rail,35
+2020-10-18,National rail,35
+2020-10-19,National rail,34
+2020-10-20,National rail,34
+2020-10-21,National rail,34
+2020-10-22,National rail,34
+2020-10-23,National rail,33
+2020-10-24,National rail,33
+2020-10-25,National rail,33
+2020-10-26,National rail,32
+2020-10-27,National rail,32
+2020-10-28,National rail,31
+2020-10-29,National rail,31
+2020-10-30,National rail,31
+2020-10-31,National rail,31
+2020-11-01,National rail,32
+2020-11-02,National rail,33
+2020-11-03,National rail,34
+2020-11-04,National rail,35
+2020-11-05,National rail,34
+2020-11-06,National rail,32
+2020-11-07,National rail,30
+2020-11-08,National rail,28
+2020-11-09,National rail,27
+2020-11-10,National rail,25
+2020-11-11,National rail,23
+2020-11-12,National rail,23
+2020-11-13,National rail,24
+2020-11-14,National rail,24
+2020-11-15,National rail,24
+2020-11-16,National rail,23
+2020-11-17,National rail,23
+2020-11-18,National rail,23
+2020-11-19,National rail,23
+2020-11-20,National rail,23
+2020-11-21,National rail,23
+2020-11-22,National rail,23
+2020-11-23,National rail,23
+2020-11-24,National rail,23
+2020-11-25,National rail,23
+2020-11-26,National rail,23
+2020-11-27,National rail,23
+2020-11-28,National rail,23
+2020-11-29,National rail,23
+2020-11-30,National rail,23
+2020-12-01,National rail,24
+2020-12-02,National rail,25
+2020-12-03,National rail,26
+2020-12-04,National rail,27
+2020-12-05,National rail,29
+2020-12-06,National rail,30
+2020-12-07,National rail,31
+2020-12-08,National rail,32
+2020-12-09,National rail,32
+2020-12-10,National rail,33
+2020-12-11,National rail,33
+2020-12-12,National rail,33
+2020-12-13,National rail,33
+2020-12-14,National rail,33
+2020-12-15,National rail,33
+2020-12-16,National rail,32
+2020-12-17,National rail,32
+2020-12-18,National rail,31
+2020-12-19,National rail,30
+2020-12-20,National rail,29
+2020-12-21,National rail,27
+2020-12-22,National rail,27
+2020-12-23,National rail,23
+2020-12-24,National rail,22
+2020-12-25,National rail,21
+2020-12-26,National rail,20
+2020-12-27,National rail,20
+2020-12-28,National rail,17
+2020-12-29,National rail,16
+2020-12-30,National rail,14
+2020-12-31,National rail,12
+2021-01-01,National rail,12
+2021-01-02,National rail,11
+2021-01-03,National rail,12
+2021-01-04,National rail,13
+2021-01-05,National rail,14
+2021-01-06,National rail,13
+2021-01-07,National rail,13
+2021-01-08,National rail,14
+2021-01-09,National rail,14
+2021-01-10,National rail,14
+2021-01-11,National rail,14
+2021-01-12,National rail,14
+2021-01-13,National rail,14
+2021-01-14,National rail,14
+2021-01-15,National rail,14
+2021-01-16,National rail,14
+2021-01-17,National rail,14
+2021-01-18,National rail,14
+2021-01-19,National rail,14
+2021-01-20,National rail,14
+2021-01-21,National rail,14
+2021-01-22,National rail,14
+2021-01-23,National rail,14
+2021-01-24,National rail,14
+2021-01-25,National rail,14
+2021-01-26,National rail,14
+2021-01-27,National rail,14
+2021-01-28,National rail,14
+2021-01-29,National rail,14
+2021-01-30,National rail,14
+2021-01-31,National rail,14
+2021-02-01,National rail,13
+2021-02-02,National rail,13
+2021-02-03,National rail,13
+2021-02-04,National rail,13
+2021-02-05,National rail,12
+2021-02-06,National rail,12
+2021-02-07,National rail,13
+2021-02-08,National rail,13
+2020-03-01,London underground,104
+2020-03-02,London underground,95
+2020-03-03,London underground,95
+2020-03-04,London underground,95
+2020-03-05,London underground,92
+2020-03-06,London underground,92
+2020-03-07,London underground,91
+2020-03-08,London underground,87
+2020-03-09,London underground,90
+2020-03-10,London underground,89
+2020-03-11,London underground,86
+2020-03-12,London underground,81
+2020-03-13,London underground,72
+2020-03-14,London underground,61
+2020-03-15,London underground,54
+2020-03-16,London underground,60
+2020-03-17,London underground,44
+2020-03-18,London underground,35
+2020-03-19,London underground,30
+2020-03-20,London underground,24
+2020-03-21,London underground,13
+2020-03-22,London underground,11
+2020-03-23,London underground,15
+2020-03-24,London underground,9
+2020-03-25,London underground,7
+2020-03-26,London underground,6
+2020-03-27,London underground,6
+2020-03-28,London underground,4
+2020-03-29,London underground,4
+2020-03-30,London underground,6
+2020-03-31,London underground,5
+2020-04-01,London underground,5
+2020-04-02,London underground,5
+2020-04-03,London underground,5
+2020-04-04,London underground,4
+2020-04-05,London underground,4
+2020-04-06,London underground,5
+2020-04-07,London underground,5
+2020-04-08,London underground,5
+2020-04-09,London underground,5
+2020-04-10,London underground,4
+2020-04-11,London underground,4
+2020-04-12,London underground,4
+2020-04-13,London underground,5
+2020-04-14,London underground,5
+2020-04-15,London underground,5
+2020-04-16,London underground,5
+2020-04-17,London underground,5
+2020-04-18,London underground,4
+2020-04-19,London underground,4
+2020-04-20,London underground,5
+2020-04-21,London underground,5
+2020-04-22,London underground,5
+2020-04-23,London underground,5
+2020-04-24,London underground,5
+2020-04-25,London underground,4
+2020-04-26,London underground,3
+2020-04-27,London underground,5
+2020-04-28,London underground,5
+2020-04-29,London underground,5
+2020-04-30,London underground,5
+2020-05-01,London underground,5
+2020-05-02,London underground,4
+2020-05-03,London underground,4
+2020-05-04,London underground,6
+2020-05-05,London underground,6
+2020-05-06,London underground,5
+2020-05-07,London underground,5
+2020-05-08,London underground,7
+2020-05-09,London underground,5
+2020-05-10,London underground,4
+2020-05-11,London underground,6
+2020-05-12,London underground,6
+2020-05-13,London underground,6
+2020-05-14,London underground,6
+2020-05-15,London underground,6
+2020-05-16,London underground,5
+2020-05-17,London underground,6
+2020-05-18,London underground,8
+2020-05-19,London underground,7
+2020-05-20,London underground,7
+2020-05-21,London underground,7
+2020-05-22,London underground,8
+2020-05-23,London underground,6
+2020-05-24,London underground,6
+2020-05-25,London underground,9
+2020-05-26,London underground,9
+2020-05-27,London underground,8
+2020-05-28,London underground,9
+2020-05-29,London underground,9
+2020-05-30,London underground,8
+2020-05-31,London underground,9
+2020-06-01,London underground,10
+2020-06-02,London underground,10
+2020-06-03,London underground,10
+2020-06-04,London underground,10
+2020-06-05,London underground,10
+2020-06-06,London underground,10
+2020-06-07,London underground,11
+2020-06-08,London underground,11
+2020-06-09,London underground,11
+2020-06-10,London underground,11
+2020-06-11,London underground,11
+2020-06-12,London underground,11
+2020-06-13,London underground,12
+2020-06-14,London underground,11
+2020-06-15,London underground,14
+2020-06-16,London underground,13
+2020-06-17,London underground,13
+2020-06-18,London underground,13
+2020-06-19,London underground,14
+2020-06-20,London underground,15
+2020-06-21,London underground,13
+2020-06-22,London underground,16
+2020-06-23,London underground,15
+2020-06-24,London underground,15
+2020-06-25,London underground,15
+2020-06-26,London underground,16
+2020-06-27,London underground,15
+2020-06-28,London underground,16
+2020-06-29,London underground,16
+2020-06-30,London underground,16
+2020-07-01,London underground,16
+2020-07-02,London underground,16
+2020-07-03,London underground,17
+2020-07-04,London underground,18
+2020-07-05,London underground,21
+2020-07-06,London underground,19
+2020-07-07,London underground,19
+2020-07-08,London underground,19
+2020-07-09,London underground,19
+2020-07-10,London underground,21
+2020-07-11,London underground,24
+2020-07-12,London underground,24
+2020-07-13,London underground,21
+2020-07-14,London underground,20
+2020-07-15,London underground,21
+2020-07-16,London underground,21
+2020-07-17,London underground,24
+2020-07-18,London underground,29
+2020-07-19,London underground,24
+2020-07-20,London underground,23
+2020-07-21,London underground,23
+2020-07-22,London underground,24
+2020-07-23,London underground,25
+2020-07-24,London underground,25
+2020-07-25,London underground,28
+2020-07-26,London underground,28
+2020-07-27,London underground,24
+2020-07-28,London underground,25
+2020-07-29,London underground,25
+2020-07-30,London underground,26
+2020-07-31,London underground,27
+2020-08-01,London underground,32
+2020-08-02,London underground,29
+2020-08-03,London underground,27
+2020-08-04,London underground,27
+2020-08-05,London underground,28
+2020-08-06,London underground,27
+2020-08-07,London underground,28
+2020-08-08,London underground,32
+2020-08-09,London underground,31
+2020-08-10,London underground,28
+2020-08-11,London underground,28
+2020-08-12,London underground,28
+2020-08-13,London underground,26
+2020-08-14,London underground,29
+2020-08-15,London underground,33
+2020-08-16,London underground,32
+2020-08-17,London underground,30
+2020-08-18,London underground,30
+2020-08-19,London underground,30
+2020-08-20,London underground,31
+2020-08-21,London underground,32
+2020-08-22,London underground,36
+2020-08-23,London underground,35
+2020-08-24,London underground,32
+2020-08-25,London underground,35
+2020-08-26,London underground,36
+2020-08-27,London underground,32
+2020-08-28,London underground,34
+2020-08-29,London underground,42
+2020-08-30,London underground,39
+2020-08-31,London underground,45
+2020-09-01,London underground,33
+2020-09-02,London underground,35
+2020-09-03,London underground,33
+2020-09-04,London underground,36
+2020-09-05,London underground,42
+2020-09-06,London underground,41
+2020-09-07,London underground,34
+2020-09-08,London underground,34
+2020-09-09,London underground,35
+2020-09-10,London underground,36
+2020-09-11,London underground,37
+2020-09-12,London underground,40
+2020-09-13,London underground,40
+2020-09-14,London underground,35
+2020-09-15,London underground,34
+2020-09-16,London underground,36
+2020-09-17,London underground,35
+2020-09-18,London underground,36
+2020-09-19,London underground,42
+2020-09-20,London underground,40
+2020-09-21,London underground,35
+2020-09-22,London underground,35
+2020-09-23,London underground,34
+2020-09-24,London underground,34
+2020-09-25,London underground,36
+2020-09-26,London underground,42
+2020-09-27,London underground,41
+2020-09-28,London underground,34
+2020-09-29,London underground,34
+2020-09-30,London underground,34
+2020-10-01,London underground,34
+2020-10-02,London underground,34
+2020-10-03,London underground,39
+2020-10-04,London underground,37
+2020-10-05,London underground,33
+2020-10-06,London underground,34
+2020-10-07,London underground,35
+2020-10-08,London underground,34
+2020-10-09,London underground,36
+2020-10-10,London underground,43
+2020-10-11,London underground,41
+2020-10-12,London underground,33
+2020-10-13,London underground,34
+2020-10-14,London underground,35
+2020-10-15,London underground,36
+2020-10-16,London underground,38
+2020-10-17,London underground,37
+2020-10-18,London underground,39
+2020-10-19,London underground,32
+2020-10-20,London underground,32
+2020-10-21,London underground,32
+2020-10-22,London underground,33
+2020-10-23,London underground,34
+2020-10-24,London underground,37
+2020-10-25,London underground,41
+2020-10-26,London underground,33
+2020-10-27,London underground,33
+2020-10-28,London underground,34
+2020-10-29,London underground,34
+2020-10-30,London underground,36
+2020-10-31,London underground,39
+2020-11-01,London underground,40
+2020-11-02,London underground,37
+2020-11-03,London underground,40
+2020-11-04,London underground,43
+2020-11-05,London underground,23
+2020-11-06,London underground,22
+2020-11-07,London underground,17
+2020-11-08,London underground,16
+2020-11-09,London underground,23
+2020-11-10,London underground,23
+2020-11-11,London underground,23
+2020-11-12,London underground,22
+2020-11-13,London underground,23
+2020-11-14,London underground,18
+2020-11-15,London underground,19
+2020-11-16,London underground,24
+2020-11-17,London underground,24
+2020-11-18,London underground,23
+2020-11-19,London underground,23
+2020-11-20,London underground,23
+2020-11-21,London underground,18
+2020-11-22,London underground,19
+2020-11-23,London underground,24
+2020-11-24,London underground,24
+2020-11-25,London underground,23
+2020-11-26,London underground,23
+2020-11-27,London underground,23
+2020-11-28,London underground,19
+2020-11-29,London underground,19
+2020-11-30,London underground,25
+2020-12-01,London underground,25
+2020-12-02,London underground,30
+2020-12-03,London underground,31
+2020-12-04,London underground,34
+2020-12-05,London underground,40
+2020-12-06,London underground,38
+2020-12-07,London underground,32
+2020-12-08,London underground,33
+2020-12-09,London underground,34
+2020-12-10,London underground,34
+2020-12-11,London underground,36
+2020-12-12,London underground,43
+2020-12-13,London underground,37
+2020-12-14,London underground,35
+2020-12-15,London underground,38
+2020-12-16,London underground,29
+2020-12-17,London underground,29
+2020-12-18,London underground,29
+2020-12-19,London underground,32
+2020-12-20,London underground,19
+2020-12-21,London underground,22
+2020-12-22,London underground,21
+2020-12-23,London underground,20
+2020-12-24,London underground,22
+2020-12-26,London underground,9
+2020-12-27,London underground,14
+2020-12-28,London underground,25
+2020-12-29,London underground,17
+2020-12-30,London underground,18
+2020-12-31,London underground,17
+2021-01-01,London underground,12
+2021-01-02,London underground,15
+2021-01-03,London underground,19
+2021-01-04,London underground,19
+2021-01-05,London underground,17
+2021-01-06,London underground,17
+2021-01-07,London underground,16
+2021-01-08,London underground,16
+2021-01-09,London underground,14
+2021-01-10,London underground,14
+2021-01-11,London underground,16
+2021-01-12,London underground,16
+2021-01-13,London underground,15
+2021-01-14,London underground,15
+2021-01-15,London underground,16
+2021-01-16,London underground,12
+2021-01-17,London underground,24
+2021-01-18,London underground,16
+2021-01-19,London underground,15
+2021-01-20,London underground,15
+2021-01-21,London underground,15
+2021-01-22,London underground,16
+2021-01-23,London underground,13
+2021-01-24,London underground,12
+2021-01-25,London underground,17
+2021-01-26,London underground,16
+2021-01-27,London underground,16
+2021-01-28,London underground,16
+2021-01-29,London underground,16
+2021-01-30,London underground,14
+2021-01-31,London underground,15
+2021-02-01,London underground,17
+2021-02-02,London underground,17
+2021-02-03,London underground,17
+2021-02-04,London underground,16
+2021-02-05,London underground,17
+2021-02-06,London underground,15
+2021-02-07,London underground,18
+2021-02-08,London underground,17
+2020-03-01,London bus,102
+2020-03-02,London bus,97
+2020-03-03,London bus,96
+2020-03-04,London bus,97
+2020-03-05,London bus,92
+2020-03-06,London bus,96
+2020-03-07,London bus,93
+2020-03-08,London bus,95
+2020-03-09,London bus,95
+2020-03-10,London bus,97
+2020-03-11,London bus,93
+2020-03-12,London bus,92
+2020-03-13,London bus,87
+2020-03-14,London bus,83
+2020-03-15,London bus,74
+2020-03-16,London bus,79
+2020-03-17,London bus,70
+2020-03-18,London bus,65
+2020-03-19,London bus,59
+2020-03-20,London bus,52
+2020-03-21,London bus,39
+2020-03-22,London bus,32
+2020-03-23,London bus,31
+2020-03-24,London bus,22
+2020-03-25,London bus,19
+2020-03-26,London bus,18
+2020-03-27,London bus,18
+2020-03-28,London bus,17
+2020-03-29,London bus,16
+2020-03-30,London bus,17
+2020-03-31,London bus,17
+2020-04-01,London bus,16
+2020-04-02,London bus,16
+2020-04-03,London bus,16
+2020-04-04,London bus,17
+2020-04-05,London bus,17
+2020-04-06,London bus,18
+2020-04-07,London bus,18
+2020-04-08,London bus,17
+2020-04-09,London bus,18
+2020-04-10,London bus,17
+2020-04-11,London bus,16
+2020-04-12,London bus,14
+2020-04-13,London bus,18
+2020-04-14,London bus,19
+2020-04-15,London bus,18
+2020-04-16,London bus,18
+2020-04-17,London bus,18
+2020-04-18,London bus,16
+2020-06-09,London bus,25
+2020-06-10,London bus,25
+2020-06-11,London bus,26
+2020-06-12,London bus,26
+2020-06-13,London bus,31
+2020-06-14,London bus,30
+2020-06-15,London bus,32
+2020-06-16,London bus,31
+2020-06-17,London bus,30
+2020-06-18,London bus,29
+2020-06-19,London bus,29
+2020-06-20,London bus,36
+2020-06-21,London bus,34
+2020-06-22,London bus,34
+2020-06-23,London bus,34
+2020-06-24,London bus,34
+2020-06-25,London bus,34
+2020-06-26,London bus,35
+2020-06-27,London bus,36
+2020-06-28,London bus,36
+2020-06-29,London bus,33
+2020-06-30,London bus,32
+2020-07-01,London bus,33
+2020-07-02,London bus,33
+2020-07-03,London bus,35
+2020-07-04,London bus,39
+2020-07-05,London bus,40
+2020-07-06,London bus,37
+2020-07-07,London bus,37
+2020-07-08,London bus,36
+2020-07-09,London bus,37
+2020-07-10,London bus,39
+2020-07-11,London bus,45
+2020-07-12,London bus,45
+2020-07-13,London bus,41
+2020-07-14,London bus,40
+2020-07-15,London bus,40
+2020-07-16,London bus,42
+2020-07-17,London bus,44
+2020-07-18,London bus,50
+2020-07-19,London bus,43
+2020-07-20,London bus,45
+2020-07-21,London bus,45
+2020-07-22,London bus,46
+2020-07-23,London bus,49
+2020-07-24,London bus,49
+2020-07-25,London bus,51
+2020-07-26,London bus,50
+2020-07-27,London bus,46
+2020-07-28,London bus,50
+2020-07-29,London bus,49
+2020-07-30,London bus,49
+2020-07-31,London bus,50
+2020-08-01,London bus,54
+2020-08-02,London bus,54
+2020-08-03,London bus,51
+2020-08-04,London bus,50
+2020-08-05,London bus,51
+2020-08-06,London bus,49
+2020-08-07,London bus,50
+2020-08-08,London bus,54
+2020-08-09,London bus,51
+2020-08-10,London bus,53
+2020-08-11,London bus,49
+2020-08-12,London bus,53
+2020-08-13,London bus,48
+2020-08-14,London bus,53
+2020-08-15,London bus,54
+2020-08-16,London bus,54
+2020-08-17,London bus,53
+2020-08-18,London bus,54
+2020-08-19,London bus,51
+2020-08-20,London bus,55
+2020-08-21,London bus,54
+2020-08-22,London bus,59
+2020-08-23,London bus,58
+2020-08-24,London bus,57
+2020-08-25,London bus,56
+2020-08-26,London bus,58
+2020-08-27,London bus,53
+2020-08-28,London bus,55
+2020-08-29,London bus,61
+2020-08-30,London bus,59
+2020-08-31,London bus,69
+2020-09-01,London bus,55
+2020-09-02,London bus,52
+2020-09-03,London bus,53
+2020-09-04,London bus,56
+2020-09-05,London bus,61
+2020-09-06,London bus,58
+2020-09-07,London bus,58
+2020-09-08,London bus,58
+2020-09-09,London bus,58
+2020-09-10,London bus,58
+2020-09-11,London bus,59
+2020-09-12,London bus,59
+2020-09-13,London bus,58
+2020-09-14,London bus,58
+2020-09-15,London bus,57
+2020-09-16,London bus,58
+2020-09-17,London bus,58
+2020-09-18,London bus,59
+2020-09-19,London bus,58
+2020-09-20,London bus,61
+2020-09-21,London bus,58
+2020-09-22,London bus,59
+2020-09-23,London bus,57
+2020-09-24,London bus,57
+2020-09-25,London bus,58
+2020-09-26,London bus,57
+2020-09-27,London bus,57
+2020-09-28,London bus,57
+2020-09-29,London bus,58
+2020-09-30,London bus,57
+2020-10-01,London bus,58
+2020-10-02,London bus,55
+2020-10-03,London bus,54
+2020-10-04,London bus,52
+2020-10-05,London bus,59
+2020-10-06,London bus,58
+2020-10-07,London bus,59
+2020-10-08,London bus,57
+2020-10-09,London bus,60
+2020-10-10,London bus,61
+2020-10-11,London bus,61
+2020-10-12,London bus,59
+2020-10-13,London bus,57
+2020-10-14,London bus,59
+2020-10-15,London bus,59
+2020-10-16,London bus,60
+2020-10-17,London bus,57
+2020-10-18,London bus,56
+2020-10-19,London bus,57
+2020-10-20,London bus,55
+2020-10-21,London bus,53
+2020-10-22,London bus,57
+2020-10-23,London bus,56
+2020-10-24,London bus,57
+2020-10-25,London bus,58
+2020-10-26,London bus,57
+2020-10-27,London bus,52
+2020-10-28,London bus,55
+2020-10-29,London bus,55
+2020-10-30,London bus,57
+2020-10-31,London bus,59
+2020-11-01,London bus,59
+2020-11-02,London bus,60
+2020-11-03,London bus,62
+2020-11-04,London bus,64
+2020-11-05,London bus,47
+2020-11-06,London bus,47
+2020-11-07,London bus,40
+2020-11-08,London bus,36
+2020-11-09,London bus,49
+2020-11-10,London bus,49
+2020-11-11,London bus,47
+2020-11-12,London bus,48
+2020-11-13,London bus,49
+2020-11-14,London bus,38
+2020-11-15,London bus,37
+2020-11-16,London bus,49
+2020-11-17,London bus,49
+2020-11-18,London bus,48
+2020-11-19,London bus,48
+2020-11-20,London bus,48
+2020-11-21,London bus,42
+2020-11-22,London bus,41
+2020-11-23,London bus,49
+2020-11-24,London bus,49
+2020-11-25,London bus,48
+2020-11-26,London bus,48
+2020-11-27,London bus,47
+2020-11-28,London bus,42
+2020-11-29,London bus,39
+2020-11-30,London bus,49
+2020-12-01,London bus,51
+2020-12-02,London bus,56
+2020-12-03,London bus,54
+2020-12-04,London bus,58
+2020-12-05,London bus,58
+2020-12-06,London bus,55
+2020-12-07,London bus,56
+2020-12-08,London bus,58
+2020-12-09,London bus,56
+2020-12-10,London bus,58
+2020-12-11,London bus,58
+2020-12-12,London bus,59
+2020-12-13,London bus,54
+2020-12-14,London bus,57
+2020-12-15,London bus,60
+2020-12-16,London bus,52
+2020-12-17,London bus,54
+2020-12-18,London bus,52
+2020-12-19,London bus,54
+2020-12-20,London bus,41
+2020-12-21,London bus,43
+2020-12-22,London bus,44
+2020-12-23,London bus,44
+2020-12-24,London bus,46
+2020-12-26,London bus,26
+2020-12-27,London bus,35
+2020-12-28,London bus,50
+2020-12-29,London bus,40
+2020-12-30,London bus,42
+2020-12-31,London bus,42
+2021-01-01,London bus,38
+2021-01-02,London bus,34
+2021-01-03,London bus,37
+2021-01-04,London bus,36
+2021-01-05,London bus,33
+2021-01-06,London bus,32
+2021-01-07,London bus,32
+2021-01-08,London bus,31
+2021-01-09,London bus,33
+2021-01-10,London bus,32
+2021-01-11,London bus,32
+2021-01-12,London bus,31
+2021-01-13,London bus,30
+2021-01-14,London bus,30
+2021-01-15,London bus,32
+2021-01-16,London bus,31
+2021-01-17,London bus,34
+2021-01-18,London bus,32
+2021-01-19,London bus,31
+2021-01-20,London bus,31
+2021-01-21,London bus,32
+2021-01-22,London bus,33
+2021-01-23,London bus,34
+2021-01-24,London bus,30
+2021-01-25,London bus,33
+2021-01-26,London bus,31
+2021-01-27,London bus,32
+2021-01-28,London bus,33
+2021-01-29,London bus,33
+2021-01-30,London bus,32
+2021-01-31,London bus,35
+2021-02-01,London bus,34
+2021-02-02,London bus,33
+2021-02-03,London bus,33
+2021-02-04,London bus,33
+2021-02-05,London bus,35
+2021-02-06,London bus,35
+2021-02-07,London bus,39
+2021-02-08,London bus,32
+2020-03-09,Bus (excluding London),102
+2020-03-10,Bus (excluding London),102
+2020-03-11,Bus (excluding London),98
+2020-03-12,Bus (excluding London),98
+2020-03-13,Bus (excluding London),94
+2020-03-14,Bus (excluding London),85
+2020-03-15,Bus (excluding London),85
+2020-03-16,Bus (excluding London),88
+2020-03-17,Bus (excluding London),77
+2020-03-18,Bus (excluding London),62
+2020-03-19,Bus (excluding London),58
+2020-03-20,Bus (excluding London),53
+2020-03-21,Bus (excluding London),4
+2020-03-22,Bus (excluding London),35
+2020-03-23,Bus (excluding London),27
+2020-03-24,Bus (excluding London),17
+2020-03-25,Bus (excluding London),14
+2020-03-26,Bus (excluding London),13
+2020-03-27,Bus (excluding London),14
+2020-03-28,Bus (excluding London),12
+2020-03-29,Bus (excluding London),13
+2020-03-30,Bus (excluding London),12
+2020-03-31,Bus (excluding London),12
+2020-04-01,Bus (excluding London),11
+2020-04-02,Bus (excluding London),11
+2020-04-03,Bus (excluding London),12
+2020-04-04,Bus (excluding London),11
+2020-04-05,Bus (excluding London),12
+2020-04-06,Bus (excluding London),11
+2020-04-07,Bus (excluding London),11
+2020-04-08,Bus (excluding London),10
+2020-04-09,Bus (excluding London),12
+2020-04-10,Bus (excluding London),12
+2020-04-11,Bus (excluding London),10
+2020-04-12,Bus (excluding London),10
+2020-04-13,Bus (excluding London),12
+2020-04-14,Bus (excluding London),12
+2020-04-15,Bus (excluding London),10
+2020-04-16,Bus (excluding London),11
+2020-04-17,Bus (excluding London),11
+2020-04-18,Bus (excluding London),11
+2020-04-19,Bus (excluding London),13
+2020-04-20,Bus (excluding London),12
+2020-04-21,Bus (excluding London),11
+2020-04-22,Bus (excluding London),11
+2020-04-23,Bus (excluding London),11
+2020-04-24,Bus (excluding London),12
+2020-04-25,Bus (excluding London),12
+2020-04-26,Bus (excluding London),13
+2020-04-27,Bus (excluding London),12
+2020-04-28,Bus (excluding London),11
+2020-04-29,Bus (excluding London),11
+2020-04-30,Bus (excluding London),11
+2020-05-01,Bus (excluding London),12
+2020-05-02,Bus (excluding London),12
+2020-05-03,Bus (excluding London),13
+2020-05-04,Bus (excluding London),12
+2020-05-05,Bus (excluding London),12
+2020-05-06,Bus (excluding London),12
+2020-05-07,Bus (excluding London),13
+2020-05-09,Bus (excluding London),13
+2020-05-10,Bus (excluding London),13
+2020-05-11,Bus (excluding London),12
+2020-05-12,Bus (excluding London),13
+2020-05-13,Bus (excluding London),12
+2020-05-14,Bus (excluding London),13
+2020-05-15,Bus (excluding London),13
+2020-05-16,Bus (excluding London),13
+2020-05-17,Bus (excluding London),15
+2020-05-18,Bus (excluding London),14
+2020-05-19,Bus (excluding London),14
+2020-05-20,Bus (excluding London),13
+2020-05-21,Bus (excluding London),13
+2020-05-22,Bus (excluding London),14
+2020-05-23,Bus (excluding London),14
+2020-05-24,Bus (excluding London),16
+2020-05-25,Bus (excluding London),19
+2020-05-26,Bus (excluding London),15
+2020-05-27,Bus (excluding London),14
+2020-05-28,Bus (excluding London),14
+2020-05-29,Bus (excluding London),15
+2020-05-30,Bus (excluding London),16
+2020-05-31,Bus (excluding London),19
+2020-06-01,Bus (excluding London),17
+2020-06-02,Bus (excluding London),18
+2020-06-03,Bus (excluding London),16
+2020-06-04,Bus (excluding London),17
+2020-06-05,Bus (excluding London),17
+2020-06-06,Bus (excluding London),16
+2020-06-07,Bus (excluding London),19
+2020-06-08,Bus (excluding London),18
+2020-06-09,Bus (excluding London),19
+2020-06-10,Bus (excluding London),17
+2020-06-11,Bus (excluding London),17
+2020-06-12,Bus (excluding London),18
+2020-06-13,Bus (excluding London),19
+2020-06-14,Bus (excluding London),21
+2020-06-15,Bus (excluding London),21
+2020-06-16,Bus (excluding London),21
+2020-06-17,Bus (excluding London),20
+2020-06-18,Bus (excluding London),19
+2020-06-19,Bus (excluding London),21
+2020-06-20,Bus (excluding London),24
+2020-06-21,Bus (excluding London),24
+2020-06-22,Bus (excluding London),23
+2020-06-23,Bus (excluding London),23
+2020-06-24,Bus (excluding London),22
+2020-06-25,Bus (excluding London),23
+2020-06-26,Bus (excluding London),22
+2020-06-27,Bus (excluding London),23
+2020-06-28,Bus (excluding London),26
+2020-06-29,Bus (excluding London),24
+2020-06-30,Bus (excluding London),26
+2020-07-01,Bus (excluding London),24
+2020-07-02,Bus (excluding London),25
+2020-07-03,Bus (excluding London),25
+2020-07-04,Bus (excluding London),29
+2020-07-05,Bus (excluding London),32
+2020-07-06,Bus (excluding London),29
+2020-07-07,Bus (excluding London),29
+2020-07-08,Bus (excluding London),28
+2020-07-09,Bus (excluding London),28
+2020-07-10,Bus (excluding London),30
+2020-07-11,Bus (excluding London),34
+2020-07-12,Bus (excluding London),37
+2020-07-13,Bus (excluding London),31
+2020-07-14,Bus (excluding London),32
+2020-07-15,Bus (excluding London),31
+2020-07-16,Bus (excluding London),32
+2020-07-17,Bus (excluding London),33
+2020-07-18,Bus (excluding London),37
+2020-07-19,Bus (excluding London),41
+2020-07-20,Bus (excluding London),33
+2020-07-21,Bus (excluding London),34
+2020-07-22,Bus (excluding London),32
+2020-07-23,Bus (excluding London),33
+2020-07-24,Bus (excluding London),35
+2020-07-25,Bus (excluding London),38
+2020-07-26,Bus (excluding London),44
+2020-07-27,Bus (excluding London),31
+2020-07-28,Bus (excluding London),37
+2020-07-29,Bus (excluding London),35
+2020-07-30,Bus (excluding London),36
+2020-07-31,Bus (excluding London),37
+2020-08-01,Bus (excluding London),42
+2020-08-02,Bus (excluding London),47
+2020-08-03,Bus (excluding London),37
+2020-08-04,Bus (excluding London),37
+2020-08-05,Bus (excluding London),37
+2020-08-06,Bus (excluding London),37
+2020-08-07,Bus (excluding London),37
+2020-08-08,Bus (excluding London),45
+2020-08-09,Bus (excluding London),49
+2020-08-10,Bus (excluding London),39
+2020-08-11,Bus (excluding London),40
+2020-08-12,Bus (excluding London),38
+2020-08-13,Bus (excluding London),38
+2020-08-14,Bus (excluding London),39
+2020-08-15,Bus (excluding London),46
+2020-08-16,Bus (excluding London),48
+2020-08-17,Bus (excluding London),41
+2020-08-18,Bus (excluding London),43
+2020-08-19,Bus (excluding London),39
+2020-08-20,Bus (excluding London),43
+2020-08-21,Bus (excluding London),39
+2020-08-22,Bus (excluding London),48
+2020-08-23,Bus (excluding London),51
+2020-08-24,Bus (excluding London),45
+2020-08-25,Bus (excluding London),38
+2020-08-26,Bus (excluding London),44
+2020-08-27,Bus (excluding London),41
+2020-08-28,Bus (excluding London),43
+2020-08-29,Bus (excluding London),53
+2020-08-30,Bus (excluding London),59
+2020-08-31,Bus (excluding London),54
+2020-09-01,Bus (excluding London),49
+2020-09-02,Bus (excluding London),44
+2020-09-03,Bus (excluding London),48
+2020-09-04,Bus (excluding London),50
+2020-09-05,Bus (excluding London),54
+2020-09-06,Bus (excluding London),56
+2020-09-07,Bus (excluding London),54
+2020-09-08,Bus (excluding London),57
+2020-09-09,Bus (excluding London),55
+2020-09-10,Bus (excluding London),57
+2020-09-11,Bus (excluding London),55
+2020-09-12,Bus (excluding London),54
+2020-09-13,Bus (excluding London),58
+2020-09-14,Bus (excluding London),58
+2020-09-15,Bus (excluding London),59
+2020-09-16,Bus (excluding London),56
+2020-09-17,Bus (excluding London),58
+2020-09-18,Bus (excluding London),57
+2020-09-19,Bus (excluding London),55
+2020-09-20,Bus (excluding London),59
+2020-09-21,Bus (excluding London),59
+2020-09-22,Bus (excluding London),60
+2020-09-23,Bus (excluding London),54
+2020-09-24,Bus (excluding London),56
+2020-09-25,Bus (excluding London),56
+2020-09-26,Bus (excluding London),54
+2020-09-27,Bus (excluding London),58
+2020-09-28,Bus (excluding London),57
+2020-09-29,Bus (excluding London),61
+2020-09-30,Bus (excluding London),55
+2020-10-01,Bus (excluding London),60
+2020-10-02,Bus (excluding London),55
+2020-10-03,Bus (excluding London),47
+2020-10-04,Bus (excluding London),55
+2020-10-05,Bus (excluding London),59
+2020-10-06,Bus (excluding London),60
+2020-10-07,Bus (excluding London),58
+2020-10-08,Bus (excluding London),57
+2020-10-09,Bus (excluding London),57
+2020-10-10,Bus (excluding London),53
+2020-10-11,Bus (excluding London),58
+2020-10-12,Bus (excluding London),56
+2020-10-13,Bus (excluding London),58
+2020-10-14,Bus (excluding London),56
+2020-10-15,Bus (excluding London),57
+2020-10-16,Bus (excluding London),56
+2020-10-17,Bus (excluding London),52
+2020-10-18,Bus (excluding London),55
+2020-10-19,Bus (excluding London),56
+2020-10-20,Bus (excluding London),58
+2020-10-21,Bus (excluding London),52
+2020-10-22,Bus (excluding London),56
+2020-10-23,Bus (excluding London),53
+2020-10-24,Bus (excluding London),47
+2020-10-25,Bus (excluding London),55
+2020-10-26,Bus (excluding London),45
+2020-10-27,Bus (excluding London),44
+2020-10-28,Bus (excluding London),44
+2020-10-29,Bus (excluding London),42
+2020-10-30,Bus (excluding London),47
+2020-10-31,Bus (excluding London),47
+2020-11-01,Bus (excluding London),54
+2020-11-02,Bus (excluding London),59
+2020-11-03,Bus (excluding London),63
+2020-11-04,Bus (excluding London),62
+2020-11-05,Bus (excluding London),44
+2020-11-06,Bus (excluding London),43
+2020-11-07,Bus (excluding London),31
+2020-11-08,Bus (excluding London),32
+2020-11-09,Bus (excluding London),48
+2020-11-10,Bus (excluding London),49
+2020-11-11,Bus (excluding London),46
+2020-11-12,Bus (excluding London),48
+2020-11-13,Bus (excluding London),46
+2020-11-14,Bus (excluding London),32
+2020-11-15,Bus (excluding London),35
+2020-11-16,Bus (excluding London),48
+2020-11-17,Bus (excluding London),49
+2020-11-18,Bus (excluding London),45
+2020-11-19,Bus (excluding London),48
+2020-11-20,Bus (excluding London),45
+2020-11-21,Bus (excluding London),33
+2020-11-22,Bus (excluding London),36
+2020-11-23,Bus (excluding London),48
+2020-11-24,Bus (excluding London),49
+2020-11-25,Bus (excluding London),46
+2020-11-26,Bus (excluding London),47
+2020-11-27,Bus (excluding London),45
+2020-11-28,Bus (excluding London),35
+2020-11-29,Bus (excluding London),37
+2020-11-30,Bus (excluding London),49
+2020-12-01,Bus (excluding London),52
+2020-12-02,Bus (excluding London),55
+2020-12-03,Bus (excluding London),54
+2020-12-04,Bus (excluding London),53
+2020-12-05,Bus (excluding London),50
+2020-12-06,Bus (excluding London),51
+2020-12-07,Bus (excluding London),58
+2020-12-08,Bus (excluding London),57
+2020-12-09,Bus (excluding London),55
+2020-12-10,Bus (excluding London),56
+2020-12-11,Bus (excluding London),55
+2020-12-12,Bus (excluding London),52
+2020-12-13,Bus (excluding London),49
+2020-12-14,Bus (excluding London),57
+2020-12-15,Bus (excluding London),58
+2020-12-16,Bus (excluding London),51
+2020-12-17,Bus (excluding London),56
+2020-12-18,Bus (excluding London),49
+2020-12-19,Bus (excluding London),52
+2020-12-20,Bus (excluding London),53
+2020-12-21,Bus (excluding London),42
+2020-12-22,Bus (excluding London),43
+2020-12-23,Bus (excluding London),38
+2020-12-24,Bus (excluding London),29
+2020-12-27,Bus (excluding London),37
+2020-12-29,Bus (excluding London),28
+2020-12-30,Bus (excluding London),28
+2020-12-31,Bus (excluding London),22
+2021-01-02,Bus (excluding London),25
+2021-01-03,Bus (excluding London),31
+2021-01-04,Bus (excluding London),29
+2021-01-05,Bus (excluding London),26
+2021-01-06,Bus (excluding London),24
+2021-01-07,Bus (excluding London),24
+2021-01-08,Bus (excluding London),24
+2021-01-09,Bus (excluding London),23
+2021-01-10,Bus (excluding London),25
+2021-01-11,Bus (excluding London),26
+2021-01-12,Bus (excluding London),26
+2021-01-13,Bus (excluding London),24
+2021-01-14,Bus (excluding London),21
+2021-01-15,Bus (excluding London),25
+2021-01-16,Bus (excluding London),22
+2021-01-17,Bus (excluding London),27
+2021-01-18,Bus (excluding London),27
+2021-01-19,Bus (excluding London),26
+2021-01-20,Bus (excluding London),23
+2021-01-21,Bus (excluding London),25
+2021-01-22,Bus (excluding London),27
+2021-01-23,Bus (excluding London),24
+2021-01-24,Bus (excluding London),25
+2021-01-25,Bus (excluding London),26
+2021-01-26,Bus (excluding London),26
+2021-01-27,Bus (excluding London),26
+2021-01-28,Bus (excluding London),26
+2021-01-29,Bus (excluding London),27
+2021-01-30,Bus (excluding London),24
+2021-01-31,Bus (excluding London),27
+2021-02-01,Bus (excluding London),28.1
+2021-02-02,Bus (excluding London),24.4
+2021-02-03,Bus (excluding London),25.7
+2021-02-04,Bus (excluding London),26.6
+2021-02-05,Bus (excluding London),27.5
+2021-02-06,Bus (excluding London),24.8
+2021-02-07,Bus (excluding London),26.1
+2021-02-08,Bus (excluding London),25.3
