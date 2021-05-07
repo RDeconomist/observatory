@@ -5,7 +5,7 @@
 
     "title": {
     "text": "Covid-19 cases, selected countries",
-    "subtitle":"Weekly cases rate, per 100k pupulation. Source: ECDC",
+    "subtitle":"Weekly cases rate, per 100k population. Source: ECDC",
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10,
     "anchor": "start",
@@ -20,7 +20,7 @@
     {
       "filter": {
         "field": "country",
-        "oneOf": ["United Kingdom", "France", "Germany", "India", "America (total)", "China"]
+        "oneOf": ["United Kingdom", "France", "Germany", "India", "America (total)"]
       }
     },
 
@@ -55,22 +55,11 @@
       "type": "nominal",
       "scale": {"scheme": "set2"},
       "title": ""
-    },
-    "tooltip": [
-      {"field": "date2", "type": "temporal", "title": "Date"},
-      {"field": "country", "type": "nominal", "title": "Country"},
-      {
-        "field": "cases_ma7",
-        "type": "nominal",
-        "title": "Cases 7-day avg",
-        "format": ".0f"
-      },
-      {"field": "cases", "type": "nominal", "title": "Cases"}
-    ]
+    }
   },
   
   "config": {"background": "#FcFdFd"},
-  "height": 400,
-  "width": 600,
-  "mark": {"type": "line", "interpolate": "linear", "color": "red"}
+  "height": 300,
+  "width": 800,
+  "mark": {"type": "line", "interpolate": "monotone", "color": "red"}
 }
