@@ -1,0 +1,97 @@
+Age,Consumption/Recommendation,Added sugar (g/day)
+1-3,Mean consumption,34.6849
+4-6,Mean consumption,50.71878
+7-9,Mean consumption,60.8408
+10-12,Mean consumption,67.29015
+13-15,Mean consumption,72.60196
+16-18,Mean consumption,72.92048
+19-21,Mean consumption,72.01153
+22-24,Mean consumption,65.05837
+25-27,Mean consumption,67.44496
+28-30,Mean consumption,64.03562
+31-33,Mean consumption,58.16251
+34-36,Mean consumption,56.45575
+37-39,Mean consumption,52.8314
+40-42,Mean consumption,58.61958
+43-45,Mean consumption,54.09645
+46-48,Mean consumption,53.07818
+49-51,Mean consumption,49.44028
+52-54,Mean consumption,49.40362
+55-57,Mean consumption,50.05598
+58-60,Mean consumption,47.37994
+61-63,Mean consumption,48.89758
+64-66,Mean consumption,49.81728
+67-69,Mean consumption,47.3276
+Over 70,Mean consumption,47.79117
+1-3,Upper confident interval,36.76886
+4-6,Upper confident interval,52.83485
+7-9,Upper confident interval,63.10204
+10-12,Upper confident interval,69.54266
+13-15,Upper confident interval,74.7571
+16-18,Upper confident interval,75.06377
+19-21,Upper confident interval,76.67577
+22-24,Upper confident interval,69.62666
+25-27,Upper confident interval,71.70618
+28-30,Upper confident interval,68.10874
+31-33,Upper confident interval,61.98895
+34-36,Upper confident interval,60.2944
+37-39,Upper confident interval,56.43076
+40-42,Upper confident interval,62.26532
+43-45,Upper confident interval,57.53976
+46-48,Upper confident interval,56.59928
+49-51,Upper confident interval,53.11795
+52-54,Upper confident interval,53.08669
+55-57,Upper confident interval,54.10011
+58-60,Upper confident interval,51.35422
+61-63,Upper confident interval,52.88554
+64-66,Upper confident interval,53.79155
+67-69,Upper confident interval,51.55565
+Over 70,Upper confident interval,49.98418
+1-3,Lower confidence interval,32.60095
+4-6,Lower confidence interval,48.6027
+7-9,Lower confidence interval,58.57956
+10-12,Lower confidence interval,65.03763
+13-15,Lower confidence interval,70.44682
+16-18,Lower confidence interval,70.77718
+19-21,Lower confidence interval,67.34727
+22-24,Lower confidence interval,60.49009
+25-27,Lower confidence interval,63.18375
+28-30,Lower confidence interval,59.9625
+31-33,Lower confidence interval,54.33608
+34-36,Lower confidence interval,52.61711
+37-39,Lower confidence interval,49.23204
+40-42,Lower confidence interval,54.97385
+43-45,Lower confidence interval,50.65316
+46-48,Lower confidence interval,49.55708
+49-51,Lower confidence interval,45.76262
+52-54,Lower confidence interval,45.72055
+55-57,Lower confidence interval,46.01185
+58-60,Lower confidence interval,43.40566
+61-63,Lower confidence interval,44.90962
+64-66,Lower confidence interval,45.843
+67-69,Lower confidence interval,43.09955
+Over 70,Lower confidence interval,45.59816
+1-3,Recommended maximum,0
+4-6,Recommended maximum,19
+7-9,Recommended maximum,24
+10-12,Recommended maximum,27.76238
+13-15,Recommended maximum,30
+16-18,Recommended maximum,30
+19-21,Recommended maximum,30
+22-24,Recommended maximum,30
+25-27,Recommended maximum,30
+28-30,Recommended maximum,30
+31-33,Recommended maximum,30
+34-36,Recommended maximum,30
+37-39,Recommended maximum,30
+40-42,Recommended maximum,30
+43-45,Recommended maximum,30
+46-48,Recommended maximum,30
+49-51,Recommended maximum,30
+52-54,Recommended maximum,30
+55-57,Recommended maximum,30
+58-60,Recommended maximum,30
+61-63,Recommended maximum,30
+64-66,Recommended maximum,30
+67-69,Recommended maximum,30
+Over 70,Recommended maximum,30
