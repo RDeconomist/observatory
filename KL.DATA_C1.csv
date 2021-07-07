@@ -1,0 +1,19 @@
+Time,Downturn,Value,Detail
+12 months before,Great Recession,1.1,"Output per hour, Q on Q growth rate (%), seasonally adjusted"
+9 months before,Great Recession,1.9,GR (2007Q2 to 2010Q2). Covid (2019Q1 to 2021Q1)
+6 months before,Great Recession,1.9,
+3 months before,Great Recession,1.1,
+Start of crisis,Great Recession,0.2,
+3 months after,Great Recession,-1.6,
+6 months after,Great Recession,-3.6,
+9 months after,Great Recession,-4.8,
+12 months after,Great Recession,-3.4,
+12 months before,Covid-19,-0.1,
+9 months before,Covid-19,-0.1,
+6 months before,Covid-19,0.6,
+3 months before,Covid-19,0.4,
+Start of crisis,Covid-19,0.0,
+3 months after,Covid-19,-1.8,
+6 months after,Covid-19,4.0,
+9 months after,Covid-19,-0.7,
+12 months after,Covid-19,0.9,
