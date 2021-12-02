@@ -1,0 +1,71 @@
+Decile,Tax,Value
+First,Income tax,0.066449982
+Second,Income tax,0.048330404
+Third,Income tax,0.043457621
+Fourth,Income tax,0.072419053
+Fifth,Income tax,0.078999971
+Sixth,Income tax,0.094024164
+Seventh,Income tax,0.101099566
+Eight,Income tax,0.117873315
+Ninth,Income tax,0.135919524
+Tenth,Income tax,0.178697134
+First,Employees NI,0.011827375
+Second,Employees NI,0.0228471
+Third,Employees NI,0.027058519
+Fourth,Employees NI,0.037821535
+Fifth,Employees NI,0.045684985
+Sixth,Employees NI,0.052188299
+Seventh,Employees NI,0.057505779
+Eight,Employees NI,0.05828977
+Ninth,Employees NI,0.062489679
+Tenth,Employees NI,0.04387252
+First,Council tax,0.079451065
+Second,Council tax,0.047658431
+Third,Council tax,0.040134645
+Fourth,Council tax,0.036850863
+Fifth,Council tax,0.033604681
+Sixth,Council tax,0.031859427
+Seventh,Council tax,0.028774492
+Eight,Council tax,0.025665682
+Ninth,Council tax,0.020022568
+Tenth,Council tax,0.014095009
+First,VAT,0.126760563
+Second,VAT,0.084358524
+Third,VAT,0.073925427
+Fourth,VAT,0.076093739
+Fifth,VAT,0.069642805
+Sixth,VAT,0.073068632
+Seventh,VAT,0.067399711
+Eight,VAT,0.066384601
+Ninth,VAT,0.064209831
+Tenth,VAT,0.048915614
+First,Other indirect,0.109967497
+Second,Other indirect,0.074537372
+Third,Other indirect,0.0620145
+Fourth,Other indirect,0.059384317
+Fifth,Other indirect,0.05443379
+Sixth,Other indirect,0.050734446
+Seventh,Other indirect,0.047784667
+Eight,Other indirect,0.043900904
+Ninth,Other indirect,0.04155887
+Tenth,Other indirect,0.027107637
+First,Employer NI,0.033405562
+Second,Employer NI,0.021451463
+Third,Employer NI,0.018211635
+Fourth,Employer NI,0.016917424
+Fifth,Employer NI,0.015180046
+Sixth,Employer NI,0.014638793
+Seventh,Employer NI,0.013393532
+Eight,Employer NI,0.012553106
+Ninth,Employer NI,0.011724556
+Tenth,Employer NI,0.008891561
+First,Other immediate,0.04785121
+Second,Other immediate,0.030704022
+Third,Other immediate,0.026109097
+Fourth,Other immediate,0.024197462
+Fifth,Other immediate,0.021785104
+Sixth,Other immediate,0.021005665
+Seventh,Other immediate,0.019291007
+Eight,Other immediate,0.018095355
+Ninth,Other immediate,0.016953817
+Tenth,Other immediate,0.01297254
