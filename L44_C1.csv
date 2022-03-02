@@ -1,0 +1,337 @@
+date,region,rank
+1985,UKI Greater London,1
+1986,UKI Greater London,1
+1987,UKI Greater London,1
+1988,UKI Greater London,1
+1989,UKI Greater London,1
+1990,UKI Greater London,1
+1991,UKI Greater London,1
+1992,UKI Greater London,1
+1993,UKI Greater London,1
+1994,UKI Greater London,1
+1995,UKI Greater London,1
+1996,UKI Greater London,1
+1997,UKI Greater London,1
+1998,UKI Greater London,1
+1999,UKI Greater London,1
+2000,UKI Greater London,1
+2001,UKI Greater London,1
+2002,UKI Greater London,1
+2003,UKI Greater London,1
+2004,UKI Greater London,1
+2005,UKI Greater London,1
+2006,UKI Greater London,1
+2007,UKI Greater London,1
+2008,UKI Greater London,1
+2009,UKI Greater London,1
+2010,UKI Greater London,1
+2011,UKI Greater London,1
+2012,UKI Greater London,1
+1985,UKJ South East England,3
+1986,UKJ South East England,3
+1987,UKJ South East England,2
+1988,UKJ South East England,2
+1989,UKJ South East England,2
+1990,UKJ South East England,2
+1991,UKJ South East England,2
+1992,UKJ South East England,2
+1993,UKJ South East England,2
+1994,UKJ South East England,2
+1995,UKJ South East England,2
+1996,UKJ South East England,2
+1997,UKJ South East England,2
+1998,UKJ South East England,2
+1999,UKJ South East England,2
+2000,UKJ South East England,2
+2001,UKJ South East England,2
+2002,UKJ South East England,2
+2003,UKJ South East England,2
+2004,UKJ South East England,2
+2005,UKJ South East England,2
+2006,UKJ South East England,2
+2007,UKJ South East England,2
+2008,UKJ South East England,2
+2009,UKJ South East England,2
+2010,UKJ South East England,2
+2011,UKJ South East England,2
+2012,UKJ South East England,2
+1985,UKM Scotland,5
+1986,UKM Scotland,6
+1987,UKM Scotland,6
+1988,UKM Scotland,7
+1989,UKM Scotland,6
+1990,UKM Scotland,5
+1991,UKM Scotland,5
+1992,UKM Scotland,4
+1993,UKM Scotland,4
+1994,UKM Scotland,4
+1995,UKM Scotland,3
+1996,UKM Scotland,3
+1997,UKM Scotland,3
+1998,UKM Scotland,3
+1999,UKM Scotland,4
+2000,UKM Scotland,4
+2001,UKM Scotland,4
+2002,UKM Scotland,4
+2003,UKM Scotland,4
+2004,UKM Scotland,4
+2005,UKM Scotland,4
+2006,UKM Scotland,3
+2007,UKM Scotland,3
+2008,UKM Scotland,3
+2009,UKM Scotland,3
+2010,UKM Scotland,3
+2011,UKM Scotland,3
+2012,UKM Scotland,3
+1985,UKH East of England,2
+1986,UKH East of England,2
+1987,UKH East of England,3
+1988,UKH East of England,3
+1989,UKH East of England,3
+1990,UKH East of England,3
+1991,UKH East of England,3
+1992,UKH East of England,3
+1993,UKH East of England,3
+1994,UKH East of England,3
+1995,UKH East of England,4
+1996,UKH East of England,4
+1997,UKH East of England,4
+1998,UKH East of England,4
+1999,UKH East of England,3
+2000,UKH East of England,3
+2001,UKH East of England,3
+2002,UKH East of England,3
+2003,UKH East of England,3
+2004,UKH East of England,3
+2005,UKH East of England,3
+2006,UKH East of England,4
+2007,UKH East of England,4
+2008,UKH East of England,4
+2009,UKH East of England,4
+2010,UKH East of England,4
+2011,UKH East of England,4
+2012,UKH East of England,4
+1985,UKF East Midlands,4
+1986,UKF East Midlands,4
+1987,UKF East Midlands,4
+1988,UKF East Midlands,4
+1989,UKF East Midlands,4
+1990,UKF East Midlands,4
+1991,UKF East Midlands,4
+1992,UKF East Midlands,5
+1993,UKF East Midlands,5
+1994,UKF East Midlands,5
+1995,UKF East Midlands,5
+1996,UKF East Midlands,5
+1997,UKF East Midlands,5
+1998,UKF East Midlands,6
+1999,UKF East Midlands,7
+2000,UKF East Midlands,6
+2001,UKF East Midlands,6
+2002,UKF East Midlands,6
+2003,UKF East Midlands,6
+2004,UKF East Midlands,6
+2005,UKF East Midlands,6
+2006,UKF East Midlands,6
+2007,UKF East Midlands,6
+2008,UKF East Midlands,6
+2009,UKF East Midlands,6
+2010,UKF East Midlands,6
+2011,UKF East Midlands,7
+2012,UKF East Midlands,8
+1985,UKG West Midlands,9
+1986,UKG West Midlands,9
+1987,UKG West Midlands,9
+1988,UKG West Midlands,8
+1989,UKG West Midlands,8
+1990,UKG West Midlands,7
+1991,UKG West Midlands,7
+1992,UKG West Midlands,7
+1993,UKG West Midlands,7
+1994,UKG West Midlands,7
+1995,UKG West Midlands,6
+1996,UKG West Midlands,7
+1997,UKG West Midlands,7
+1998,UKG West Midlands,7
+1999,UKG West Midlands,6
+2000,UKG West Midlands,7
+2001,UKG West Midlands,7
+2002,UKG West Midlands,7
+2003,UKG West Midlands,7
+2004,UKG West Midlands,7
+2005,UKG West Midlands,7
+2006,UKG West Midlands,8
+2007,UKG West Midlands,8
+2008,UKG West Midlands,8
+2009,UKG West Midlands,8
+2010,UKG West Midlands,8
+2011,UKG West Midlands,9
+2012,UKG West Midlands,9
+1985,UKK South West England,8
+1986,UKK South West England,8
+1987,UKK South West England,7
+1988,UKK South West England,6
+1989,UKK South West England,5
+1990,UKK South West England,6
+1991,UKK South West England,6
+1992,UKK South West England,6
+1993,UKK South West England,6
+1994,UKK South West England,6
+1995,UKK South West England,7
+1996,UKK South West England,6
+1997,UKK South West England,6
+1998,UKK South West England,5
+1999,UKK South West England,5
+2000,UKK South West England,5
+2001,UKK South West England,5
+2002,UKK South West England,5
+2003,UKK South West England,5
+2004,UKK South West England,5
+2005,UKK South West England,5
+2006,UKK South West England,5
+2007,UKK South West England,5
+2008,UKK South West England,5
+2009,UKK South West England,5
+2010,UKK South West England,5
+2011,UKK South West England,5
+2012,UKK South West England,5
+1985,UKD North West England,6
+1986,UKD North West England,5
+1987,UKD North West England,5
+1988,UKD North West England,5
+1989,UKD North West England,7
+1990,UKD North West England,8
+1991,UKD North West England,9
+1992,UKD North West England,8
+1993,UKD North West England,8
+1994,UKD North West England,8
+1995,UKD North West England,8
+1996,UKD North West England,8
+1997,UKD North West England,9
+1998,UKD North West England,8
+1999,UKD North West England,8
+2000,UKD North West England,8
+2001,UKD North West England,8
+2002,UKD North West England,9
+2003,UKD North West England,9
+2004,UKD North West England,9
+2005,UKD North West England,8
+2006,UKD North West England,7
+2007,UKD North West England,7
+2008,UKD North West England,7
+2009,UKD North West England,7
+2010,UKD North West England,7
+2011,UKD North West England,6
+2012,UKD North West England,6
+1985,UKE Yorkshire & The Humber,7
+1986,UKE Yorkshire & The Humber,7
+1987,UKE Yorkshire & The Humber,8
+1988,UKE Yorkshire & The Humber,9
+1989,UKE Yorkshire & The Humber,9
+1990,UKE Yorkshire & The Humber,9
+1991,UKE Yorkshire & The Humber,8
+1992,UKE Yorkshire & The Humber,9
+1993,UKE Yorkshire & The Humber,9
+1994,UKE Yorkshire & The Humber,9
+1995,UKE Yorkshire & The Humber,9
+1996,UKE Yorkshire & The Humber,9
+1997,UKE Yorkshire & The Humber,8
+1998,UKE Yorkshire & The Humber,9
+1999,UKE Yorkshire & The Humber,9
+2000,UKE Yorkshire & The Humber,9
+2001,UKE Yorkshire & The Humber,9
+2002,UKE Yorkshire & The Humber,8
+2003,UKE Yorkshire & The Humber,8
+2004,UKE Yorkshire & The Humber,8
+2005,UKE Yorkshire & The Humber,9
+2006,UKE Yorkshire & The Humber,9
+2007,UKE Yorkshire & The Humber,9
+2008,UKE Yorkshire & The Humber,9
+2009,UKE Yorkshire & The Humber,9
+2010,UKE Yorkshire & The Humber,9
+2011,UKE Yorkshire & The Humber,8
+2012,UKE Yorkshire & The Humber,7
+1985,UKL Wales,11
+1986,UKL Wales,11
+1987,UKL Wales,10
+1988,UKL Wales,10
+1989,UKL Wales,10
+1990,UKL Wales,10
+1991,UKL Wales,10
+1992,UKL Wales,11
+1993,UKL Wales,11
+1994,UKL Wales,11
+1995,UKL Wales,10
+1996,UKL Wales,10
+1997,UKL Wales,10
+1998,UKL Wales,12
+1999,UKL Wales,12
+2000,UKL Wales,12
+2001,UKL Wales,12
+2002,UKL Wales,12
+2003,UKL Wales,12
+2004,UKL Wales,12
+2005,UKL Wales,12
+2006,UKL Wales,12
+2007,UKL Wales,12
+2008,UKL Wales,12
+2009,UKL Wales,12
+2010,UKL Wales,12
+2011,UKL Wales,12
+2012,UKL Wales,12
+1985,UKC North East England,10
+1986,UKC North East England,10
+1987,UKC North East England,11
+1988,UKC North East England,11
+1989,UKC North East England,11
+1990,UKC North East England,11
+1991,UKC North East England,11
+1992,UKC North East England,10
+1993,UKC North East England,10
+1994,UKC North East England,10
+1995,UKC North East England,11
+1996,UKC North East England,11
+1997,UKC North East England,11
+1998,UKC North East England,10
+1999,UKC North East England,11
+2000,UKC North East England,11
+2001,UKC North East England,11
+2002,UKC North East England,11
+2003,UKC North East England,11
+2004,UKC North East England,11
+2005,UKC North East England,11
+2006,UKC North East England,11
+2007,UKC North East England,11
+2008,UKC North East England,11
+2009,UKC North East England,11
+2010,UKC North East England,11
+2011,UKC North East England,11
+2012,UKC North East England,11
+1985,UKN Northern Ireland,12
+1986,UKN Northern Ireland,12
+1987,UKN Northern Ireland,12
+1988,UKN Northern Ireland,12
+1989,UKN Northern Ireland,12
+1990,UKN Northern Ireland,12
+1991,UKN Northern Ireland,12
+1992,UKN Northern Ireland,12
+1993,UKN Northern Ireland,12
+1994,UKN Northern Ireland,12
+1995,UKN Northern Ireland,12
+1996,UKN Northern Ireland,12
+1997,UKN Northern Ireland,12
+1998,UKN Northern Ireland,11
+1999,UKN Northern Ireland,10
+2000,UKN Northern Ireland,10
+2001,UKN Northern Ireland,10
+2002,UKN Northern Ireland,10
+2003,UKN Northern Ireland,10
+2004,UKN Northern Ireland,10
+2005,UKN Northern Ireland,10
+2006,UKN Northern Ireland,10
+2007,UKN Northern Ireland,10
+2008,UKN Northern Ireland,10
+2009,UKN Northern Ireland,10
+2010,UKN Northern Ireland,10
+2011,UKN Northern Ireland,10
+2012,UKN Northern Ireland,10
