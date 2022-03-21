@@ -1,0 +1,40 @@
+date,metric,value
+2019 Q4,Sales,0.00
+2020 Q1,Sales,-2.67
+2020 Q2,Sales,-30.58
+2020 Q3,Sales,-18.14
+2020 Q4,Sales,-15.70
+2021 Q1,Sales,-18.65
+2021 Q2,Sales,-5.91
+2021 Q3,Sales,-3.56
+2021 Q4,Sales,-6.36
+2022 Q1,Sales,-7.24
+2022 Q2,Sales,-3.67
+2022 Q3,Sales,-0.22
+2023+,Sales,0.76
+2019 Q4,Employment,0.00
+2020 Q1,Employment,-0.74
+2020 Q2,Employment,-4.34
+2020 Q3,Employment,-9.05
+2020 Q4,Employment,-7.72
+2021 Q1,Employment,-6.51
+2021 Q2,Employment,-2.82
+2021 Q3,Employment,-3.06
+2021 Q4,Employment,-3.45
+2022 Q1,Employment,-4.04
+2022 Q2,Employment,-2.23
+2022 Q3,Employment,-0.68
+2023+,Employment,0.72
+2019 Q4,Investment,0.00
+2020 Q1,Investment,-0.42
+2020 Q2,Investment,-34.67
+2020 Q3,Investment,-25.44
+2020 Q4,Investment,-23.57
+2021 Q1,Investment,-18.24
+2021 Q2,Investment,-10.80
+2021 Q3,Investment,-8.51
+2021 Q4,Investment,-11.37
+2022 Q1,Investment,-6.19
+2022 Q2,Investment,-1.27
+2022 Q3,Investment,0.24
+2023+,Investment,1.37
