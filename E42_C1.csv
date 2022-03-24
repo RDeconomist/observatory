@@ -1,0 +1,16 @@
+view,body,value
+Remain,CBI,80
+Leave,CBI,5
+Undecided,CBI,15
+Remain,BCC,54
+Leave,BCC,37
+Undecided,BCC,8
+Remain,IoD,60
+Leave,IoD,31
+Undecided,IoD,10
+Remain,FSB,47
+Leave,FSB,41
+Undecided,FSB,11
+Remain,BAB,95
+Leave,BAB,5
+Undecided,BAB,0
