@@ -1,0 +1,61 @@
+region,value,ethnicity
+East,4.8,Asian
+East Midlands,6.5,Asian
+London,18.5,Asian
+North East,2.9,Asian
+North West,6.2,Asian
+South East,5.2,Asian
+South West,2,Asian
+Wales,2.3,Asian
+West Midlands,10.8,Asian
+Yorkshire and The Humber,7.3,Asian
+East,2,Black
+East Midlands,1.8,Black
+London,13.3,Black
+North East,0.5,Black
+North West,1.4,Black
+South East,1.6,Black
+South West,0.9,Black
+Wales,0.6,Black
+West Midlands,3.3,Black
+Yorkshire and The Humber,1.5,Black
+East,1.9,Mixed
+East Midlands,1.9,Mixed
+London,5,Mixed
+North East,0.9,Mixed
+North West,1.6,Mixed
+South East,1.9,Mixed
+South West,1.4,Mixed
+Wales,1,Mixed
+West Midlands,2.4,Mixed
+Yorkshire and The Humber,1.6,Mixed
+East,85.3,White British
+East Midlands,85.4,White British
+London,44.9,White British
+North East,93.6,White British
+North West,87.1,White British
+South East,85.2,White British
+South West,91.8,White British
+Wales,93.2,White British
+West Midlands,79.2,White British
+Yorkshire and The Humber,85.8,White British
+East,5.5,White other
+East Midlands,3.9,White other
+London,14.9,White other
+North East,1.7,White other
+North West,3.1,White other
+South East,5.4,White other
+South West,3.6,White other
+Wales,2.4,White other
+West Midlands,3.6,White other
+Yorkshire and The Humber,3,White other
+East,0.5,Other
+East Midlands,0.6,Other
+London,3.4,Other
+North East,0.4,Other
+North West,0.6,Other
+South East,0.6,Other
+South West,0.3,Other
+Wales,0.5,Other
+West Midlands,0.9,Other
+Yorkshire and The Humber,0.8,Other
