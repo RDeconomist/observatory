@@ -1,0 +1,13 @@
+country,level,value
+Scotland,NVQ1/no qualifications,15.1
+England,NVQ1/no qualifications,16.1
+Wales,NVQ1/no qualifications,17.9
+Northern Ireland,NVQ1/no qualifications,21.4
+Scotland,NVQ2/NVQ3/apprenticeship/other,35.9
+England,NVQ2/NVQ3/apprenticeship/other,41.2
+Wales,NVQ2/NVQ3/apprenticeship/other,43.6
+Northern Ireland,NVQ2/NVQ3/apprenticeship/other,40.7
+Scotland,NVQ4 +,49
+England,NVQ4 +,42.8
+Wales,NVQ4 +,38.5
+Northern Ireland,NVQ4 +,38
