@@ -1,0 +1,85 @@
+date,country,value
+2010,UK,1.32
+2011,UK,0.62
+2012,UK,0.80
+2013,UK,1.25
+2014,UK,2.21
+2015,UK,1.81
+2016,UK,1.43
+2017,UK,1.53
+2018,UK,1.05
+2019,UK,1.12
+2020,UK,-9.78
+2021,UK,null
+2010,United States,1.87
+2011,United States,0.82
+2012,United States,1.56
+2013,United States,1.15
+2014,United States,1.56
+2015,United States,1.97
+2016,United States,0.95
+2017,United States,1.62
+2018,United States,2.37
+2019,United States,1.80
+2020,United States,-3.88
+2021,United States,null
+2010,Japan,4.09
+2011,Japan,0.19
+2012,Japan,1.60
+2013,Japan,2.18
+2014,Japan,0.35
+2015,Japan,1.68
+2016,Japan,0.89
+2017,Japan,1.86
+2018,Japan,0.79
+2019,Japan,-0.02
+2020,Japan,-4.16
+2021,Japan,null
+2010,Germany,4.44
+2011,Germany,3.94
+2012,Germany,0.23
+2013,Germany,0.16
+2014,Germany,1.78
+2015,Germany,0.62
+2016,Germany,1.41
+2017,Germany,2.30
+2018,Germany,0.78
+2019,Germany,0.83
+2020,Germany,-4.65
+2021,Germany,2.85
+2010,France,1.45
+2011,France,1.69
+2012,France,-0.18
+2013,France,0.06
+2014,France,0.47
+2015,France,0.70
+2016,France,0.72
+2017,France,1.86
+2018,France,1.45
+2019,France,1.50
+2020,France,-8.11
+2021,France,6.66
+2010,Canada,1.95
+2011,Canada,2.14
+2012,Canada,0.66
+2013,Canada,1.25
+2014,Canada,1.84
+2015,Canada,-0.09
+2016,Canada,-0.14
+2017,Canada,1.81
+2018,Canada,0.99
+2019,Canada,0.41
+2020,Canada,-5.98
+2021,Canada,3.99
+2010,Italy,1.26
+2011,Italy,0.36
+2012,Italy,-3.25
+2013,Italy,-2.04
+2014,Italy,-0.02
+2015,Italy,0.93
+2016,Italy,1.49
+2017,Italy,1.86
+2018,Italy,1.14
+2019,Italy,0.75
+2020,Italy,-8.58
+2021,Italy,null

@@ -1,0 +1,65 @@
+date,country,value
+2016,UK,2.3
+2017,UK,2.1
+2018,UK,1.7
+2019,UK,1.7
+2020,UK,-9.7
+2021,UK,6.9
+2022,UK,4.7
+2023,UK,2.07
+2016,Euro area,1.8
+2017,Euro area,2.8
+2018,Euro area,1.8
+2019,Euro area,1.6
+2020,Euro area,-6.5
+2021,Euro area,5.2
+2022,Euro area,4.3
+2023,Euro area,2.5
+2016,United States,1.7
+2017,United States,2.3
+2018,United States,2.9
+2019,United States,2.3
+2020,United States,-3.4
+2021,United States,5.6
+2022,United States,3.7
+2023,United States,2.4
+2016,Japan,0.8
+2017,Japan,1.7
+2018,Japan,0.6
+2019,Japan,0
+2020,Japan,-4.6
+2021,Japan,1.8
+2022,Japan,3.4
+2023,Japan,1.1
+2016,Germany,2.1
+2017,Germany,3
+2018,Germany,1.1
+2019,Germany,1.1
+2020,Germany,-4.9
+2021,Germany,2.9
+2022,Germany,4.1
+2023,Germany,2.4
+2016,France,1
+2017,France,2.4
+2018,France,1.8
+2019,France,1.8
+2020,France,-8
+2021,France,6.8
+2022,France,4.2
+2023,France,2.09
+2016,Canada,1
+2017,Canada,3
+2018,Canada,2.4
+2019,Canada,1.9
+2020,Canada,-5.3
+2021,Canada,4.8
+2022,Canada,3.9
+2023,Canada,2.8
+2016,Italy,1.4
+2017,Italy,1.7
+2018,Italy,0.8
+2019,Italy,0.4
+2020,Italy,-9
+2021,Italy,6.3
+2022,Italy,4.6
+2023,Italy,2.6
