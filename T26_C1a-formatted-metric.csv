@@ -1,0 +1,205 @@
+date,metric,value,value2,metric2
+1921,Inflation,8.02,null,Inflation
+1922,Inflation,14.58,null,Inflation
+1923,Inflation,6.42,null,Inflation
+1924,Inflation,0.73,null,Inflation
+1925,Inflation,-0.19,null,Inflation
+1926,Inflation,0.72,null,Inflation
+1927,Inflation,2.5,null,Inflation
+1928,Inflation,0.34,null,Inflation
+1929,Inflation,0.92,null,Inflation
+1930,Inflation,2.8,null,Inflation
+1931,Inflation,4.29,null,Inflation
+1932,Inflation,2.59,null,Inflation
+1933,Inflation,2.18,null,Inflation
+1934,Inflation,0.05,null,Inflation
+1935,Inflation,-0.73,null,Inflation
+1936,Inflation,-0.84,null,Inflation
+1937,Inflation,-3.38,null,Inflation
+1938,Inflation,-1.59,null,Inflation
+1939,Inflation,-3.06,null,Inflation
+1940,Inflation,-17.01,null,Inflation
+1941,Inflation,-10.81,null,Inflation
+1942,Inflation,-7.12,null,Inflation
+1943,Inflation,-3.4,null,Inflation
+1944,Inflation,-2.63,null,Inflation
+1945,Inflation,-2.53,null,Inflation
+1946,Inflation,-3.38,null,Inflation
+1947,Inflation,-6.89,null,Inflation
+1948,Inflation,-7.25,null,Inflation
+1949,Inflation,-2.68,null,Inflation
+1950,Inflation,-2.89,null,Inflation
+1951,Inflation,-9.32,null,Inflation
+1952,Inflation,-5.44,null,Inflation
+1953,Inflation,-2.38,null,Inflation
+1954,Inflation,-1.96,null,Inflation
+1955,Inflation,-3.91,null,Inflation
+1956,Inflation,-5.18,null,Inflation
+1957,Inflation,-3.61,null,Inflation
+1958,Inflation,-2.93,null,Inflation
+1959,Inflation,-1.16,null,Inflation
+1960,Inflation,-1.31,null,Inflation
+1961,Inflation,-3.26,null,Inflation
+1962,Inflation,-3.87,null,Inflation
+1963,Inflation,-1.92,null,Inflation
+1964,Inflation,-3.97,null,Inflation
+1965,Inflation,-5.57,null,Inflation
+1966,Inflation,-4.32,null,Inflation
+1967,Inflation,-3.1,null,Inflation
+1968,Inflation,-5.32,null,Inflation
+1969,Inflation,-6.18,null,Inflation
+1970,Inflation,-6.8,null,Inflation
+1971,Inflation,-8.97,null,Inflation
+1972,Inflation,-7.51,null,Inflation
+1973,Inflation,-9.96,null,Inflation
+1974,Inflation,-18.28,null,Inflation
+1975,Inflation,-23.57,null,Inflation
+1976,Inflation,-16.53,null,Inflation
+1977,Inflation,-14.81,null,Inflation
+1978,Inflation,-10.66,null,Inflation
+1979,Inflation,-14.58,null,Inflation
+1980,Inflation,-17.22,null,Inflation
+1981,Inflation,-12.32,null,Inflation
+1982,Inflation,-9.19,null,Inflation
+1983,Inflation,-5.97,null,Inflation
+1984,Inflation,-5.51,null,Inflation
+1985,Inflation,-4.36,null,Inflation
+1986,Inflation,-4.46,null,Inflation
+1987,Inflation,-4.5,null,Inflation
+1988,Inflation,-5.3,null,Inflation
+1989,Inflation,-5.88,null,Inflation
+1990,Inflation,-7.86,null,Inflation
+1991,Inflation,-7.56,null,Inflation
+1992,Inflation,-4.11,null,Inflation
+1993,Inflation,-3.5,null,Inflation
+1994,Inflation,-1.73,null,Inflation
+1995,Inflation,-3.04,null,Inflation
+1996,Inflation,-3.63,null,Inflation
+1997,Inflation,-1.94,null,Inflation
+1998,Inflation,-1.52,null,Inflation
+1999,Inflation,-0.5,null,Inflation
+2000,Inflation,-0.61,null,Inflation
+2001,Inflation,-0.88,null,Inflation
+2002,Inflation,-0.49,null,Inflation
+2003,Inflation,-1.44,null,Inflation
+2004,Inflation,-1.92,null,Inflation
+2005,Inflation,-2.7,null,Inflation
+2006,Inflation,-2.68,null,Inflation
+2007,Inflation,-2.62,null,Inflation
+2008,Inflation,-3.6,null,Inflation
+2009,Inflation,-0.63,null,Inflation
+2010,Inflation,-1.21,null,Inflation
+2011,Inflation,-3.68,null,Inflation
+2012,Inflation,-1.85,null,Inflation
+2013,Inflation,-2.2,null,Inflation
+2014,Inflation,-1.4,null,Inflation
+2015,Inflation,0.42,null,Inflation
+2016,Inflation,-1.13,null,Inflation
+2017,Inflation,-1.79,null,Inflation
+2018,Inflation,-2.05,null,Inflation
+2019,Inflation,-1.34,null,Inflation
+2020,Inflation,-1.05,null,Inflation
+2021,Inflation,-2.46,null,Inflation
+2022,Inflation,null,-5.5,Inflation
+1921,Nominal income ,-16.55,null,Nominal income 
+1922,Nominal income ,-11.23,null,Nominal income 
+1923,Nominal income ,-2.66,null,Nominal income 
+1924,Nominal income ,2.97,null,Nominal income 
+1925,Nominal income ,1.06,null,Nominal income 
+1926,Nominal income ,-0.9,null,Nominal income 
+1927,Nominal income ,3.95,null,Nominal income 
+1928,Nominal income ,-0.38,null,Nominal income 
+1929,Nominal income ,0.96,null,Nominal income 
+1930,Nominal income ,-2.19,null,Nominal income 
+1931,Nominal income ,-4.14,null,Nominal income 
+1932,Nominal income ,-4.5,null,Nominal income 
+1933,Nominal income ,1.97,null,Nominal income 
+1934,Nominal income ,1.38,null,Nominal income 
+1935,Nominal income ,4.54,null,Nominal income 
+1936,Nominal income ,5.03,null,Nominal income 
+1937,Nominal income ,3.57,null,Nominal income 
+1938,Nominal income ,0.75,null,Nominal income 
+1939,Nominal income ,6.14,null,Nominal income 
+1940,Nominal income ,15.9,null,Nominal income 
+1941,Nominal income ,10.62,null,Nominal income 
+1942,Nominal income ,6.08,null,Nominal income 
+1943,Nominal income ,2.81,null,Nominal income 
+1944,Nominal income ,1.2,null,Nominal income 
+1945,Nominal income ,0.29,null,Nominal income 
+1946,Nominal income ,3.65,null,Nominal income 
+1947,Nominal income ,8.01,null,Nominal income 
+1948,Nominal income ,6.65,null,Nominal income 
+1949,Nominal income ,4.57,null,Nominal income 
+1950,Nominal income ,5.54,null,Nominal income 
+1951,Nominal income ,8.73,null,Nominal income 
+1952,Nominal income ,7.25,null,Nominal income 
+1953,Nominal income ,6.95,null,Nominal income 
+1954,Nominal income ,4.96,null,Nominal income 
+1955,Nominal income ,8.13,null,Nominal income 
+1956,Nominal income ,7.08,null,Nominal income 
+1957,Nominal income ,4.74,null,Nominal income 
+1958,Nominal income ,4.43,null,Nominal income 
+1959,Nominal income ,5.78,null,Nominal income 
+1960,Nominal income ,7.09,null,Nominal income 
+1961,Nominal income ,6.53,null,Nominal income 
+1962,Nominal income ,4.14,null,Nominal income 
+1963,Nominal income ,5.2,null,Nominal income 
+1964,Nominal income ,7.64,null,Nominal income 
+1965,Nominal income ,6.88,null,Nominal income 
+1966,Nominal income ,5.94,null,Nominal income 
+1967,Nominal income ,3.9,null,Nominal income 
+1968,Nominal income ,6.57,null,Nominal income 
+1969,Nominal income ,6.69,null,Nominal income 
+1970,Nominal income ,10.21,null,Nominal income 
+1971,Nominal income ,9.87,null,Nominal income 
+1972,Nominal income ,15.6,null,Nominal income 
+1973,Nominal income ,16.07,null,Nominal income 
+1974,Nominal income ,17.42,null,Nominal income 
+1975,Nominal income ,24.47,null,Nominal income 
+1976,Nominal income ,16.21,null,Nominal income 
+1977,Nominal income ,13.07,null,Nominal income 
+1978,Nominal income ,18,null,Nominal income 
+1979,Nominal income ,20.41,null,Nominal income 
+1980,Nominal income ,18.65,null,Nominal income 
+1981,Nominal income ,11.86,null,Nominal income 
+1982,Nominal income ,9.48,null,Nominal income 
+1983,Nominal income ,8.48,null,Nominal income 
+1984,Nominal income ,8.98,null,Nominal income 
+1985,Nominal income ,8.53,null,Nominal income 
+1986,Nominal income ,8.47,null,Nominal income 
+1987,Nominal income ,6.58,null,Nominal income 
+1988,Nominal income ,10.54,null,Nominal income 
+1989,Nominal income ,10.77,null,Nominal income 
+1990,Nominal income ,11.51,null,Nominal income 
+1991,Nominal income ,9.15,null,Nominal income 
+1992,Nominal income ,6.6,null,Nominal income 
+1993,Nominal income ,5.88,null,Nominal income 
+1994,Nominal income ,3.41,null,Nominal income 
+1995,Nominal income ,5.66,null,Nominal income 
+1996,Nominal income ,5.99,null,Nominal income 
+1997,Nominal income ,4.02,null,Nominal income 
+1998,Nominal income ,2.26,null,Nominal income 
+1999,Nominal income ,4.78,null,Nominal income 
+2000,Nominal income ,6.49,null,Nominal income 
+2001,Nominal income ,3.59,null,Nominal income 
+2002,Nominal income ,3.04,null,Nominal income 
+2003,Nominal income ,2.68,null,Nominal income 
+2004,Nominal income ,4.01,null,Nominal income 
+2005,Nominal income ,4.1,null,Nominal income 
+2006,Nominal income ,4.31,null,Nominal income 
+2007,Nominal income ,4.92,null,Nominal income 
+2008,Nominal income ,2.72,null,Nominal income 
+2009,Nominal income ,1.68,null,Nominal income 
+2010,Nominal income ,1.13,null,Nominal income 
+2011,Nominal income ,1,null,Nominal income 
+2012,Nominal income ,3.69,null,Nominal income 
+2013,Nominal income ,3.28,null,Nominal income 
+2014,Nominal income ,2.51,null,Nominal income 
+2015,Nominal income ,5.25,null,Nominal income 
+2016,Nominal income ,0.78,null,Nominal income 
+2017,Nominal income ,2.07,null,Nominal income 
+2018,Nominal income ,4.24,null,Nominal income 
+2019,Nominal income ,2.13,null,Nominal income 
+2020,Nominal income ,0.35,null,Nominal income 
+2021,Nominal income ,3.39,null,Nominal income 
+2022,Nominal income ,null,3.62,Nominal income 
