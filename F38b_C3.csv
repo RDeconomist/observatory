@@ -1,0 +1,121 @@
+date,region,value
+2010,North East,0.36
+2011,North East,0.99
+2012,North East,1.01
+2013,North East,1.60
+2014,North East,1.93
+2015,North East,2.05
+2016,North East,1.53
+2017,North East,2.23
+2018,North East,2.96
+2019,North East,3.14
+2010,North West,0.14
+2011,North West,0.19
+2012,North West,0.56
+2013,North West,1.36
+2014,North West,1.20
+2015,North West,0.75
+2016,North West,1.03
+2017,North West,0.91
+2018,North West,0.96
+2019,North West,1.57
+2010,Yorkshire & The Humber,0.76
+2011,Yorkshire & The Humber,0.55
+2012,Yorkshire & The Humber,0.27
+2013,Yorkshire & The Humber,0.60
+2014,Yorkshire & The Humber,0.78
+2015,Yorkshire & The Humber,1.24
+2016,Yorkshire & The Humber,1.67
+2017,Yorkshire & The Humber,1.27
+2018,Yorkshire & The Humber,1.29
+2019,Yorkshire & The Humber,1.21
+2010,East Midlands,0.93
+2011,East Midlands,1.55
+2012,East Midlands,1.65
+2013,East Midlands,0.63
+2014,East Midlands,1.20
+2015,East Midlands,1.23
+2016,East Midlands,2.28
+2017,East Midlands,1.55
+2018,East Midlands,1.07
+2019,East Midlands,2.05
+2010,West Midlands,0.13
+2011,West Midlands,0.37
+2012,West Midlands,0.69
+2013,West Midlands,0.92
+2014,West Midlands,0.24
+2015,West Midlands,0.62
+2016,West Midlands,0.60
+2017,West Midlands,1.45
+2018,West Midlands,0.83
+2019,West Midlands,1.08
+2010,East,0.40
+2011,East,-0.28
+2012,East,0.84
+2013,East,0.38
+2014,East,0.48
+2015,East,-0.17
+2016,East,1.23
+2017,East,0.79
+2018,East,1.09
+2019,East,0.94
+2010,London,0.01
+2011,London,0.54
+2012,London,1.81
+2013,London,1.31
+2014,London,2.64
+2015,London,1.99
+2016,London,2.91
+2017,London,2.96
+2018,London,2.53
+2019,London,2.27
+2010,South East,-0.05
+2011,South East,0.17
+2012,South East,0.40
+2013,South East,0.79
+2014,South East,1.03
+2015,South East,1.27
+2016,South East,1.60
+2017,South East,1.01
+2018,South East,1.10
+2019,South East,1.70
+2010,South West,0.00
+2011,South West,0.77
+2012,South West,0.70
+2013,South West,1.22
+2014,South West,1.38
+2015,South West,1.45
+2016,South West,1.13
+2017,South West,1.28
+2018,South West,1.32
+2019,South West,1.52
+2010,Wales,0.09
+2011,Wales,0.04
+2012,Wales,0.51
+2013,Wales,0.75
+2014,Wales,0.62
+2015,Wales,1.10
+2016,Wales,0.56
+2017,Wales,0.85
+2018,Wales,0.36
+2019,Wales,0.73
+2010,Scotland,0.33
+2011,Scotland,0.77
+2012,Scotland,1.21
+2013,Scotland,0.58
+2014,Scotland,0.82
+2015,Scotland,0.64
+2016,Scotland,1.67
+2017,Scotland,1.22
+2018,Scotland,1.12
+2019,Scotland,1.55
+2010,Northern Ireland,1.29
+2011,Northern Ireland,-0.03
+2012,Northern Ireland,-1.37
+2013,Northern Ireland,-1.22
+2014,Northern Ireland,0.04
+2015,Northern Ireland,-1.89
+2016,Northern Ireland,-0.07
+2017,Northern Ireland,-0.06
+2018,Northern Ireland,-0.38
+2019,Northern Ireland,0.30
