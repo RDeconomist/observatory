@@ -1,0 +1,19 @@
+date,region,value
+Oct-Dec 2019,London,0.999
+Jan-March 2022,London,0.632
+Oct-Dec 2019,South East,0.4
+Jan-March 2022,South East,0.284
+Oct-Dec 2019,East of England,0.209
+Jan-March 2022,East of England,0.186
+Oct-Dec 2019,South West,0.134
+Jan-March 2022,South West,0.121
+Oct-Dec 2019,East Midlands,0.15
+Jan-March 2022,East Midlands,0.118
+Oct-Dec 2019,North West,0.124
+Jan-March 2022,North West,0.108
+Oct-Dec 2019,West Midlands,0.151
+Jan-March 2022,West Midlands,0.127
+Oct-Dec 2019,Yorkshire & The Humber,0.125
+Jan-March 2022,Yorkshire & The Humber,0.1
+Oct-Dec 2019,North East,0.028
+Jan-March 2022,North East,0.028
