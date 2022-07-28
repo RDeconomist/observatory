@@ -1,0 +1,916 @@
+date,metric,value
+2007-01-01,CPIH,0
+2007-02-01,CPIH,0
+2007-03-01,CPIH,1
+2007-04-01,CPIH,1
+2007-05-01,CPIH,1
+2007-06-01,CPIH,2
+2007-07-01,CPIH,1
+2007-08-01,CPIH,2
+2007-09-01,CPIH,2
+2007-10-01,CPIH,2
+2007-11-01,CPIH,2
+2007-12-01,CPIH,3
+2008-01-01,CPIH,2
+2008-02-01,CPIH,3
+2008-03-01,CPIH,3
+2008-04-01,CPIH,4
+2008-05-01,CPIH,5
+2008-06-01,CPIH,5
+2008-07-01,CPIH,5
+2008-08-01,CPIH,6
+2008-09-01,CPIH,7
+2008-10-01,CPIH,6
+2008-11-01,CPIH,6
+2008-12-01,CPIH,6
+2009-01-01,CPIH,5
+2009-02-01,CPIH,6
+2009-03-01,CPIH,6
+2009-04-01,CPIH,7
+2009-05-01,CPIH,7
+2009-06-01,CPIH,7
+2009-07-01,CPIH,7
+2009-08-01,CPIH,8
+2009-09-01,CPIH,8
+2009-10-01,CPIH,8
+2009-11-01,CPIH,8
+2009-12-01,CPIH,8
+2010-01-01,CPIH,8
+2010-02-01,CPIH,8
+2010-03-01,CPIH,9
+2010-04-01,CPIH,10
+2010-05-01,CPIH,10
+2010-06-01,CPIH,10
+2010-07-01,CPIH,10
+2010-08-01,CPIH,10
+2010-09-01,CPIH,10
+2010-10-01,CPIH,10
+2010-11-01,CPIH,11
+2010-12-01,CPIH,12
+2011-01-01,CPIH,12
+2011-02-01,CPIH,12
+2011-03-01,CPIH,13
+2011-04-01,CPIH,14
+2011-05-01,CPIH,14
+2011-06-01,CPIH,14
+2011-07-01,CPIH,14
+2011-08-01,CPIH,14
+2011-09-01,CPIH,15
+2011-10-01,CPIH,15
+2011-11-01,CPIH,15
+2011-12-01,CPIH,16
+2012-01-01,CPIH,15
+2012-02-01,CPIH,16
+2012-03-01,CPIH,16
+2012-04-01,CPIH,17
+2012-05-01,CPIH,17
+2012-06-01,CPIH,16
+2012-07-01,CPIH,17
+2012-08-01,CPIH,17
+2012-09-01,CPIH,17
+2012-10-01,CPIH,18
+2012-11-01,CPIH,18
+2012-12-01,CPIH,19
+2013-01-01,CPIH,18
+2013-02-01,CPIH,19
+2013-03-01,CPIH,19
+2013-04-01,CPIH,19
+2013-05-01,CPIH,20
+2013-06-01,CPIH,19
+2013-07-01,CPIH,19
+2013-08-01,CPIH,20
+2013-09-01,CPIH,20
+2013-10-01,CPIH,20
+2013-11-01,CPIH,20
+2013-12-01,CPIH,21
+2014-01-01,CPIH,20
+2014-02-01,CPIH,21
+2014-03-01,CPIH,21
+2014-04-01,CPIH,21
+2014-05-01,CPIH,21
+2014-06-01,CPIH,22
+2014-07-01,CPIH,21
+2014-08-01,CPIH,22
+2014-09-01,CPIH,22
+2014-10-01,CPIH,22
+2014-11-01,CPIH,22
+2014-12-01,CPIH,22
+2015-01-01,CPIH,21
+2015-02-01,CPIH,21
+2015-03-01,CPIH,21
+2015-04-01,CPIH,22
+2015-05-01,CPIH,22
+2015-06-01,CPIH,22
+2015-07-01,CPIH,22
+2015-08-01,CPIH,22
+2015-09-01,CPIH,22
+2015-10-01,CPIH,22
+2015-11-01,CPIH,22
+2015-12-01,CPIH,22
+2016-01-01,CPIH,22
+2016-02-01,CPIH,22
+2016-03-01,CPIH,22
+2016-04-01,CPIH,23
+2016-05-01,CPIH,23
+2016-06-01,CPIH,23
+2016-07-01,CPIH,23
+2016-08-01,CPIH,23
+2016-09-01,CPIH,24
+2016-10-01,CPIH,24
+2016-11-01,CPIH,24
+2016-12-01,CPIH,24
+2017-01-01,CPIH,24
+2017-02-01,CPIH,25
+2017-03-01,CPIH,25
+2017-04-01,CPIH,26
+2017-05-01,CPIH,26
+2017-06-01,CPIH,26
+2017-07-01,CPIH,26
+2017-08-01,CPIH,27
+2017-09-01,CPIH,27
+2017-10-01,CPIH,27
+2017-11-01,CPIH,28
+2017-12-01,CPIH,28
+2018-01-01,CPIH,27
+2018-02-01,CPIH,28
+2018-03-01,CPIH,28
+2018-04-01,CPIH,29
+2018-05-01,CPIH,29
+2018-06-01,CPIH,29
+2018-07-01,CPIH,29
+2018-08-01,CPIH,30
+2018-09-01,CPIH,30
+2018-10-01,CPIH,30
+2018-11-01,CPIH,30
+2018-12-01,CPIH,30
+2019-01-01,CPIH,30
+2019-02-01,CPIH,30
+2019-03-01,CPIH,30
+2019-04-01,CPIH,31
+2019-05-01,CPIH,31
+2019-06-01,CPIH,31
+2019-07-01,CPIH,32
+2019-08-01,CPIH,32
+2019-09-01,CPIH,32
+2019-10-01,CPIH,32
+2019-11-01,CPIH,32
+2019-12-01,CPIH,32
+2020-01-01,CPIH,32
+2020-02-01,CPIH,32
+2020-03-01,CPIH,32
+2020-04-01,CPIH,32
+2020-05-01,CPIH,32
+2020-06-01,CPIH,33
+2020-07-01,CPIH,33
+2020-08-01,CPIH,33
+2020-09-01,CPIH,33
+2020-10-01,CPIH,33
+2020-11-01,CPIH,33
+2020-12-01,CPIH,33
+2021-01-01,CPIH,33
+2021-02-01,CPIH,33
+2021-03-01,CPIH,34
+2021-04-01,CPIH,34
+2021-05-01,CPIH,35
+2021-06-01,CPIH,36
+2021-07-01,CPIH,36
+2021-08-01,CPIH,37
+2021-09-01,CPIH,37
+2021-10-01,CPIH,38
+2021-11-01,CPIH,39
+2021-12-01,CPIH,40
+2022-01-01,CPIH,40
+2022-02-01,CPIH,41
+2022-03-01,CPIH,42
+2007-01-01,GVA,0
+2007-02-01,GVA,0
+2007-03-01,GVA,0
+2007-04-01,GVA,1
+2007-05-01,GVA,1
+2007-06-01,GVA,1
+2007-07-01,GVA,1
+2007-08-01,GVA,1
+2007-09-01,GVA,1
+2007-10-01,GVA,2
+2007-11-01,GVA,2
+2007-12-01,GVA,2
+2008-01-01,GVA,4
+2008-02-01,GVA,4
+2008-03-01,GVA,4
+2008-04-01,GVA,3
+2008-05-01,GVA,3
+2008-06-01,GVA,3
+2008-07-01,GVA,5
+2008-08-01,GVA,5
+2008-09-01,GVA,5
+2008-10-01,GVA,7
+2008-11-01,GVA,7
+2008-12-01,GVA,7
+2009-01-01,GVA,7
+2009-02-01,GVA,7
+2009-03-01,GVA,7
+2009-04-01,GVA,7
+2009-05-01,GVA,7
+2009-06-01,GVA,7
+2009-07-01,GVA,8
+2009-08-01,GVA,8
+2009-09-01,GVA,8
+2009-10-01,GVA,7
+2009-11-01,GVA,7
+2009-12-01,GVA,7
+2010-01-01,GVA,7
+2010-02-01,GVA,7
+2010-03-01,GVA,7
+2010-04-01,GVA,7
+2010-05-01,GVA,7
+2010-06-01,GVA,7
+2010-07-01,GVA,7
+2010-08-01,GVA,7
+2010-09-01,GVA,7
+2010-10-01,GVA,8
+2010-11-01,GVA,8
+2010-12-01,GVA,8
+2011-01-01,GVA,9
+2011-02-01,GVA,9
+2011-03-01,GVA,9
+2011-04-01,GVA,8
+2011-05-01,GVA,8
+2011-06-01,GVA,8
+2011-07-01,GVA,8
+2011-08-01,GVA,8
+2011-09-01,GVA,8
+2011-10-01,GVA,9
+2011-11-01,GVA,9
+2011-12-01,GVA,9
+2012-01-01,GVA,9
+2012-02-01,GVA,9
+2012-03-01,GVA,9
+2012-04-01,GVA,10
+2012-05-01,GVA,10
+2012-06-01,GVA,10
+2012-07-01,GVA,11
+2012-08-01,GVA,11
+2012-09-01,GVA,11
+2012-10-01,GVA,11
+2012-11-01,GVA,11
+2012-12-01,GVA,11
+2013-01-01,GVA,12
+2013-02-01,GVA,12
+2013-03-01,GVA,12
+2013-04-01,GVA,12
+2013-05-01,GVA,12
+2013-06-01,GVA,12
+2013-07-01,GVA,13
+2013-08-01,GVA,13
+2013-09-01,GVA,13
+2013-10-01,GVA,14
+2013-11-01,GVA,14
+2013-12-01,GVA,14
+2014-01-01,GVA,14
+2014-02-01,GVA,14
+2014-03-01,GVA,14
+2014-04-01,GVA,14
+2014-05-01,GVA,14
+2014-06-01,GVA,14
+2014-07-01,GVA,15
+2014-08-01,GVA,15
+2014-09-01,GVA,15
+2014-10-01,GVA,15
+2014-11-01,GVA,15
+2014-12-01,GVA,15
+2015-01-01,GVA,15
+2015-02-01,GVA,15
+2015-03-01,GVA,15
+2015-04-01,GVA,16
+2015-05-01,GVA,16
+2015-06-01,GVA,16
+2015-07-01,GVA,15
+2015-08-01,GVA,15
+2015-09-01,GVA,15
+2015-10-01,GVA,15
+2015-11-01,GVA,15
+2015-12-01,GVA,15
+2016-01-01,GVA,16
+2016-02-01,GVA,16
+2016-03-01,GVA,16
+2016-04-01,GVA,17
+2016-05-01,GVA,17
+2016-06-01,GVA,17
+2016-07-01,GVA,18
+2016-08-01,GVA,18
+2016-09-01,GVA,18
+2016-10-01,GVA,18
+2016-11-01,GVA,18
+2016-12-01,GVA,18
+2017-01-01,GVA,19
+2017-02-01,GVA,19
+2017-03-01,GVA,19
+2017-04-01,GVA,19
+2017-05-01,GVA,19
+2017-06-01,GVA,19
+2017-07-01,GVA,19
+2017-08-01,GVA,19
+2017-09-01,GVA,19
+2017-10-01,GVA,21
+2017-11-01,GVA,21
+2017-12-01,GVA,21
+2018-01-01,GVA,22
+2018-02-01,GVA,22
+2018-03-01,GVA,22
+2018-04-01,GVA,21
+2018-05-01,GVA,21
+2018-06-01,GVA,21
+2018-07-01,GVA,22
+2018-08-01,GVA,22
+2018-09-01,GVA,22
+2018-10-01,GVA,22
+2018-11-01,GVA,22
+2018-12-01,GVA,22
+2019-01-01,GVA,23
+2019-02-01,GVA,23
+2019-03-01,GVA,23
+2019-04-01,GVA,23
+2019-05-01,GVA,23
+2019-06-01,GVA,23
+2019-07-01,GVA,25
+2019-08-01,GVA,25
+2019-09-01,GVA,25
+2019-10-01,GVA,25
+2019-11-01,GVA,25
+2019-12-01,GVA,25
+2020-01-01,GVA,27
+2020-02-01,GVA,27
+2020-03-01,GVA,27
+2020-04-01,GVA,39
+2020-05-01,GVA,39
+2020-06-01,GVA,39
+2020-07-01,GVA,32
+2020-08-01,GVA,32
+2020-09-01,GVA,32
+2020-10-01,GVA,32
+2020-11-01,GVA,32
+2020-12-01,GVA,32
+2021-01-01,GVA,33
+2021-02-01,GVA,33
+2021-03-01,GVA,33
+2021-04-01,GVA,30
+2021-05-01,GVA,30
+2021-06-01,GVA,30
+2021-07-01,GVA,30
+2021-08-01,GVA,30
+2021-09-01,GVA,30
+2021-10-01,GVA,33
+2021-11-01,GVA,33
+2021-12-01,GVA,33
+2022-01-01,GVA,35
+2022-02-01,GVA,35
+2022-03-01,GVA,35
+2007-01-01,Producer inputs,0
+2007-02-01,Producer inputs,0
+2007-03-01,Producer inputs,1
+2007-04-01,Producer inputs,2
+2007-05-01,Producer inputs,2
+2007-06-01,Producer inputs,3
+2007-07-01,Producer inputs,3
+2007-08-01,Producer inputs,3
+2007-09-01,Producer inputs,4
+2007-10-01,Producer inputs,5
+2007-11-01,Producer inputs,7
+2007-12-01,Producer inputs,8
+2008-01-01,Producer inputs,9
+2008-02-01,Producer inputs,10
+2008-03-01,Producer inputs,12
+2008-04-01,Producer inputs,13
+2008-05-01,Producer inputs,15
+2008-06-01,Producer inputs,17
+2008-07-01,Producer inputs,18
+2008-08-01,Producer inputs,18
+2008-09-01,Producer inputs,19
+2008-10-01,Producer inputs,18
+2008-11-01,Producer inputs,17
+2008-12-01,Producer inputs,16
+2009-01-01,Producer inputs,17
+2009-02-01,Producer inputs,17
+2009-03-01,Producer inputs,18
+2009-04-01,Producer inputs,16
+2009-05-01,Producer inputs,17
+2009-06-01,Producer inputs,17
+2009-07-01,Producer inputs,17
+2009-08-01,Producer inputs,18
+2009-09-01,Producer inputs,18
+2009-10-01,Producer inputs,19
+2009-11-01,Producer inputs,20
+2009-12-01,Producer inputs,20
+2010-01-01,Producer inputs,21
+2010-02-01,Producer inputs,21
+2010-03-01,Producer inputs,24
+2010-04-01,Producer inputs,25
+2010-05-01,Producer inputs,25
+2010-06-01,Producer inputs,25
+2010-07-01,Producer inputs,25
+2010-08-01,Producer inputs,25
+2010-09-01,Producer inputs,25
+2010-10-01,Producer inputs,27
+2010-11-01,Producer inputs,28
+2010-12-01,Producer inputs,30
+2011-01-01,Producer inputs,33
+2011-02-01,Producer inputs,34
+2011-03-01,Producer inputs,37
+2011-04-01,Producer inputs,40
+2011-05-01,Producer inputs,39
+2011-06-01,Producer inputs,39
+2011-07-01,Producer inputs,40
+2011-08-01,Producer inputs,38
+2011-09-01,Producer inputs,40
+2011-10-01,Producer inputs,39
+2011-11-01,Producer inputs,39
+2011-12-01,Producer inputs,39
+2012-01-01,Producer inputs,39
+2012-02-01,Producer inputs,41
+2012-03-01,Producer inputs,42
+2012-04-01,Producer inputs,41
+2012-05-01,Producer inputs,39
+2012-06-01,Producer inputs,37
+2012-07-01,Producer inputs,37
+2012-08-01,Producer inputs,38
+2012-09-01,Producer inputs,38
+2012-10-01,Producer inputs,38
+2012-11-01,Producer inputs,38
+2012-12-01,Producer inputs,38
+2013-01-01,Producer inputs,39
+2013-02-01,Producer inputs,42
+2013-03-01,Producer inputs,42
+2013-04-01,Producer inputs,40
+2013-05-01,Producer inputs,39
+2013-06-01,Producer inputs,38
+2013-07-01,Producer inputs,40
+2013-08-01,Producer inputs,40
+2013-09-01,Producer inputs,39
+2013-10-01,Producer inputs,38
+2013-11-01,Producer inputs,37
+2013-12-01,Producer inputs,38
+2014-01-01,Producer inputs,37
+2014-02-01,Producer inputs,37
+2014-03-01,Producer inputs,37
+2014-04-01,Producer inputs,36
+2014-05-01,Producer inputs,37
+2014-06-01,Producer inputs,36
+2014-07-01,Producer inputs,35
+2014-08-01,Producer inputs,34
+2014-09-01,Producer inputs,34
+2014-10-01,Producer inputs,33
+2014-11-01,Producer inputs,32
+2014-12-01,Producer inputs,30
+2015-01-01,Producer inputs,28
+2015-02-01,Producer inputs,28
+2015-03-01,Producer inputs,28
+2015-04-01,Producer inputs,29
+2015-05-01,Producer inputs,28
+2015-06-01,Producer inputs,28
+2015-07-01,Producer inputs,27
+2015-08-01,Producer inputs,25
+2015-09-01,Producer inputs,25
+2015-10-01,Producer inputs,25
+2015-11-01,Producer inputs,24
+2015-12-01,Producer inputs,24
+2016-01-01,Producer inputs,23
+2016-02-01,Producer inputs,23
+2016-03-01,Producer inputs,25
+2016-04-01,Producer inputs,25
+2016-05-01,Producer inputs,26
+2016-06-01,Producer inputs,27
+2016-07-01,Producer inputs,29
+2016-08-01,Producer inputs,30
+2016-09-01,Producer inputs,30
+2016-10-01,Producer inputs,33
+2016-11-01,Producer inputs,33
+2016-12-01,Producer inputs,34
+2017-01-01,Producer inputs,36
+2017-02-01,Producer inputs,36
+2017-03-01,Producer inputs,36
+2017-04-01,Producer inputs,36
+2017-05-01,Producer inputs,36
+2017-06-01,Producer inputs,36
+2017-07-01,Producer inputs,36
+2017-08-01,Producer inputs,38
+2017-09-01,Producer inputs,38
+2017-10-01,Producer inputs,39
+2017-11-01,Producer inputs,40
+2017-12-01,Producer inputs,41
+2018-01-01,Producer inputs,41
+2018-02-01,Producer inputs,41
+2018-03-01,Producer inputs,41
+2018-04-01,Producer inputs,42
+2018-05-01,Producer inputs,44
+2018-06-01,Producer inputs,44
+2018-07-01,Producer inputs,45
+2018-08-01,Producer inputs,46
+2018-09-01,Producer inputs,46
+2018-10-01,Producer inputs,47
+2018-11-01,Producer inputs,46
+2018-12-01,Producer inputs,45
+2019-01-01,Producer inputs,44
+2019-02-01,Producer inputs,45
+2019-03-01,Producer inputs,45
+2019-04-01,Producer inputs,46
+2019-05-01,Producer inputs,46
+2019-06-01,Producer inputs,46
+2019-07-01,Producer inputs,46
+2019-08-01,Producer inputs,46
+2019-09-01,Producer inputs,45
+2019-10-01,Producer inputs,45
+2019-11-01,Producer inputs,44
+2019-12-01,Producer inputs,44
+2020-01-01,Producer inputs,44
+2020-02-01,Producer inputs,44
+2020-03-01,Producer inputs,42
+2020-04-01,Producer inputs,39
+2020-05-01,Producer inputs,40
+2020-06-01,Producer inputs,41
+2020-07-01,Producer inputs,42
+2020-08-01,Producer inputs,42
+2020-09-01,Producer inputs,42
+2020-10-01,Producer inputs,43
+2020-11-01,Producer inputs,43
+2020-12-01,Producer inputs,45
+2021-01-01,Producer inputs,47
+2021-02-01,Producer inputs,48
+2021-03-01,Producer inputs,51
+2021-04-01,Producer inputs,52
+2021-05-01,Producer inputs,54
+2021-06-01,Producer inputs,55
+2021-07-01,Producer inputs,57
+2021-08-01,Producer inputs,58
+2021-09-01,Producer inputs,60
+2021-10-01,Producer inputs,63
+2021-11-01,Producer inputs,65
+2021-12-01,Producer inputs,65
+2022-01-01,Producer inputs,68
+2022-02-01,Producer inputs,71
+2022-03-01,Producer inputs,79
+2007-01-01,Producer outputs,0
+2007-02-01,Producer outputs,0
+2007-03-01,Producer outputs,1
+2007-04-01,Producer outputs,2
+2007-05-01,Producer outputs,3
+2007-06-01,Producer outputs,3
+2007-07-01,Producer outputs,4
+2007-08-01,Producer outputs,4
+2007-09-01,Producer outputs,4
+2007-10-01,Producer outputs,5
+2007-11-01,Producer outputs,6
+2007-12-01,Producer outputs,7
+2008-01-01,Producer outputs,8
+2008-02-01,Producer outputs,9
+2008-03-01,Producer outputs,10
+2008-04-01,Producer outputs,13
+2008-05-01,Producer outputs,16
+2008-06-01,Producer outputs,18
+2008-07-01,Producer outputs,18
+2008-08-01,Producer outputs,17
+2008-09-01,Producer outputs,17
+2008-10-01,Producer outputs,14
+2008-11-01,Producer outputs,12
+2008-12-01,Producer outputs,10
+2009-01-01,Producer outputs,9
+2009-02-01,Producer outputs,9
+2009-03-01,Producer outputs,9
+2009-04-01,Producer outputs,9
+2009-05-01,Producer outputs,9
+2009-06-01,Producer outputs,10
+2009-07-01,Producer outputs,10
+2009-08-01,Producer outputs,10
+2009-09-01,Producer outputs,10
+2009-10-01,Producer outputs,10
+2009-11-01,Producer outputs,11
+2009-12-01,Producer outputs,11
+2010-01-01,Producer outputs,12
+2010-02-01,Producer outputs,12
+2010-03-01,Producer outputs,13
+2010-04-01,Producer outputs,14
+2010-05-01,Producer outputs,15
+2010-06-01,Producer outputs,14
+2010-07-01,Producer outputs,14
+2010-08-01,Producer outputs,14
+2010-09-01,Producer outputs,15
+2010-10-01,Producer outputs,15
+2010-11-01,Producer outputs,16
+2010-12-01,Producer outputs,18
+2011-01-01,Producer outputs,19
+2011-02-01,Producer outputs,20
+2011-03-01,Producer outputs,22
+2011-04-01,Producer outputs,23
+2011-05-01,Producer outputs,23
+2011-06-01,Producer outputs,24
+2011-07-01,Producer outputs,24
+2011-08-01,Producer outputs,24
+2011-09-01,Producer outputs,24
+2011-10-01,Producer outputs,24
+2011-11-01,Producer outputs,25
+2011-12-01,Producer outputs,24
+2012-01-01,Producer outputs,25
+2012-02-01,Producer outputs,25
+2012-03-01,Producer outputs,26
+2012-04-01,Producer outputs,27
+2012-05-01,Producer outputs,26
+2012-06-01,Producer outputs,24
+2012-07-01,Producer outputs,24
+2012-08-01,Producer outputs,26
+2012-09-01,Producer outputs,26
+2012-10-01,Producer outputs,26
+2012-11-01,Producer outputs,26
+2012-12-01,Producer outputs,25
+2013-01-01,Producer outputs,26
+2013-02-01,Producer outputs,28
+2013-03-01,Producer outputs,28
+2013-04-01,Producer outputs,27
+2013-05-01,Producer outputs,26
+2013-06-01,Producer outputs,27
+2013-07-01,Producer outputs,27
+2013-08-01,Producer outputs,28
+2013-09-01,Producer outputs,28
+2013-10-01,Producer outputs,27
+2013-11-01,Producer outputs,26
+2013-12-01,Producer outputs,26
+2014-01-01,Producer outputs,26
+2014-02-01,Producer outputs,27
+2014-03-01,Producer outputs,27
+2014-04-01,Producer outputs,27
+2014-05-01,Producer outputs,26
+2014-06-01,Producer outputs,26
+2014-07-01,Producer outputs,26
+2014-08-01,Producer outputs,26
+2014-09-01,Producer outputs,25
+2014-10-01,Producer outputs,25
+2014-11-01,Producer outputs,24
+2014-12-01,Producer outputs,23
+2015-01-01,Producer outputs,22
+2015-02-01,Producer outputs,22
+2015-03-01,Producer outputs,23
+2015-04-01,Producer outputs,23
+2015-05-01,Producer outputs,23
+2015-06-01,Producer outputs,23
+2015-07-01,Producer outputs,22
+2015-08-01,Producer outputs,22
+2015-09-01,Producer outputs,21
+2015-10-01,Producer outputs,21
+2015-11-01,Producer outputs,21
+2015-12-01,Producer outputs,20
+2016-01-01,Producer outputs,20
+2016-02-01,Producer outputs,20
+2016-03-01,Producer outputs,21
+2016-04-01,Producer outputs,21
+2016-05-01,Producer outputs,21
+2016-06-01,Producer outputs,22
+2016-07-01,Producer outputs,22
+2016-08-01,Producer outputs,22
+2016-09-01,Producer outputs,23
+2016-10-01,Producer outputs,24
+2016-11-01,Producer outputs,24
+2016-12-01,Producer outputs,24
+2017-01-01,Producer outputs,25
+2017-02-01,Producer outputs,26
+2017-03-01,Producer outputs,26
+2017-04-01,Producer outputs,26
+2017-05-01,Producer outputs,26
+2017-06-01,Producer outputs,26
+2017-07-01,Producer outputs,26
+2017-08-01,Producer outputs,27
+2017-09-01,Producer outputs,28
+2017-10-01,Producer outputs,28
+2017-11-01,Producer outputs,29
+2017-12-01,Producer outputs,29
+2018-01-01,Producer outputs,29
+2018-02-01,Producer outputs,29
+2018-03-01,Producer outputs,29
+2018-04-01,Producer outputs,30
+2018-05-01,Producer outputs,31
+2018-06-01,Producer outputs,32
+2018-07-01,Producer outputs,31
+2018-08-01,Producer outputs,32
+2018-09-01,Producer outputs,33
+2018-10-01,Producer outputs,33
+2018-11-01,Producer outputs,33
+2018-12-01,Producer outputs,32
+2019-01-01,Producer outputs,32
+2019-02-01,Producer outputs,32
+2019-03-01,Producer outputs,32
+2019-04-01,Producer outputs,33
+2019-05-01,Producer outputs,34
+2019-06-01,Producer outputs,33
+2019-07-01,Producer outputs,34
+2019-08-01,Producer outputs,34
+2019-09-01,Producer outputs,34
+2019-10-01,Producer outputs,33
+2019-11-01,Producer outputs,33
+2019-12-01,Producer outputs,33
+2020-01-01,Producer outputs,33
+2020-02-01,Producer outputs,33
+2020-03-01,Producer outputs,32
+2020-04-01,Producer outputs,31
+2020-05-01,Producer outputs,31
+2020-06-01,Producer outputs,31
+2020-07-01,Producer outputs,32
+2020-08-01,Producer outputs,31
+2020-09-01,Producer outputs,31
+2020-10-01,Producer outputs,31
+2020-11-01,Producer outputs,32
+2020-12-01,Producer outputs,32
+2021-01-01,Producer outputs,33
+2021-02-01,Producer outputs,34
+2021-03-01,Producer outputs,35
+2021-04-01,Producer outputs,35
+2021-05-01,Producer outputs,36
+2021-06-01,Producer outputs,37
+2021-07-01,Producer outputs,39
+2021-08-01,Producer outputs,40
+2021-09-01,Producer outputs,41
+2021-10-01,Producer outputs,43
+2021-11-01,Producer outputs,44
+2021-12-01,Producer outputs,45
+2022-01-01,Producer outputs,47
+2022-02-01,Producer outputs,48
+2022-03-01,Producer outputs,51
+2007-01-01,Services outputs,0
+2007-02-01,Services outputs,0
+2007-03-01,Services outputs,0
+2007-04-01,Services outputs,2
+2007-05-01,Services outputs,2
+2007-06-01,Services outputs,2
+2007-07-01,Services outputs,2
+2007-08-01,Services outputs,2
+2007-09-01,Services outputs,2
+2007-10-01,Services outputs,2
+2007-11-01,Services outputs,2
+2007-12-01,Services outputs,2
+2008-01-01,Services outputs,4
+2008-02-01,Services outputs,4
+2008-03-01,Services outputs,4
+2008-04-01,Services outputs,5
+2008-05-01,Services outputs,5
+2008-06-01,Services outputs,5
+2008-07-01,Services outputs,6
+2008-08-01,Services outputs,6
+2008-09-01,Services outputs,6
+2008-10-01,Services outputs,5
+2008-11-01,Services outputs,5
+2008-12-01,Services outputs,5
+2009-01-01,Services outputs,3
+2009-02-01,Services outputs,3
+2009-03-01,Services outputs,3
+2009-04-01,Services outputs,4
+2009-05-01,Services outputs,4
+2009-06-01,Services outputs,4
+2009-07-01,Services outputs,3
+2009-08-01,Services outputs,3
+2009-09-01,Services outputs,3
+2009-10-01,Services outputs,4
+2009-11-01,Services outputs,4
+2009-12-01,Services outputs,4
+2010-01-01,Services outputs,4
+2010-02-01,Services outputs,4
+2010-03-01,Services outputs,4
+2010-04-01,Services outputs,5
+2010-05-01,Services outputs,5
+2010-06-01,Services outputs,5
+2010-07-01,Services outputs,5
+2010-08-01,Services outputs,5
+2010-09-01,Services outputs,5
+2010-10-01,Services outputs,5
+2010-11-01,Services outputs,5
+2010-12-01,Services outputs,5
+2011-01-01,Services outputs,5
+2011-02-01,Services outputs,5
+2011-03-01,Services outputs,5
+2011-04-01,Services outputs,6
+2011-05-01,Services outputs,6
+2011-06-01,Services outputs,6
+2011-07-01,Services outputs,6
+2011-08-01,Services outputs,6
+2011-09-01,Services outputs,6
+2011-10-01,Services outputs,6
+2011-11-01,Services outputs,6
+2011-12-01,Services outputs,6
+2012-01-01,Services outputs,5
+2012-02-01,Services outputs,5
+2012-03-01,Services outputs,5
+2012-04-01,Services outputs,6
+2012-05-01,Services outputs,6
+2012-06-01,Services outputs,6
+2012-07-01,Services outputs,6
+2012-08-01,Services outputs,6
+2012-09-01,Services outputs,6
+2012-10-01,Services outputs,7
+2012-11-01,Services outputs,7
+2012-12-01,Services outputs,7
+2013-01-01,Services outputs,7
+2013-02-01,Services outputs,7
+2013-03-01,Services outputs,7
+2013-04-01,Services outputs,7
+2013-05-01,Services outputs,7
+2013-06-01,Services outputs,7
+2013-07-01,Services outputs,7
+2013-08-01,Services outputs,7
+2013-09-01,Services outputs,7
+2013-10-01,Services outputs,8
+2013-11-01,Services outputs,8
+2013-12-01,Services outputs,8
+2014-01-01,Services outputs,9
+2014-02-01,Services outputs,9
+2014-03-01,Services outputs,9
+2014-04-01,Services outputs,9
+2014-05-01,Services outputs,9
+2014-06-01,Services outputs,9
+2014-07-01,Services outputs,9
+2014-08-01,Services outputs,9
+2014-09-01,Services outputs,9
+2014-10-01,Services outputs,9
+2014-11-01,Services outputs,9
+2014-12-01,Services outputs,9
+2015-01-01,Services outputs,9
+2015-02-01,Services outputs,9
+2015-03-01,Services outputs,9
+2015-04-01,Services outputs,10
+2015-05-01,Services outputs,10
+2015-06-01,Services outputs,10
+2015-07-01,Services outputs,10
+2015-08-01,Services outputs,10
+2015-09-01,Services outputs,10
+2015-10-01,Services outputs,10
+2015-11-01,Services outputs,10
+2015-12-01,Services outputs,10
+2016-01-01,Services outputs,11
+2016-02-01,Services outputs,11
+2016-03-01,Services outputs,11
+2016-04-01,Services outputs,12
+2016-05-01,Services outputs,12
+2016-06-01,Services outputs,12
+2016-07-01,Services outputs,12
+2016-08-01,Services outputs,12
+2016-09-01,Services outputs,12
+2016-10-01,Services outputs,12
+2016-11-01,Services outputs,12
+2016-12-01,Services outputs,12
+2017-01-01,Services outputs,13
+2017-02-01,Services outputs,13
+2017-03-01,Services outputs,13
+2017-04-01,Services outputs,13
+2017-05-01,Services outputs,13
+2017-06-01,Services outputs,13
+2017-07-01,Services outputs,14
+2017-08-01,Services outputs,14
+2017-09-01,Services outputs,14
+2017-10-01,Services outputs,14
+2017-11-01,Services outputs,14
+2017-12-01,Services outputs,14
+2018-01-01,Services outputs,15
+2018-02-01,Services outputs,15
+2018-03-01,Services outputs,15
+2018-04-01,Services outputs,15
+2018-05-01,Services outputs,15
+2018-06-01,Services outputs,15
+2018-07-01,Services outputs,16
+2018-08-01,Services outputs,16
+2018-09-01,Services outputs,16
+2018-10-01,Services outputs,16
+2018-11-01,Services outputs,16
+2018-12-01,Services outputs,16
+2019-01-01,Services outputs,17
+2019-02-01,Services outputs,17
+2019-03-01,Services outputs,17
+2019-04-01,Services outputs,17
+2019-05-01,Services outputs,17
+2019-06-01,Services outputs,17
+2019-07-01,Services outputs,18
+2019-08-01,Services outputs,18
+2019-09-01,Services outputs,18
+2019-10-01,Services outputs,18
+2019-11-01,Services outputs,18
+2019-12-01,Services outputs,18
+2020-01-01,Services outputs,18
+2020-02-01,Services outputs,18
+2020-03-01,Services outputs,18
+2020-04-01,Services outputs,18
+2020-05-01,Services outputs,18
+2020-06-01,Services outputs,18
+2020-07-01,Services outputs,18
+2020-08-01,Services outputs,18
+2020-09-01,Services outputs,18
+2020-10-01,Services outputs,19
+2020-11-01,Services outputs,19
+2020-12-01,Services outputs,19
+2021-01-01,Services outputs,20
+2021-02-01,Services outputs,20
+2021-03-01,Services outputs,20
+2021-04-01,Services outputs,20
+2021-05-01,Services outputs,20
+2021-06-01,Services outputs,20
+2021-07-01,Services outputs,22
+2021-08-01,Services outputs,22
+2021-09-01,Services outputs,22
+2021-10-01,Services outputs,23
+2021-11-01,Services outputs,23
+2021-12-01,Services outputs,23
+2022-01-01,Services outputs,25
+2022-02-01,Services outputs,25
+2022-03-01,Services outputs,25
