@@ -1,0 +1,85 @@
+region,group,value
+North East,Student,-3100
+North West,Student,17700
+Yorkshire and The Humber,Student,-5400
+East Midlands,Student,23900
+West Midlands,Student,11700
+East,Student,18200
+London,Student,20800
+South East,Student,37100
+South West,Student,19300
+Wales,Student,7600
+Scotland,Student,-13000
+Northern Ireland,Student,19500
+North East,Family caring,-9100
+North West,Family caring,-12200
+Yorkshire and The Humber,Family caring,-21700
+East Midlands,Family caring,-13600
+West Midlands,Family caring,-25400
+East,Family caring,-21100
+London,Family caring,-62300
+South East,Family caring,-20600
+South West,Family caring,-700
+Wales,Family caring,500
+Scotland,Family caring,-2500
+Northern Ireland,Family caring,-19300
+North East,Temp sick,200
+North West,Temp sick,14000
+Yorkshire and The Humber,Temp sick,2500
+East Midlands,Temp sick,-3000
+West Midlands,Temp sick,3900
+East,Temp sick,500
+London,Temp sick,-1000
+South East,Temp sick,4800
+South West,Temp sick,5300
+Wales,Temp sick,-1700
+Scotland,Temp sick,5300
+Northern Ireland,Temp sick,2300
+North East,Long-term sick,16000
+North West,Long-term sick,14700
+Yorkshire and The Humber,Long-term sick,-1800
+East Midlands,Long-term sick,27200
+West Midlands,Long-term sick,3600
+East,Long-term sick,-3200
+London,Long-term sick,6100
+South East,Long-term sick,25700
+South West,Long-term sick,14700
+Wales,Long-term sick,9500
+Scotland,Long-term sick,15500
+Northern Ireland,Long-term sick,-4200
+North East,Discouraged,900
+North West,Discouraged,-3500
+Yorkshire and The Humber,Discouraged,-1400
+East Midlands,Discouraged,400
+West Midlands,Discouraged,400
+East,Discouraged,null
+London,Discouraged,2100
+South East,Discouraged,-1700
+South West,Discouraged,-2300
+Wales,Discouraged,-200
+Scotland,Discouraged,2700
+Northern Ireland,Discouraged,4000
+North East,Retired,7300
+North West,Retired,18200
+Yorkshire and The Humber,Retired,9300
+East Midlands,Retired,18600
+West Midlands,Retired,3500
+East,Retired,11900
+London,Retired,-1300
+South East,Retired,18600
+South West,Retired,10800
+Wales,Retired,-8700
+Scotland,Retired,8900
+Northern Ireland,Retired,800
+North East,Other,1600
+North West,Other,16500
+Yorkshire and The Humber,Other,-1000
+East Midlands,Other,4500
+West Midlands,Other,14400
+East,Other,-10600
+London,Other,500
+South East,Other,10900
+South West,Other,10000
+Wales,Other,-4200
+Scotland,Other,1000
+Northern Ireland,Other,2100

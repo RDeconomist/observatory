@@ -1,0 +1,53 @@
+group,region,value
+High,UK,10.6
+Low,UK,3.7
+Apr-22 to Jun-22 (latest data),UK,3.8
+Jan-20 to Mar-20,UK,4
+High,North East,13.5
+Low,North East,4.4
+Apr-22 to Jun-22 (latest data),North East,5.1
+Jan-20 to Mar-20,North East,5.5
+High,North West,11.2
+Low,North West,3.7
+Apr-22 to Jun-22 (latest data),North West,4.1
+Jan-20 to Mar-20,North West,4.1
+High,Yorkshire and The Humber,10.4
+Low,Yorkshire and The Humber,3.8
+Apr-22 to Jun-22 (latest data),Yorkshire and The Humber,4.5
+Jan-20 to Mar-20,Yorkshire and The Humber,4.4
+High,East Midlands,9.3
+Low,East Midlands,2.4
+Apr-22 to Jun-22 (latest data),East Midlands,2.4
+Jan-20 to Mar-20,East Midlands,3.9
+High,West Midlands,12.2
+Low,West Midlands,4.1
+Apr-22 to Jun-22 (latest data),West Midlands,4.6
+Jan-20 to Mar-20,West Midlands,5
+High,East,9.3
+Low,East,2.8
+Apr-22 to Jun-22 (latest data),East,3.3
+Jan-20 to Mar-20,East,3.9
+High,London,14.3
+Low,London,4.3
+Apr-22 to Jun-22 (latest data),London,4.6
+Jan-20 to Mar-20,London,4.8
+High,South East,8.5
+Low,South East,2.9
+Apr-22 to Jun-22 (latest data),South East,3.6
+Jan-20 to Mar-20,South East,3
+High,South West,9.7
+Low,South West,2.4
+Apr-22 to Jun-22 (latest data),South West,2.8
+Jan-20 to Mar-20,South West,3.2
+High,Wales,10.3
+Low,Wales,2.7
+Apr-22 to Jun-22 (latest data),Wales,3.8
+Jan-20 to Mar-20,Wales,3.2
+High,Scotland,10.8
+Low,Scotland,3.2
+Apr-22 to Jun-22 (latest data),Scotland,3.2
+Jan-20 to Mar-20,Scotland,4.2
+High,Northern Ireland,12.8
+Low,Northern Ireland,2.4
+Apr-22 to Jun-22 (latest data),Northern Ireland,2.7
+Jan-20 to Mar-20,Northern Ireland,2.5
