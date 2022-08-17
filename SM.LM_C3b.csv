@@ -1,0 +1,79 @@
+group,region,value,group1
+ITL1,UK,6.57,ITL1
+ITL2a,UK,null,ITL2
+ITL2b,UK,null,ITL2
+ITL2c,UK,null,ITL2
+ITL2d,UK,null,ITL2
+ITL2e,UK,null,ITL2
+ITL1,North East,6.65,ITL1
+ITL2a,North East,6.94,ITL2
+ITL2b,North East,6.64,ITL2
+ITL2c,North East,null,ITL2
+ITL2d,North East,null,ITL2
+ITL2e,North East,null,ITL2
+ILT1,North West,6.87,ITL1
+ITL2a,North West,7.05,ITL2
+ITL2b,North West,7.08,ITL2
+ITL2c,North West,6.53,ITL2
+ITL2d,North West,6.05,ITL2
+ITL2e,North West,6.64,ITL2
+ITL1,Yorkshire and The Humber,6.89,ITL1
+ITL2a,Yorkshire and The Humber,6.96,ITL2
+ITL2b,Yorkshire and The Humber,8.23,ITL2
+ITL2c,Yorkshire and The Humber,7.12,ITL2
+ITL2d,Yorkshire and The Humber,6.57,ITL2
+ITL2e,Yorkshire and The Humber,null,ITL2
+ITL1,East Midlands,6.61,ITL1
+ITL2a,East Midlands,7.02,ITL2
+ITL2b,East Midlands,6.78,ITL2
+ITL2c,East Midlands,5.37,ITL2
+ITL2d,East Midlands,null,ITL2
+ITL2e,East Midlands,null,ITL2
+ITL1,West Midlands,7.07,ITL1
+ITL2a,West Midlands,7.59,ITL2
+ITL2b,West Midlands,7.11,ITL2
+ITL2c,West Midlands,6.8,ITL2
+ITL2d,West Midlands,null,ITL2
+ITL2e,West Midlands,null,ITL2
+ITL1,East,6.46,ITL1
+ITL2a,East,6.62,ITL2
+ITL2b,East,6.01,ITL2
+ITL2c,East,6.21,ITL2
+ITL2d,East,null,ITL2
+ITL2e,East,null,ITL2
+ITL1,London,5.76,ITL1
+ITL2a,London,6.13,ITL2
+ITL2b,London,5.66,ITL2
+ITL2c,London,5.74,ITL2
+ITL2d,London,5.16,ITL2
+ITL2e,London,6.6,ITL2
+ITL1,South East,6.36,ITL1
+ITL2a,South East,6.52,ITL2
+ITL2b,South East,6.56,ITL2
+ITL2c,South East,6.45,ITL2
+ITL2d,South East,6.15,ITL2
+ITL2e,South East,null,ITL2
+ITL1,South West,7.55,ITL1
+ITL2a,South West,6.99,ITL2
+ITL2b,South West,7.35,ITL2
+ITL2c,South West,6.84,ITL2
+ITL2d,South West,7.03,ITL2
+ITL2e,South West,null,ITL2
+ITL1,Wales,5.38,ITL1
+ITL2a,Wales,5.2,ITL2
+ITL2b,Wales,5.33,ITL2
+ITL2c,Wales,null,ITL2
+ITL2d,Wales,null,ITL2
+ITL2e,Wales,null,ITL2
+ITL1,Scotland,5.32,ITL1
+ITL2a,Scotland,4.72,ITL2
+ITL2b,Scotland,5.6,ITL2
+ITL2c,Scotland,5.23,ITL2
+ITL2d,Scotland,5.11,ITL2
+ITL2e,Scotland,5.73,ITL2
+ITL1,Northern Ireland,4.75,ITL1
+ITL2a,Northern Ireland,4.75,ITL2
+ITL2b,Northern Ireland,null,ITL2
+ITL2c,Northern Ireland,null,ITL2
+ITL2d,Northern Ireland,null,ITL2
+ITL2e,Northern Ireland,null,ITL2
