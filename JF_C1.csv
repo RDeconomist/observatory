@@ -1,0 +1,1376 @@
+date,company,value
+2000-01-01,Apple,16.53
+2000-02-01,Apple,16.68
+2000-03-01,Apple,18.48
+2000-04-01,Apple,21.90
+2000-05-01,Apple,20.00
+2000-06-01,Apple,13.67
+2000-07-01,Apple,17.05
+2000-08-01,Apple,16.54
+2000-09-01,Apple,19.80
+2000-10-01,Apple,8.37
+2000-11-01,Apple,6.36
+2000-12-01,Apple,5.36
+2001-01-01,Apple,5.00
+2001-02-01,Apple,7.47
+2001-03-01,Apple,6.32
+2001-04-01,Apple,7.64
+2001-05-01,Apple,8.83
+2001-06-01,Apple,6.96
+2001-07-01,Apple,8.11
+2001-08-01,Apple,6.59
+2001-09-01,Apple,6.51
+2001-10-01,Apple,5.44
+2001-11-01,Apple,6.16
+2001-12-01,Apple,7.47
+2002-01-01,Apple,7.70
+2002-02-01,Apple,8.71
+2002-03-01,Apple,7.67
+2002-04-01,Apple,8.36
+2002-05-01,Apple,8.59
+2002-06-01,Apple,8.29
+2002-07-01,Apple,6.30
+2002-08-01,Apple,5.48
+2002-09-01,Apple,5.29
+2002-10-01,Apple,5.20
+2002-11-01,Apple,5.77
+2002-12-01,Apple,5.56
+2003-01-01,Apple,5.15
+2003-02-01,Apple,5.17
+2003-03-01,Apple,5.41
+2003-04-01,Apple,5.10
+2003-05-01,Apple,5.20
+2003-06-01,Apple,6.56
+2003-07-01,Apple,6.97
+2003-08-01,Apple,7.74
+2003-09-01,Apple,8.20
+2003-10-01,Apple,7.51
+2003-11-01,Apple,8.39
+2003-12-01,Apple,7.67
+2004-01-01,Apple,7.86
+2004-02-01,Apple,8.30
+2004-03-01,Apple,8.84
+2004-04-01,Apple,10.02
+2004-05-01,Apple,9.55
+2004-06-01,Apple,10.66
+2004-07-01,Apple,12.37
+2004-08-01,Apple,12.29
+2004-09-01,Apple,13.38
+2004-10-01,Apple,15.03
+2004-11-01,Apple,20.33
+2004-12-01,Apple,26.01
+2005-01-01,Apple,25.89
+2005-02-01,Apple,30.92
+2005-03-01,Apple,36.66
+2005-04-01,Apple,34.26
+2005-05-01,Apple,29.65
+2005-06-01,Apple,32.76
+2005-07-01,Apple,30.33
+2005-08-01,Apple,35.14
+2005-09-01,Apple,38.91
+2005-10-01,Apple,44.49
+2005-11-01,Apple,47.79
+2005-12-01,Apple,56.28
+2006-01-01,Apple,60.59
+2006-02-01,Apple,63.64
+2006-03-01,Apple,58.12
+2006-04-01,Apple,53.42
+2006-05-01,Apple,59.95
+2006-06-01,Apple,50.83
+2006-07-01,Apple,48.71
+2006-08-01,Apple,57.80
+2006-09-01,Apple,57.71
+2006-10-01,Apple,65.47
+2006-11-01,Apple,68.96
+2006-12-01,Apple,78.18
+2007-01-01,Apple,72.90
+2007-02-01,Apple,73.75
+2007-03-01,Apple,72.92
+2007-04-01,Apple,80.08
+2007-05-01,Apple,86.02
+2007-06-01,Apple,104.82
+2007-07-01,Apple,105.56
+2007-08-01,Apple,113.97
+2007-09-01,Apple,120.43
+2007-10-01,Apple,133.46
+2007-11-01,Apple,165.19
+2007-12-01,Apple,159.54
+2008-01-01,Apple,173.43
+2008-02-01,Apple,118.93
+2008-03-01,Apple,109.88
+2008-04-01,Apple,126.12
+2008-05-01,Apple,153.32
+2008-06-01,Apple,166.41
+2008-07-01,Apple,147.62
+2008-08-01,Apple,140.81
+2008-09-01,Apple,150.18
+2008-10-01,Apple,100.69
+2008-11-01,Apple,95.57
+2008-12-01,Apple,82.38
+2009-01-01,Apple,75.87
+2009-02-01,Apple,80.27
+2009-03-01,Apple,79.54
+2009-04-01,Apple,93.62
+2009-05-01,Apple,112.25
+2009-06-01,Apple,121.16
+2009-07-01,Apple,127.06
+2009-08-01,Apple,146.37
+2009-09-01,Apple,150.69
+2009-10-01,Apple,166.04
+2009-11-01,Apple,169.61
+2009-12-01,Apple,179.88
+2010-01-01,Apple,189.62
+2010-02-01,Apple,174.16
+2010-03-01,Apple,185.55
+2010-04-01,Apple,213.10
+2010-05-01,Apple,237.58
+2010-06-01,Apple,233.74
+2010-07-01,Apple,228.88
+2010-08-01,Apple,235.01
+2010-09-01,Apple,222.09
+2010-10-01,Apple,259.22
+2010-11-01,Apple,276.09
+2010-12-01,Apple,285.42
+2011-01-01,Apple,295.89
+2011-02-01,Apple,312.61
+2011-03-01,Apple,325.40
+2011-04-01,Apple,321.07
+2011-05-01,Apple,322.57
+2011-06-01,Apple,320.45
+2011-07-01,Apple,310.41
+2011-08-01,Apple,362.01
+2011-09-01,Apple,356.77
+2011-10-01,Apple,353.52
+2011-11-01,Apple,376.15
+2011-12-01,Apple,355.22
+2012-01-01,Apple,376.41
+2012-02-01,Apple,425.61
+2012-03-01,Apple,505.75
+2012-04-01,Apple,559.00
+2012-05-01,Apple,546.06
+2012-06-01,Apple,540.21
+2012-07-01,Apple,546.08
+2012-08-01,Apple,572.53
+2012-09-01,Apple,623.60
+2012-10-01,Apple,625.35
+2012-11-01,Apple,560.01
+2012-12-01,Apple,550.57
+2013-01-01,Apple,500.61
+2013-02-01,Apple,427.72
+2013-03-01,Apple,414.50
+2013-04-01,Apple,415.68
+2013-05-01,Apple,415.61
+2013-06-01,Apple,422.14
+2013-07-01,Apple,372.20
+2013-08-01,Apple,411.12
+2013-09-01,Apple,442.63
+2013-10-01,Apple,433.13
+2013-11-01,Apple,470.29
+2013-12-01,Apple,500.32
+2014-01-01,Apple,504.77
+2014-02-01,Apple,446.53
+2014-03-01,Apple,469.40
+2014-04-01,Apple,478.77
+2014-05-01,Apple,508.29
+2014-06-01,Apple,545.25
+2014-07-01,Apple,560.34
+2014-08-01,Apple,572.44
+2014-09-01,Apple,613.76
+2014-10-01,Apple,603.28
+2014-11-01,Apple,633.40
+2014-12-01,Apple,697.51
+2015-01-01,Apple,647.36
+2015-02-01,Apple,682.43
+2015-03-01,Apple,748.25
+2015-04-01,Apple,724.77
+2015-05-01,Apple,720.99
+2015-06-01,Apple,750.55
+2015-07-01,Apple,722.58
+2015-08-01,Apple,691.74
+2015-09-01,Apple,643.04
+2015-10-01,Apple,629.01
+2015-11-01,Apple,666.25
+2015-12-01,Apple,659.56
+2016-01-01,Apple,586.86
+2016-02-01,Apple,539.71
+2016-03-01,Apple,536.11
+2016-04-01,Apple,604.30
+2016-05-01,Apple,513.45
+2016-06-01,Apple,546.98
+2016-07-01,Apple,523.64
+2016-08-01,Apple,561.53
+2016-09-01,Apple,571.71
+2016-10-01,Apple,609.16
+2016-11-01,Apple,605.43
+2016-12-01,Apple,589.33
+2017-01-01,Apple,617.59
+2017-02-01,Apple,638.04
+2017-03-01,Apple,718.72
+2017-04-01,Apple,753.72
+2017-05-01,Apple,753.67
+2017-06-01,Apple,796.47
+2017-07-01,Apple,750.90
+2017-08-01,Apple,775.45
+2017-09-01,Apple,847.10
+2017-10-01,Apple,796.06
+2017-11-01,Apple,873.13
+2017-12-01,Apple,882.33
+2018-01-01,Apple,860.88
+2018-02-01,Apple,851.73
+2018-03-01,Apple,903.78
+2018-04-01,Apple,851.32
+2018-05-01,Apple,838.53
+2018-06-01,Apple,918.49
+2018-07-01,Apple,909.84
+2018-08-01,Apple,921.56
+2018-09-01,Apple,1099.44
+2018-10-01,Apple,1090.31
+2018-11-01,Apple,1057.08
+2018-12-01,Apple,847.43
+2019-01-01,Apple,748.54
+2019-02-01,Apple,784.81
+2019-03-01,Apple,816.45
+2019-04-01,Apple,895.67
+2019-05-01,Apple,946.22
+2019-06-01,Apple,805.51
+2019-07-01,Apple,910.64
+2019-08-01,Apple,962.77
+2019-09-01,Apple,943.33
+2019-10-01,Apple,1012.16
+2019-11-01,Apple,1105.31
+2019-12-01,Apple,1187.46
+2020-01-01,Apple,1304.76
+2020-02-01,Apple,1354.25
+2020-03-01,Apple,1196.08
+2020-04-01,Apple,1112.64
+2020-05-01,Apple,1285.52
+2020-06-01,Apple,1378.06
+2020-07-01,Apple,1581.17
+2020-08-01,Apple,1817.32
+2020-09-01,Apple,2206.91
+2020-10-01,Apple,1980.64
+2020-11-01,Apple,1850.82
+2020-12-01,Apple,2024.06
+2021-01-01,Apple,2255.97
+2021-02-01,Apple,2215.36
+2021-03-01,Apple,2035.72
+2021-04-01,Apple,2050.67
+2021-05-01,Apple,2193.76
+2021-06-01,Apple,2079.45
+2021-07-01,Apple,2285.54
+2021-08-01,Apple,2411.09
+2021-09-01,Apple,2509.78
+2021-10-01,Apple,2339.02
+2021-11-01,Apple,2457.68
+2021-12-01,Apple,2711.98
+2022-01-01,Apple,2913.28
+2022-02-01,Apple,2852.31
+2022-03-01,Apple,2694.67
+2022-04-01,Apple,2849.54
+2022-05-01,Apple,2551.59
+2022-06-01,Apple,2409.00
+2022-07-01,Apple,2212.84
+2022-08-01,Apple,2611.66
+2022-09-01,Apple,2526.64
+2022-10-01,Apple,2220.98
+2022-11-01,Apple,2439.35
+2000-01-01,Microsoft,601.03
+2000-02-01,Microsoft,503.86
+2000-03-01,Microsoft,448.66
+2000-04-01,Microsoft,533.38
+2000-05-01,Microsoft,350.15
+2000-06-01,Microsoft,329.23
+2000-07-01,Microsoft,420.99
+2000-08-01,Microsoft,367.38
+2000-09-01,Microsoft,367.38
+2000-10-01,Microsoft,323.00
+2000-11-01,Microsoft,363.87
+2000-12-01,Microsoft,305.94
+2001-01-01,Microsoft,231.29
+2001-02-01,Microsoft,325.46
+2001-03-01,Microsoft,314.79
+2001-04-01,Microsoft,291.78
+2001-05-01,Microsoft,361.47
+2001-06-01,Microsoft,372.33
+2001-07-01,Microsoft,392.89
+2001-08-01,Microsoft,356.17
+2001-09-01,Microsoft,306.99
+2001-10-01,Microsoft,276.42
+2001-11-01,Microsoft,313.18
+2001-12-01,Microsoft,345.82
+2002-01-01,Microsoft,356.81
+2002-02-01,Microsoft,343.72
+2002-03-01,Microsoft,315.92
+2002-04-01,Microsoft,326.64
+2002-05-01,Microsoft,283.01
+2002-06-01,Microsoft,275.70
+2002-07-01,Microsoft,296.23
+2002-08-01,Microsoft,259.83
+2002-09-01,Microsoft,265.79
+2002-10-01,Microsoft,234.60
+2002-11-01,Microsoft,286.79
+2002-12-01,Microsoft,308.38
+2003-01-01,Microsoft,276.41
+2003-02-01,Microsoft,253.94
+2003-03-01,Microsoft,253.62
+2003-04-01,Microsoft,259.08
+2003-05-01,Microsoft,274.05
+2003-06-01,Microsoft,264.22
+2003-07-01,Microsoft,275.28
+2003-08-01,Microsoft,283.54
+2003-09-01,Microsoft,284.73
+2003-10-01,Microsoft,300.72
+2003-11-01,Microsoft,282.77
+2003-12-01,Microsoft,277.99
+2004-01-01,Microsoft,295.94
+2004-02-01,Microsoft,298.96
+2004-03-01,Microsoft,286.38
+2004-04-01,Microsoft,269.10
+2004-05-01,Microsoft,282.06
+2004-06-01,Microsoft,283.14
+2004-07-01,Microsoft,308.30
+2004-08-01,Microsoft,307.54
+2004-09-01,Microsoft,296.53
+2004-10-01,Microsoft,300.85
+2004-11-01,Microsoft,304.33
+2004-12-01,Microsoft,291.47
+2005-01-01,Microsoft,290.49
+2005-02-01,Microsoft,285.93
+2005-03-01,Microsoft,273.75
+2005-04-01,Microsoft,262.97
+2005-05-01,Microsoft,273.35
+2005-06-01,Microsoft,278.75
+2005-07-01,Microsoft,268.38
+2005-08-01,Microsoft,274.28
+2005-09-01,Microsoft,293.31
+2005-10-01,Microsoft,274.27
+2005-11-01,Microsoft,273.57
+2005-12-01,Microsoft,294.64
+2006-01-01,Microsoft,278.36
+2006-02-01,Microsoft,290.88
+2006-03-01,Microsoft,277.66
+2006-04-01,Microsoft,281.17
+2006-05-01,Microsoft,246.36
+2006-06-01,Microsoft,231.06
+2006-07-01,Microsoft,237.69
+2006-08-01,Microsoft,245.44
+2006-09-01,Microsoft,252.26
+2006-10-01,Microsoft,268.45
+2006-11-01,Microsoft,282.23
+2006-12-01,Microsoft,288.62
+2007-01-01,Microsoft,293.54
+2007-02-01,Microsoft,302.19
+2007-03-01,Microsoft,275.85
+2007-04-01,Microsoft,272.91
+2007-05-01,Microsoft,286.43
+2007-06-01,Microsoft,293.61
+2007-07-01,Microsoft,281.93
+2007-08-01,Microsoft,271.93
+2007-09-01,Microsoft,269.36
+2007-10-01,Microsoft,276.98
+2007-11-01,Microsoft,344.37
+2007-12-01,Microsoft,314.34
+2008-01-01,Microsoft,333.05
+2008-02-01,Microsoft,313.09
+2008-03-01,Microsoft,253.15
+2008-04-01,Microsoft,264.13
+2008-05-01,Microsoft,265.62
+2008-06-01,Microsoft,263.75
+2008-07-01,Microsoft,256.21
+2008-08-01,Microsoft,235.36
+2008-09-01,Microsoft,249.17
+2008-10-01,Microsoft,243.69
+2008-11-01,Microsoft,198.64
+2008-12-01,Microsoft,179.87
+2009-01-01,Microsoft,172.93
+2009-02-01,Microsoft,152.03
+2009-03-01,Microsoft,143.58
+2009-04-01,Microsoft,163.32
+2009-05-01,Microsoft,180.31
+2009-06-01,Microsoft,185.92
+2009-07-01,Microsoft,211.55
+2009-08-01,Microsoft,209.58
+2009-09-01,Microsoft,219.65
+2009-10-01,Microsoft,229.18
+2009-11-01,Microsoft,246.22
+2009-12-01,Microsoft,261.13
+2010-01-01,Microsoft,270.64
+2010-02-01,Microsoft,247.15
+2010-03-01,Microsoft,251.45
+2010-04-01,Microsoft,256.86
+2010-05-01,Microsoft,267.60
+2010-06-01,Microsoft,226.11
+2010-07-01,Microsoft,201.66
+2010-08-01,Microsoft,226.19
+2010-09-01,Microsoft,203.06
+2010-10-01,Microsoft,211.93
+2010-11-01,Microsoft,228.13
+2010-12-01,Microsoft,216.09
+2011-01-01,Microsoft,238.78
+2011-02-01,Microsoft,232.96
+2011-03-01,Microsoft,223.34
+2011-04-01,Microsoft,213.34
+2011-05-01,Microsoft,218.58
+2011-06-01,Microsoft,210.90
+2011-07-01,Microsoft,219.25
+2011-08-01,Microsoft,229.56
+2011-09-01,Microsoft,222.86
+2011-10-01,Microsoft,208.54
+2011-11-01,Microsoft,224.02
+2011-12-01,Microsoft,215.18
+2012-01-01,Microsoft,218.38
+2012-02-01,Microsoft,247.78
+2012-03-01,Microsoft,266.32
+2012-04-01,Microsoft,270.64
+2012-05-01,Microsoft,268.95
+2012-06-01,Microsoft,245.22
+2012-07-01,Microsoft,256.98
+2012-08-01,Microsoft,247.06
+2012-09-01,Microsoft,258.38
+2012-10-01,Microsoft,249.49
+2012-11-01,Microsoft,240.21
+2012-12-01,Microsoft,224.00
+2013-01-01,Microsoft,224.80
+2013-02-01,Microsoft,229.93
+2013-03-01,Microsoft,232.86
+2013-04-01,Microsoft,239.60
+2013-05-01,Microsoft,276.42
+2013-06-01,Microsoft,291.45
+2013-07-01,Microsoft,288.49
+2013-08-01,Microsoft,265.16
+2013-09-01,Microsoft,278.22
+2013-10-01,Microsoft,277.22
+2013-11-01,Microsoft,295.56
+2013-12-01,Microsoft,318.31
+2014-01-01,Microsoft,312.30
+2014-02-01,Microsoft,314.10
+2014-03-01,Microsoft,318.00
+2014-04-01,Microsoft,340.25
+2014-05-01,Microsoft,333.72
+2014-06-01,Microsoft,338.18
+2014-07-01,Microsoft,344.46
+2014-08-01,Microsoft,355.63
+2014-09-01,Microsoft,374.34
+2014-10-01,Microsoft,382.00
+2014-11-01,Microsoft,387.00
+2014-12-01,Microsoft,394.09
+2015-01-01,Microsoft,382.88
+2015-02-01,Microsoft,331.43
+2015-03-01,Microsoft,359.74
+2015-04-01,Microsoft,333.52
+2015-05-01,Microsoft,393.48
+2015-06-01,Microsoft,379.08
+2015-07-01,Microsoft,357.15
+2015-08-01,Microsoft,373.51
+2015-09-01,Microsoft,348.07
+2015-10-01,Microsoft,353.99
+2015-11-01,Microsoft,420.48
+2015-12-01,Microsoft,434.14
+2016-01-01,Microsoft,443.17
+2016-02-01,Microsoft,435.72
+2016-03-01,Microsoft,402.43
+2016-04-01,Microsoft,436.83
+2016-05-01,Microsoft,392.00
+2016-06-01,Microsoft,416.60
+2016-07-01,Microsoft,402.22
+2016-08-01,Microsoft,441.68
+2016-09-01,Microsoft,447.76
+2016-10-01,Microsoft,448.85
+2016-11-01,Microsoft,465.90
+2016-12-01,Microsoft,468.54
+2017-01-01,Microsoft,483.16
+2017-02-01,Microsoft,499.58
+2017-03-01,Microsoft,494.41
+2017-04-01,Microsoft,508.94
+2017-05-01,Microsoft,528.55
+2017-06-01,Microsoft,539.20
+2017-07-01,Microsoft,532.18
+2017-08-01,Microsoft,560.37
+2017-09-01,Microsoft,575.90
+2017-10-01,Microsoft,573.74
+2017-11-01,Microsoft,641.70
+2017-12-01,Microsoft,649.34
+2018-01-01,Microsoft,659.91
+2018-02-01,Microsoft,731.56
+2018-03-01,Microsoft,722.01
+2018-04-01,Microsoft,702.76
+2018-05-01,Microsoft,718.53
+2018-06-01,Microsoft,759.41
+2018-07-01,Microsoft,757.64
+2018-08-01,Microsoft,814.38
+2018-09-01,Microsoft,861.37
+2018-10-01,Microsoft,877.01
+2018-11-01,Microsoft,825.53
+2018-12-01,Microsoft,857.06
+2019-01-01,Microsoft,785.03
+2019-02-01,Microsoft,801.21
+2019-03-01,Microsoft,859.52
+2019-04-01,Microsoft,904.86
+2019-05-01,Microsoft,1000.76
+2019-06-01,Microsoft,947.74
+2019-07-01,Microsoft,1026.51
+2019-08-01,Microsoft,1041.51
+2019-09-01,Microsoft,1052.62
+2019-10-01,Microsoft,1061.55
+2019-11-01,Microsoft,1093.74
+2019-12-01,Microsoft,1154.85
+2020-01-01,Microsoft,1203.06
+2020-02-01,Microsoft,1294.78
+2020-03-01,Microsoft,1232.26
+2020-04-01,Microsoft,1199.55
+2020-05-01,Microsoft,1359.03
+2020-06-01,Microsoft,1389.67
+2020-07-01,Microsoft,1543.31
+2020-08-01,Microsoft,1551.44
+2020-09-01,Microsoft,1706.73
+2020-10-01,Microsoft,1591.70
+2020-11-01,Microsoft,1530.77
+2020-12-01,Microsoft,1618.48
+2021-01-01,Microsoft,1681.61
+2021-02-01,Microsoft,1749.49
+2021-03-01,Microsoft,1752.66
+2021-04-01,Microsoft,1778.23
+2021-05-01,Microsoft,1899.31
+2021-06-01,Microsoft,1880.48
+2021-07-01,Microsoft,2040.30
+2021-08-01,Microsoft,2141.07
+2021-09-01,Microsoft,2268.60
+2021-10-01,Microsoft,2118.60
+2021-11-01,Microsoft,2489.80
+2021-12-01,Microsoft,2482.06
+2022-01-01,Microsoft,2525.08
+2022-02-01,Microsoft,2331.38
+2022-03-01,Microsoft,2239.99
+2022-04-01,Microsoft,2311.36
+2022-05-01,Microsoft,2075.58
+2022-06-01,Microsoft,2033.32
+2022-07-01,Microsoft,1920.84
+2022-08-01,Microsoft,2093.73
+2022-09-01,Microsoft,1950.01
+2022-10-01,Microsoft,1736.94
+2022-11-01,Microsoft,1730.41
+2000-01-01,Google (Alphabet),0.00
+2000-02-01,Google (Alphabet),0.00
+2000-03-01,Google (Alphabet),0.00
+2000-04-01,Google (Alphabet),0.00
+2000-05-01,Google (Alphabet),0.00
+2000-06-01,Google (Alphabet),0.00
+2000-07-01,Google (Alphabet),0.00
+2000-08-01,Google (Alphabet),0.00
+2000-09-01,Google (Alphabet),0.00
+2000-10-01,Google (Alphabet),0.00
+2000-11-01,Google (Alphabet),0.00
+2000-12-01,Google (Alphabet),0.00
+2001-01-01,Google (Alphabet),0.00
+2001-02-01,Google (Alphabet),0.00
+2001-03-01,Google (Alphabet),0.00
+2001-04-01,Google (Alphabet),0.00
+2001-05-01,Google (Alphabet),0.00
+2001-06-01,Google (Alphabet),0.00
+2001-07-01,Google (Alphabet),0.00
+2001-08-01,Google (Alphabet),0.00
+2001-09-01,Google (Alphabet),0.00
+2001-10-01,Google (Alphabet),0.00
+2001-11-01,Google (Alphabet),0.00
+2001-12-01,Google (Alphabet),0.00
+2002-01-01,Google (Alphabet),0.00
+2002-02-01,Google (Alphabet),0.00
+2002-03-01,Google (Alphabet),0.00
+2002-04-01,Google (Alphabet),0.00
+2002-05-01,Google (Alphabet),0.00
+2002-06-01,Google (Alphabet),0.00
+2002-07-01,Google (Alphabet),0.00
+2002-08-01,Google (Alphabet),0.00
+2002-09-01,Google (Alphabet),0.00
+2002-10-01,Google (Alphabet),0.00
+2002-11-01,Google (Alphabet),0.00
+2002-12-01,Google (Alphabet),0.00
+2003-01-01,Google (Alphabet),0.00
+2003-02-01,Google (Alphabet),0.00
+2003-03-01,Google (Alphabet),0.00
+2003-04-01,Google (Alphabet),0.00
+2003-05-01,Google (Alphabet),0.00
+2003-06-01,Google (Alphabet),0.00
+2003-07-01,Google (Alphabet),0.00
+2003-08-01,Google (Alphabet),0.00
+2003-09-01,Google (Alphabet),0.00
+2003-10-01,Google (Alphabet),0.00
+2003-11-01,Google (Alphabet),0.00
+2003-12-01,Google (Alphabet),0.00
+2004-01-01,Google (Alphabet),0.00
+2004-02-01,Google (Alphabet),0.00
+2004-03-01,Google (Alphabet),0.00
+2004-04-01,Google (Alphabet),0.00
+2004-05-01,Google (Alphabet),0.00
+2004-06-01,Google (Alphabet),0.00
+2004-07-01,Google (Alphabet),0.00
+2004-08-01,Google (Alphabet),0.00
+2004-09-01,Google (Alphabet),28.06
+2004-10-01,Google (Alphabet),35.53
+2004-11-01,Google (Alphabet),55.34
+2004-12-01,Google (Alphabet),49.76
+2005-01-01,Google (Alphabet),52.71
+2005-02-01,Google (Alphabet),53.49
+2005-03-01,Google (Alphabet),58.45
+2005-04-01,Google (Alphabet),50.06
+2005-05-01,Google (Alphabet),61.00
+2005-06-01,Google (Alphabet),77.02
+2005-07-01,Google (Alphabet),81.71
+2005-08-01,Google (Alphabet),79.93
+2005-09-01,Google (Alphabet),79.86
+2005-10-01,Google (Alphabet),92.66
+2005-11-01,Google (Alphabet),108.97
+2005-12-01,Google (Alphabet),119.67
+2006-01-01,Google (Alphabet),122.61
+2006-02-01,Google (Alphabet),127.87
+2006-03-01,Google (Alphabet),107.17
+2006-04-01,Google (Alphabet),115.92
+2006-05-01,Google (Alphabet),127.63
+2006-06-01,Google (Alphabet),112.69
+2006-07-01,Google (Alphabet),127.09
+2006-08-01,Google (Alphabet),117.17
+2006-09-01,Google (Alphabet),115.21
+2006-10-01,Google (Alphabet),122.32
+2006-11-01,Google (Alphabet),144.99
+2006-12-01,Google (Alphabet),148.43
+2007-01-01,Google (Alphabet),140.98
+2007-02-01,Google (Alphabet),155.15
+2007-03-01,Google (Alphabet),139.05
+2007-04-01,Google (Alphabet),142.47
+2007-05-01,Google (Alphabet),146.58
+2007-06-01,Google (Alphabet),155.12
+2007-07-01,Google (Alphabet),162.85
+2007-08-01,Google (Alphabet),158.89
+2007-09-01,Google (Alphabet),160.83
+2007-10-01,Google (Alphabet),177.06
+2007-11-01,Google (Alphabet),220.68
+2007-12-01,Google (Alphabet),216.80
+2008-01-01,Google (Alphabet),216.32
+2008-02-01,Google (Alphabet),176.54
+2008-03-01,Google (Alphabet),147.66
+2008-04-01,Google (Alphabet),138.03
+2008-05-01,Google (Alphabet),179.97
+2008-06-01,Google (Alphabet),184.00
+2008-07-01,Google (Alphabet),165.34
+2008-08-01,Google (Alphabet),148.80
+2008-09-01,Google (Alphabet),145.68
+2008-10-01,Google (Alphabet),125.94
+2008-11-01,Google (Alphabet),113.00
+2008-12-01,Google (Alphabet),92.24
+2009-01-01,Google (Alphabet),96.87
+2009-02-01,Google (Alphabet),106.59
+2009-03-01,Google (Alphabet),106.57
+2009-04-01,Google (Alphabet),109.74
+2009-05-01,Google (Alphabet),124.85
+2009-06-01,Google (Alphabet),131.82
+2009-07-01,Google (Alphabet),133.20
+2009-08-01,Google (Alphabet),139.98
+2009-09-01,Google (Alphabet),146.15
+2009-10-01,Google (Alphabet),156.97
+2009-11-01,Google (Alphabet),169.72
+2009-12-01,Google (Alphabet),184.97
+2010-01-01,Google (Alphabet),196.70
+2010-02-01,Google (Alphabet),168.14
+2010-03-01,Google (Alphabet),167.51
+2010-04-01,Google (Alphabet),180.33
+2010-05-01,Google (Alphabet),167.16
+2010-06-01,Google (Alphabet),154.67
+2010-07-01,Google (Alphabet),141.71
+2010-08-01,Google (Alphabet),154.42
+2010-09-01,Google (Alphabet),143.71
+2010-10-01,Google (Alphabet),167.91
+2010-11-01,Google (Alphabet),196.25
+2010-12-01,Google (Alphabet),177.70
+2011-01-01,Google (Alphabet),189.94
+2011-02-01,Google (Alphabet),191.98
+2011-03-01,Google (Alphabet),197.66
+2011-04-01,Google (Alphabet),189.08
+2011-05-01,Google (Alphabet),175.27
+2011-06-01,Google (Alphabet),170.58
+2011-07-01,Google (Alphabet),163.28
+2011-08-01,Google (Alphabet),195.40
+2011-09-01,Google (Alphabet),175.10
+2011-10-01,Google (Alphabet),166.71
+2011-11-01,Google (Alphabet),192.88
+2011-12-01,Google (Alphabet),195.08
+2012-01-01,Google (Alphabet),209.20
+2012-02-01,Google (Alphabet),189.03
+2012-03-01,Google (Alphabet),201.46
+2012-04-01,Google (Alphabet),208.95
+2012-05-01,Google (Alphabet),198.30
+2012-06-01,Google (Alphabet),189.36
+2012-07-01,Google (Alphabet),189.11
+2012-08-01,Google (Alphabet),207.63
+2012-09-01,Google (Alphabet),224.72
+2012-10-01,Google (Alphabet),247.49
+2012-11-01,Google (Alphabet),222.48
+2012-12-01,Google (Alphabet),229.48
+2013-01-01,Google (Alphabet),232.44
+2013-02-01,Google (Alphabet),250.24
+2013-03-01,Google (Alphabet),265.31
+2013-04-01,Google (Alphabet),262.99
+2013-05-01,Google (Alphabet),272.94
+2013-06-01,Google (Alphabet),288.38
+2013-07-01,Google (Alphabet),292.08
+2013-08-01,Google (Alphabet),295.82
+2013-09-01,Google (Alphabet),282.20
+2013-10-01,Google (Alphabet),291.87
+2013-11-01,Google (Alphabet),344.30
+2013-12-01,Google (Alphabet),354.00
+2014-01-01,Google (Alphabet),374.42
+2014-02-01,Google (Alphabet),394.55
+2014-03-01,Google (Alphabet),408.52
+2014-04-01,Google (Alphabet),375.19
+2014-05-01,Google (Alphabet),357.77
+2014-06-01,Google (Alphabet),381.28
+2014-07-01,Google (Alphabet),390.93
+2014-08-01,Google (Alphabet),389.10
+2014-09-01,Google (Alphabet),389.97
+2014-10-01,Google (Alphabet),393.96
+2014-11-01,Google (Alphabet),382.00
+2014-12-01,Google (Alphabet),369.82
+2015-01-01,Google (Alphabet),358.42
+2015-02-01,Google (Alphabet),363.55
+2015-03-01,Google (Alphabet),381.39
+2015-04-01,Google (Alphabet),375.08
+2015-05-01,Google (Alphabet),370.28
+2015-06-01,Google (Alphabet),367.27
+2015-07-01,Google (Alphabet),361.34
+2015-08-01,Google (Alphabet),438.95
+2015-09-01,Google (Alphabet),433.17
+2015-10-01,Google (Alphabet),426.55
+2015-11-01,Google (Alphabet),497.26
+2015-12-01,Google (Alphabet),517.12
+2016-01-01,Google (Alphabet),527.96
+2016-02-01,Google (Alphabet),516.77
+2016-03-01,Google (Alphabet),485.79
+2016-04-01,Google (Alphabet),517.74
+2016-05-01,Google (Alphabet),481.06
+2016-06-01,Google (Alphabet),509.29
+2016-07-01,Google (Alphabet),478.80
+2016-08-01,Google (Alphabet),535.00
+2016-09-01,Google (Alphabet),534.45
+2016-10-01,Google (Alphabet),542.76
+2016-11-01,Google (Alphabet),547.29
+2016-12-01,Google (Alphabet),528.18
+2017-01-01,Google (Alphabet),538.57
+2017-02-01,Google (Alphabet),558.32
+2017-03-01,Google (Alphabet),576.15
+2017-04-01,Google (Alphabet),579.43
+2017-05-01,Google (Alphabet),632.64
+2017-06-01,Google (Alphabet),674.58
+2017-07-01,Google (Alphabet),635.34
+2017-08-01,Google (Alphabet),649.55
+2017-09-01,Google (Alphabet),655.96
+2017-10-01,Google (Alphabet),669.25
+2017-11-01,Google (Alphabet),711.64
+2017-12-01,Google (Alphabet),714.43
+2018-01-01,Google (Alphabet),729.29
+2018-02-01,Google (Alphabet),816.83
+2018-03-01,Google (Alphabet),767.86
+2018-04-01,Google (Alphabet),719.12
+2018-05-01,Google (Alphabet),706.99
+2018-06-01,Google (Alphabet),758.41
+2018-07-01,Google (Alphabet),779.23
+2018-08-01,Google (Alphabet),850.03
+2018-09-01,Google (Alphabet),851.85
+2018-10-01,Google (Alphabet),834.66
+2018-11-01,Google (Alphabet),753.31
+2018-12-01,Google (Alphabet),766.05
+2019-01-01,Google (Alphabet),723.25
+2019-02-01,Google (Alphabet),779.47
+2019-03-01,Google (Alphabet),780.69
+2019-04-01,Google (Alphabet),816.82
+2019-05-01,Google (Alphabet),828.48
+2019-06-01,Google (Alphabet),767.11
+2019-07-01,Google (Alphabet),751.03
+2019-08-01,Google (Alphabet),844.13
+2019-09-01,Google (Alphabet),824.61
+2019-10-01,Google (Alphabet),845.94
+2019-11-01,Google (Alphabet),868.66
+2019-12-01,Google (Alphabet),899.73
+2020-01-01,Google (Alphabet),922.89
+2020-02-01,Google (Alphabet),988.70
+2020-03-01,Google (Alphabet),920.48
+2020-04-01,Google (Alphabet),798.91
+2020-05-01,Google (Alphabet),919.99
+2020-06-01,Google (Alphabet),976.90
+2020-07-01,Google (Alphabet),966.39
+2020-08-01,Google (Alphabet),1010.27
+2020-09-01,Google (Alphabet),1110.01
+2020-10-01,Google (Alphabet),998.27
+2020-11-01,Google (Alphabet),1094.91
+2020-12-01,Google (Alphabet),1188.96
+2021-01-01,Google (Alphabet),1185.26
+2021-02-01,Google (Alphabet),1239.03
+2021-03-01,Google (Alphabet),1368.28
+2021-04-01,Google (Alphabet),1392.56
+2021-05-01,Google (Alphabet),1596.85
+2021-06-01,Google (Alphabet),1598.43
+2021-07-01,Google (Alphabet),1658.76
+2021-08-01,Google (Alphabet),1799.98
+2021-09-01,Google (Alphabet),1934.80
+2021-10-01,Google (Alphabet),1779.77
+2021-11-01,Google (Alphabet),1966.88
+2021-12-01,Google (Alphabet),1887.50
+2022-01-01,Google (Alphabet),1921.78
+2022-02-01,Google (Alphabet),1798.88
+2022-03-01,Google (Alphabet),1784.25
+2022-04-01,Google (Alphabet),1842.33
+2022-05-01,Google (Alphabet),1508.57
+2022-06-01,Google (Alphabet),1500.10
+2022-07-01,Google (Alphabet),1437.79
+2022-08-01,Google (Alphabet),1519.39
+2022-09-01,Google (Alphabet),1417.76
+2022-10-01,Google (Alphabet),1250.96
+2022-11-01,Google (Alphabet),1224.22
+2000-01-01,Amazon,25.94
+2000-02-01,Amazon,22.00
+2000-03-01,Amazon,23.47
+2000-04-01,Amazon,23.13
+2000-05-01,Amazon,19.05
+2000-06-01,Amazon,17.00
+2000-07-01,Amazon,12.77
+2000-08-01,Amazon,10.60
+2000-09-01,Amazon,14.77
+2000-10-01,Amazon,13.68
+2000-11-01,Amazon,13.04
+2000-12-01,Amazon,8.79
+2001-01-01,Amazon,5.54
+2001-02-01,Amazon,6.18
+2001-03-01,Amazon,3.64
+2001-04-01,Amazon,3.67
+2001-05-01,Amazon,5.67
+2001-06-01,Amazon,5.99
+2001-07-01,Amazon,5.08
+2001-08-01,Amazon,4.53
+2001-09-01,Amazon,3.32
+2001-10-01,Amazon,2.21
+2001-11-01,Amazon,2.59
+2001-12-01,Amazon,4.21
+2002-01-01,Amazon,4.02
+2002-02-01,Amazon,5.30
+2002-03-01,Amazon,5.26
+2002-04-01,Amazon,5.34
+2002-05-01,Amazon,6.26
+2002-06-01,Amazon,6.84
+2002-07-01,Amazon,6.09
+2002-08-01,Amazon,5.50
+2002-09-01,Amazon,5.68
+2002-10-01,Amazon,6.06
+2002-11-01,Amazon,7.39
+2002-12-01,Amazon,8.91
+2003-01-01,Amazon,7.21
+2003-02-01,Amazon,8.48
+2003-03-01,Amazon,8.55
+2003-04-01,Amazon,10.11
+2003-05-01,Amazon,11.24
+2003-06-01,Amazon,14.06
+2003-07-01,Amazon,14.23
+2003-08-01,Amazon,16.53
+2003-09-01,Amazon,18.39
+2003-10-01,Amazon,19.23
+2003-11-01,Amazon,21.83
+2003-12-01,Amazon,21.65
+2004-01-01,Amazon,21.10
+2004-02-01,Amazon,20.21
+2004-03-01,Amazon,17.39
+2004-04-01,Amazon,17.50
+2004-05-01,Amazon,17.66
+2004-06-01,Amazon,19.64
+2004-07-01,Amazon,22.03
+2004-08-01,Amazon,15.84
+2004-09-01,Amazon,15.52
+2004-10-01,Amazon,16.62
+2004-11-01,Amazon,13.93
+2004-12-01,Amazon,16.19
+2005-01-01,Amazon,18.07
+2005-02-01,Amazon,17.64
+2005-03-01,Amazon,14.36
+2005-04-01,Amazon,14.07
+2005-05-01,Amazon,13.30
+2005-06-01,Amazon,14.59
+2005-07-01,Amazon,13.60
+2005-08-01,Amazon,18.60
+2005-09-01,Amazon,17.59
+2005-10-01,Amazon,18.66
+2005-11-01,Amazon,16.52
+2005-12-01,Amazon,20.09
+2006-01-01,Amazon,19.54
+2006-02-01,Amazon,18.58
+2006-03-01,Amazon,15.61
+2006-04-01,Amazon,15.23
+2006-05-01,Amazon,14.71
+2006-06-01,Amazon,14.46
+2006-07-01,Amazon,16.16
+2006-08-01,Amazon,11.27
+2006-09-01,Amazon,12.92
+2006-10-01,Amazon,13.46
+2006-11-01,Amazon,15.69
+2006-12-01,Amazon,16.62
+2007-01-01,Amazon,16.25
+2007-02-01,Amazon,15.52
+2007-03-01,Amazon,16.23
+2007-04-01,Amazon,16.50
+2007-05-01,Amazon,25.13
+2007-06-01,Amazon,28.33
+2007-07-01,Amazon,28.03
+2007-08-01,Amazon,32.47
+2007-09-01,Amazon,33.03
+2007-10-01,Amazon,38.51
+2007-11-01,Amazon,37.01
+2007-12-01,Amazon,37.60
+2008-01-01,Amazon,38.46
+2008-02-01,Amazon,32.32
+2008-03-01,Amazon,26.87
+2008-04-01,Amazon,29.72
+2008-05-01,Amazon,32.84
+2008-06-01,Amazon,34.09
+2008-07-01,Amazon,30.63
+2008-08-01,Amazon,32.51
+2008-09-01,Amazon,34.42
+2008-10-01,Amazon,30.99
+2008-11-01,Amazon,24.55
+2008-12-01,Amazon,18.31
+2009-01-01,Amazon,21.99
+2009-02-01,Amazon,25.21
+2009-03-01,Amazon,27.77
+2009-04-01,Amazon,31.48
+2009-05-01,Amazon,34.60
+2009-06-01,Amazon,33.51
+2009-07-01,Amazon,35.94
+2009-08-01,Amazon,37.03
+2009-09-01,Amazon,35.06
+2009-10-01,Amazon,40.31
+2009-11-01,Amazon,51.44
+2009-12-01,Amazon,58.85
+2010-01-01,Amazon,58.24
+2010-02-01,Amazon,54.30
+2010-03-01,Amazon,52.63
+2010-04-01,Amazon,60.36
+2010-05-01,Amazon,61.10
+2010-06-01,Amazon,55.91
+2010-07-01,Amazon,48.69
+2010-08-01,Amazon,52.79
+2010-09-01,Amazon,55.90
+2010-10-01,Amazon,70.34
+2010-11-01,Amazon,74.16
+2010-12-01,Amazon,78.73
+2011-01-01,Amazon,80.79
+2011-02-01,Amazon,76.51
+2011-03-01,Amazon,78.15
+2011-04-01,Amazon,81.24
+2011-05-01,Amazon,88.51
+2011-06-01,Amazon,88.91
+2011-07-01,Amazon,92.44
+2011-08-01,Amazon,101.01
+2011-09-01,Amazon,97.70
+2011-10-01,Amazon,98.15
+2011-11-01,Amazon,97.09
+2011-12-01,Amazon,87.44
+2012-01-01,Amazon,78.72
+2012-02-01,Amazon,88.42
+2012-03-01,Amazon,81.77
+2012-04-01,Amazon,92.16
+2012-05-01,Amazon,104.48
+2012-06-01,Amazon,95.92
+2012-07-01,Amazon,102.88
+2012-08-01,Amazon,105.47
+2012-09-01,Amazon,112.23
+2012-10-01,Amazon,114.97
+2012-11-01,Amazon,105.49
+2012-12-01,Amazon,114.17
+2013-01-01,Amazon,113.63
+2013-02-01,Amazon,120.68
+2013-03-01,Amazon,120.12
+2013-04-01,Amazon,121.13
+2013-05-01,Amazon,115.55
+2013-06-01,Amazon,122.55
+2013-07-01,Amazon,126.42
+2013-08-01,Amazon,137.62
+2013-09-01,Amazon,128.38
+2013-10-01,Amazon,142.84
+2013-11-01,Amazon,166.63
+2013-12-01,Amazon,180.17
+2014-01-01,Amazon,182.54
+2014-02-01,Amazon,164.73
+2014-03-01,Amazon,166.30
+2014-04-01,Amazon,154.48
+2014-05-01,Amazon,139.95
+2014-06-01,Amazon,143.83
+2014-07-01,Amazon,149.45
+2014-08-01,Amazon,144.61
+2014-09-01,Amazon,156.65
+2014-10-01,Amazon,148.98
+2014-11-01,Amazon,141.43
+2014-12-01,Amazon,156.79
+2015-01-01,Amazon,143.69
+2015-02-01,Amazon,164.64
+2015-03-01,Amazon,176.54
+2015-04-01,Amazon,172.80
+2015-05-01,Amazon,196.41
+2015-06-01,Amazon,199.88
+2015-07-01,Amazon,202.15
+2015-08-01,Amazon,250.76
+2015-09-01,Amazon,239.88
+2015-10-01,Amazon,239.42
+2015-11-01,Amazon,293.40
+2015-12-01,Amazon,311.63
+2016-01-01,Amazon,316.83
+2016-02-01,Amazon,276.38
+2016-03-01,Amazon,260.15
+2016-04-01,Amazon,279.51
+2016-05-01,Amazon,311.21
+2016-06-01,Amazon,341.03
+2016-07-01,Amazon,337.65
+2016-08-01,Amazon,359.73
+2016-09-01,Amazon,364.64
+2016-10-01,Amazon,396.95
+2016-11-01,Amazon,375.30
+2016-12-01,Amazon,356.65
+2017-01-01,Amazon,356.31
+2017-02-01,Amazon,391.29
+2017-03-01,Amazon,403.23
+2017-04-01,Amazon,423.03
+2017-05-01,Amazon,442.12
+2017-06-01,Amazon,475.40
+2017-07-01,Amazon,462.68
+2017-08-01,Amazon,474.51
+2017-09-01,Amazon,471.06
+2017-10-01,Amazon,461.81
+2017-11-01,Amazon,532.60
+2017-12-01,Amazon,567.04
+2018-01-01,Amazon,563.54
+2018-02-01,Amazon,699.14
+2018-03-01,Amazon,732.19
+2018-04-01,Amazon,700.67
+2018-05-01,Amazon,759.93
+2018-06-01,Amazon,790.74
+2018-07-01,Amazon,824.79
+2018-08-01,Amazon,866.93
+2018-09-01,Amazon,981.68
+2018-10-01,Amazon,976.95
+2018-11-01,Amazon,781.38
+2018-12-01,Amazon,826.44
+2019-01-01,Amazon,734.42
+2019-02-01,Amazon,840.41
+2019-03-01,Amazon,805.49
+2019-04-01,Amazon,874.71
+2019-05-01,Amazon,948.49
+2019-06-01,Amazon,873.92
+2019-07-01,Amazon,932.29
+2019-08-01,Amazon,923.41
+2019-09-01,Amazon,878.65
+2019-10-01,Amazon,858.68
+2019-11-01,Amazon,880.86
+2019-12-01,Amazon,892.83
+2020-01-01,Amazon,916.15
+2020-02-01,Amazon,999.96
+2020-03-01,Amazon,937.75
+2020-04-01,Amazon,970.59
+2020-05-01,Amazon,1233.35
+2020-06-01,Amazon,1218.20
+2020-07-01,Amazon,1376.03
+2020-08-01,Amazon,1585.16
+2020-09-01,Amazon,1728.55
+2020-10-01,Amazon,1577.17
+2020-11-01,Amazon,1523.39
+2020-12-01,Amazon,1589.57
+2021-01-01,Amazon,1634.17
+2021-02-01,Amazon,1608.71
+2021-03-01,Amazon,1557.49
+2021-04-01,Amazon,1558.07
+2021-05-01,Amazon,1748.70
+2021-06-01,Amazon,1625.47
+2021-07-01,Amazon,1734.95
+2021-08-01,Amazon,1685.23
+2021-09-01,Amazon,1757.75
+2021-10-01,Amazon,1663.68
+2021-11-01,Amazon,1710.32
+2021-12-01,Amazon,1778.60
+2022-01-01,Amazon,1691.00
+2022-02-01,Amazon,1517.12
+2022-03-01,Amazon,1562.79
+2022-04-01,Amazon,1658.81
+2022-05-01,Amazon,1264.49
+2022-06-01,Amazon,1223.06
+2022-07-01,Amazon,1080.62
+2022-08-01,Amazon,1374.81
+2022-09-01,Amazon,1291.48
+2022-10-01,Amazon,1151.19
+2022-11-01,Amazon,1045.06
+2000-01-01,Facebook (Meta),0.00
+2000-02-01,Facebook (Meta),0.00
+2000-03-01,Facebook (Meta),0.00
+2000-04-01,Facebook (Meta),0.00
+2000-05-01,Facebook (Meta),0.00
+2000-06-01,Facebook (Meta),0.00
+2000-07-01,Facebook (Meta),0.00
+2000-08-01,Facebook (Meta),0.00
+2000-09-01,Facebook (Meta),0.00
+2000-10-01,Facebook (Meta),0.00
+2000-11-01,Facebook (Meta),0.00
+2000-12-01,Facebook (Meta),0.00
+2001-01-01,Facebook (Meta),0.00
+2001-02-01,Facebook (Meta),0.00
+2001-03-01,Facebook (Meta),0.00
+2001-04-01,Facebook (Meta),0.00
+2001-05-01,Facebook (Meta),0.00
+2001-06-01,Facebook (Meta),0.00
+2001-07-01,Facebook (Meta),0.00
+2001-08-01,Facebook (Meta),0.00
+2001-09-01,Facebook (Meta),0.00
+2001-10-01,Facebook (Meta),0.00
+2001-11-01,Facebook (Meta),0.00
+2001-12-01,Facebook (Meta),0.00
+2002-01-01,Facebook (Meta),0.00
+2002-02-01,Facebook (Meta),0.00
+2002-03-01,Facebook (Meta),0.00
+2002-04-01,Facebook (Meta),0.00
+2002-05-01,Facebook (Meta),0.00
+2002-06-01,Facebook (Meta),0.00
+2002-07-01,Facebook (Meta),0.00
+2002-08-01,Facebook (Meta),0.00
+2002-09-01,Facebook (Meta),0.00
+2002-10-01,Facebook (Meta),0.00
+2002-11-01,Facebook (Meta),0.00
+2002-12-01,Facebook (Meta),0.00
+2003-01-01,Facebook (Meta),0.00
+2003-02-01,Facebook (Meta),0.00
+2003-03-01,Facebook (Meta),0.00
+2003-04-01,Facebook (Meta),0.00
+2003-05-01,Facebook (Meta),0.00
+2003-06-01,Facebook (Meta),0.00
+2003-07-01,Facebook (Meta),0.00
+2003-08-01,Facebook (Meta),0.00
+2003-09-01,Facebook (Meta),0.00
+2003-10-01,Facebook (Meta),0.00
+2003-11-01,Facebook (Meta),0.00
+2003-12-01,Facebook (Meta),0.00
+2004-01-01,Facebook (Meta),0.00
+2004-02-01,Facebook (Meta),0.00
+2004-03-01,Facebook (Meta),0.00
+2004-04-01,Facebook (Meta),0.00
+2004-05-01,Facebook (Meta),0.00
+2004-06-01,Facebook (Meta),0.00
+2004-07-01,Facebook (Meta),0.00
+2004-08-01,Facebook (Meta),0.00
+2004-09-01,Facebook (Meta),0.00
+2004-10-01,Facebook (Meta),0.00
+2004-11-01,Facebook (Meta),0.00
+2004-12-01,Facebook (Meta),0.00
+2005-01-01,Facebook (Meta),0.00
+2005-02-01,Facebook (Meta),0.00
+2005-03-01,Facebook (Meta),0.00
+2005-04-01,Facebook (Meta),0.00
+2005-05-01,Facebook (Meta),0.00
+2005-06-01,Facebook (Meta),0.00
+2005-07-01,Facebook (Meta),0.00
+2005-08-01,Facebook (Meta),0.00
+2005-09-01,Facebook (Meta),0.00
+2005-10-01,Facebook (Meta),0.00
+2005-11-01,Facebook (Meta),0.00
+2005-12-01,Facebook (Meta),0.00
+2006-01-01,Facebook (Meta),0.00
+2006-02-01,Facebook (Meta),0.00
+2006-03-01,Facebook (Meta),0.00
+2006-04-01,Facebook (Meta),0.00
+2006-05-01,Facebook (Meta),0.00
+2006-06-01,Facebook (Meta),0.00
+2006-07-01,Facebook (Meta),0.00
+2006-08-01,Facebook (Meta),0.00
+2006-09-01,Facebook (Meta),0.00
+2006-10-01,Facebook (Meta),0.00
+2006-11-01,Facebook (Meta),0.00
+2006-12-01,Facebook (Meta),0.00
+2007-01-01,Facebook (Meta),0.00
+2007-02-01,Facebook (Meta),0.00
+2007-03-01,Facebook (Meta),0.00
+2007-04-01,Facebook (Meta),0.00
+2007-05-01,Facebook (Meta),0.00
+2007-06-01,Facebook (Meta),0.00
+2007-07-01,Facebook (Meta),0.00
+2007-08-01,Facebook (Meta),0.00
+2007-09-01,Facebook (Meta),0.00
+2007-10-01,Facebook (Meta),0.00
+2007-11-01,Facebook (Meta),0.00
+2007-12-01,Facebook (Meta),0.00
+2008-01-01,Facebook (Meta),0.00
+2008-02-01,Facebook (Meta),0.00
+2008-03-01,Facebook (Meta),0.00
+2008-04-01,Facebook (Meta),0.00
+2008-05-01,Facebook (Meta),0.00
+2008-06-01,Facebook (Meta),0.00
+2008-07-01,Facebook (Meta),0.00
+2008-08-01,Facebook (Meta),0.00
+2008-09-01,Facebook (Meta),0.00
+2008-10-01,Facebook (Meta),0.00
+2008-11-01,Facebook (Meta),0.00
+2008-12-01,Facebook (Meta),0.00
+2009-01-01,Facebook (Meta),0.00
+2009-02-01,Facebook (Meta),0.00
+2009-03-01,Facebook (Meta),0.00
+2009-04-01,Facebook (Meta),0.00
+2009-05-01,Facebook (Meta),0.00
+2009-06-01,Facebook (Meta),0.00
+2009-07-01,Facebook (Meta),0.00
+2009-08-01,Facebook (Meta),0.00
+2009-09-01,Facebook (Meta),0.00
+2009-10-01,Facebook (Meta),0.00
+2009-11-01,Facebook (Meta),0.00
+2009-12-01,Facebook (Meta),0.00
+2010-01-01,Facebook (Meta),0.00
+2010-02-01,Facebook (Meta),0.00
+2010-03-01,Facebook (Meta),0.00
+2010-04-01,Facebook (Meta),0.00
+2010-05-01,Facebook (Meta),0.00
+2010-06-01,Facebook (Meta),0.00
+2010-07-01,Facebook (Meta),0.00
+2010-08-01,Facebook (Meta),0.00
+2010-09-01,Facebook (Meta),0.00
+2010-10-01,Facebook (Meta),0.00
+2010-11-01,Facebook (Meta),0.00
+2010-12-01,Facebook (Meta),0.00
+2011-01-01,Facebook (Meta),0.00
+2011-02-01,Facebook (Meta),0.00
+2011-03-01,Facebook (Meta),0.00
+2011-04-01,Facebook (Meta),0.00
+2011-05-01,Facebook (Meta),0.00
+2011-06-01,Facebook (Meta),0.00
+2011-07-01,Facebook (Meta),0.00
+2011-08-01,Facebook (Meta),0.00
+2011-09-01,Facebook (Meta),0.00
+2011-10-01,Facebook (Meta),0.00
+2011-11-01,Facebook (Meta),0.00
+2011-12-01,Facebook (Meta),0.00
+2012-01-01,Facebook (Meta),0.00
+2012-02-01,Facebook (Meta),0.00
+2012-03-01,Facebook (Meta),0.00
+2012-04-01,Facebook (Meta),0.00
+2012-05-01,Facebook (Meta),0.00
+2012-06-01,Facebook (Meta),70.40
+2012-07-01,Facebook (Meta),73.96
+2012-08-01,Facebook (Meta),51.64
+2012-09-01,Facebook (Meta),43.62
+2012-10-01,Facebook (Meta),52.32
+2012-11-01,Facebook (Meta),45.73
+2012-12-01,Facebook (Meta),60.66
+2013-01-01,Facebook (Meta),57.67
+2013-02-01,Facebook (Meta),67.12
+2013-03-01,Facebook (Meta),64.91
+2013-04-01,Facebook (Meta),60.93
+2013-05-01,Facebook (Meta),67.08
+2013-06-01,Facebook (Meta),58.82
+2013-07-01,Facebook (Meta),60.10
+2013-08-01,Facebook (Meta),89.62
+2013-09-01,Facebook (Meta),100.56
+2013-10-01,Facebook (Meta),122.33
+2013-11-01,Facebook (Meta),122.27
+2013-12-01,Facebook (Meta),115.40
+2014-01-01,Facebook (Meta),137.63
+2014-02-01,Facebook (Meta),159.54
+2014-03-01,Facebook (Meta),174.56
+2014-04-01,Facebook (Meta),153.60
+2014-05-01,Facebook (Meta),153.42
+2014-06-01,Facebook (Meta),162.45
+2014-07-01,Facebook (Meta),172.69
+2014-08-01,Facebook (Meta),188.89
+2014-09-01,Facebook (Meta),194.54
+2014-10-01,Facebook (Meta),205.51
+2014-11-01,Facebook (Meta),209.06
+2014-12-01,Facebook (Meta),216.62
+2015-01-01,Facebook (Meta),217.51
+2015-02-01,Facebook (Meta),212.47
+2015-03-01,Facebook (Meta),221.04
+2015-04-01,Facebook (Meta),230.12
+2015-05-01,Facebook (Meta),221.20
+2015-06-01,Facebook (Meta),222.38
+2015-07-01,Facebook (Meta),240.85
+2015-08-01,Facebook (Meta),264.88
+2015-09-01,Facebook (Meta),251.97
+2015-10-01,Facebook (Meta),253.30
+2015-11-01,Facebook (Meta),287.31
+2015-12-01,Facebook (Meta),294.79
+2016-01-01,Facebook (Meta),295.98
+2016-02-01,Facebook (Meta),319.38
+2016-03-01,Facebook (Meta),304.32
+2016-04-01,Facebook (Meta),324.76
+2016-05-01,Facebook (Meta),336.66
+2016-06-01,Facebook (Meta),340.18
+2016-07-01,Facebook (Meta),326.88
+2016-08-01,Facebook (Meta),355.87
+2016-09-01,Facebook (Meta),362.13
+2016-10-01,Facebook (Meta),368.31
+2016-11-01,Facebook (Meta),376.12
+2016-12-01,Facebook (Meta),342.14
+2017-01-01,Facebook (Meta),332.40
+2017-02-01,Facebook (Meta),376.52
+2017-03-01,Facebook (Meta),391.71
+2017-04-01,Facebook (Meta),410.52
+2017-05-01,Facebook (Meta),435.33
+2017-06-01,Facebook (Meta),438.96
+2017-07-01,Facebook (Meta),437.57
+2017-08-01,Facebook (Meta),491.54
+2017-09-01,Facebook (Meta),499.43
+2017-10-01,Facebook (Meta),496.24
+2017-11-01,Facebook (Meta),522.93
+2017-12-01,Facebook (Meta),514.85
+2018-01-01,Facebook (Meta),512.76
+2018-02-01,Facebook (Meta),543.07
+2018-03-01,Facebook (Meta),518.02
+2018-04-01,Facebook (Meta),464.19
+2018-05-01,Facebook (Meta),498.06
+2018-06-01,Facebook (Meta),555.34
+2018-07-01,Facebook (Meta),562.70
+2018-08-01,Facebook (Meta),498.28
+2018-09-01,Facebook (Meta),507.37
+2018-10-01,Facebook (Meta),474.83
+2018-11-01,Facebook (Meta),436.85
+2018-12-01,Facebook (Meta),404.68
+2019-01-01,Facebook (Meta),377.28
+2019-02-01,Facebook (Meta),475.73
+2019-03-01,Facebook (Meta),460.78
+2019-04-01,Facebook (Meta),475.73
+2019-05-01,Facebook (Meta),552.10
+2019-06-01,Facebook (Meta),506.62
+2019-07-01,Facebook (Meta),550.96
+2019-08-01,Facebook (Meta),554.13
+2019-09-01,Facebook (Meta),529.71
+2019-10-01,Facebook (Meta),508.05
+2019-11-01,Facebook (Meta),546.54
+2019-12-01,Facebook (Meta),575.03
+2020-01-01,Facebook (Meta),585.32
+2020-02-01,Facebook (Meta),575.53
+2020-03-01,Facebook (Meta),548.63
+2020-04-01,Facebook (Meta),475.46
+2020-05-01,Facebook (Meta),583.24
+2020-06-01,Facebook (Meta),641.30
+2020-07-01,Facebook (Meta),647.45
+2020-08-01,Facebook (Meta),722.66
+2020-09-01,Facebook (Meta),835.27
+2020-10-01,Facebook (Meta),746.10
+2020-11-01,Facebook (Meta),749.41
+2020-12-01,Facebook (Meta),788.89
+2021-01-01,Facebook (Meta),778.04
+2021-02-01,Facebook (Meta),735.64
+2021-03-01,Facebook (Meta),733.62
+2021-04-01,Facebook (Meta),838.72
+2021-05-01,Facebook (Meta),921.75
+2021-06-01,Facebook (Meta),932.10
+2021-07-01,Facebook (Meta),985.92
+2021-08-01,Facebook (Meta),1004.57
+2021-09-01,Facebook (Meta),1069.64
+2021-10-01,Facebook (Meta),956.89
+2021-11-01,Facebook (Meta),900.09
+2021-12-01,Facebook (Meta),902.57
+2022-01-01,Facebook (Meta),935.64
+2022-02-01,Facebook (Meta),871.41
+2022-03-01,Facebook (Meta),574.41
+2022-04-01,Facebook (Meta),605.25
+2022-05-01,Facebook (Meta),542.54
+2022-06-01,Facebook (Meta),524.05
+2022-07-01,Facebook (Meta),436.39
+2022-08-01,Facebook (Meta),427.59
+2022-09-01,Facebook (Meta),437.88
+2022-10-01,Facebook (Meta),364.65
+2022-11-01,Facebook (Meta),247.02
