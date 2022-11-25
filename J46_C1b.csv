@@ -1,0 +1,11 @@
+lockdown,school type,value
+Lockdown 1,Least deprived,0.65
+Lockdown 3,Least deprived,0.95
+Lockdown 1,Q2,0.64
+Lockdown 3,Q2,0.92
+Lockdown 1,Q3,0.64
+Lockdown 3,Q3,0.88
+Lockdown 1,Q4,0.64
+Lockdown 3,Q4,0.83
+Lockdown 1,Most deprived,0.67
+Lockdown 3,Most deprived,0.8
