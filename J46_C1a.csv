@@ -1,0 +1,7 @@
+lockdown,school type,value
+Lockdown 1,Independent ,0.94
+Lockdown 3,Independent ,0.96
+Lockdown 1,State Grammar,0.66
+Lockdown 3,State Grammar,0.95
+Lockdown 1,State Comprehensive ,0.64
+Lockdown 3,State Comprehensive ,0.87
