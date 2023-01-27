@@ -1,0 +1,31 @@
+metric,type,value
+Direct Debit - petrol,CO2e,0.081997895
+Direct Debit - energy,CO2e,0.060589927
+Faster Payment Debit - energy,CO2e,0.048105824
+Faster Payment Debit - construction/maintenance,CO2e,0.040927829
+Faster Payment Debit - vehicle parts/services,CO2e,0.034200384
+Faster Payment Debit - transportation/logistics,CO2e,0.028757489
+Direct Debit - education,CO2e,0.026324932
+Faster Payment Debit - food,CO2e,0.025316494
+Faster Payment Debit - business services,CO2e,0.025031544
+Direct Debit - food,CO2e,0.022465
+Faster Payment Debit - agriculture/forestry,CO2e,0.021692882
+Faster Payment Debit - medical facilities/services,CO2e,0.017943064
+Direct Debit - construction/maintenance,CO2e,0.017418786
+Cheque Debit - agriculture/forestry,CO2e,0.016789856
+Faster Payment Debit - industrial materials/equipment,CO2e,0.014945849
+Direct Debit - petrol,Spend,0.01047429
+Direct Debit - energy,Spend,0.006640675
+Faster Payment Debit - energy,Spend,0.005375627
+Faster Payment Debit - construction/maintenance,Spend,0.052162529
+Faster Payment Debit - vehicle parts/services,Spend,0.008878426
+Faster Payment Debit - transportation/logistics,Spend,0.011891545
+Direct Debit - education,Spend,0.033510498
+Faster Payment Debit - food,Spend,0.010400416
+Faster Payment Debit - business services,Spend,0.042434986
+Direct Debit - food,Spend,0.009490788
+Faster Payment Debit - agriculture/forestry,Spend,0.011964247
+Faster Payment Debit - medical facilities/services,Spend,0.007765455
+Direct Debit - construction/maintenance,Spend,0.020483163
+Cheque Debit - agriculture/forestry,Spend,0.005202814
+Faster Payment Debit - industrial materials/equipment,Spend,0.006779404

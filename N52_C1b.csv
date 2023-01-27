@@ -1,0 +1,31 @@
+metric,type,value
+Direct Debit - energy,CO2e,0.207533607
+Visa Sales - petrol,CO2e,0.176834704
+Visa Sales - food,CO2e,0.152682663
+Visa Sales - restaurant,CO2e,0.049183289
+Visa Sales - airlines,CO2e,0.037773671
+Visa Sales - energy,CO2e,0.03528183
+Visa Sales - retail other,CO2e,0.029690848
+Visa Sales - department/online store,CO2e,0.02130918
+Visa Sales - clothing,CO2e,0.020705734
+Visa Sales - travel,CO2e,0.01856515
+Visa Sales - gambling,CO2e,0.017312608
+Visa Sales - vehicle parts/services,CO2e,0.016925716
+Direct Debit - vehicle finance,CO2e,0.016696853
+Visa Sales - electrical goods,CO2e,0.014511965
+Visa Sales - health/beauty ,CO2e,0.008711652
+Direct Debit - energy,Spend,0.0342972
+Visa Sales - petrol,Spend,0.039074548
+Visa Sales - food,Spend,0.186858321
+Visa Sales - restaurant,Spend,0.074756622
+Visa Sales - airlines,Spend,0.005850548
+Visa Sales - energy,Spend,0.006390489
+Visa Sales - retail other,Spend,0.045465613
+Visa Sales - department/online store,Spend,0.043090567
+Visa Sales - clothing,Spend,0.047529173
+Visa Sales - travel,Spend,0.028555072
+Visa Sales - gambling,Spend,0.032262442
+Visa Sales - vehicle parts/services,Spend,0.032439451
+Direct Debit - vehicle finance,Spend,0.024453741
+Visa Sales - electrical goods,Spend,0.015838346
+Visa Sales - health/beauty ,Spend,0.016893993
