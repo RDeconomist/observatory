@@ -1,0 +1,49 @@
+region,group,value
+North East,ITL1,0.04153
+North West,ITL1,0.03902
+Yorkshire and The Humber,ITL1,0.03470
+East Midlands,ITL1,0.03434
+West Midlands,ITL1,0.03728
+East,ITL1,0.03039
+London,ITL1,0.04040
+South East,ITL1,0.03299
+South West,ITL1,0.03026
+Wales,ITL1,0.03667
+Scotland,ITL1,0.02178
+Northern Ireland,ITL1,0.04571
+North East,Lowest ITL3,0.02503
+North West,Lowest ITL3,0.00238
+Yorkshire and The Humber,Lowest ITL3,0.01250
+East Midlands,Lowest ITL3,0.02284
+West Midlands,Lowest ITL3,0.01380
+East,Lowest ITL3,0.01824
+London,Lowest ITL3,0.00176
+South East,Lowest ITL3,0.01014
+South West,Lowest ITL3,-0.00851
+Wales,Lowest ITL3,0.01130
+Scotland,Lowest ITL3,-0.00011
+Northern Ireland,Lowest ITL3,0.03165
+North East,Highest ITL3,0.06366
+North West,Highest ITL3,0.09593
+Yorkshire and The Humber,Highest ITL3,0.05792
+East Midlands,Highest ITL3,0.07023
+West Midlands,Highest ITL3,0.05867
+East,Highest ITL3,0.06362
+London,Highest ITL3,0.10544
+South East,Highest ITL3,0.06333
+South West,Highest ITL3,0.06234
+Wales,Highest ITL3,0.05778
+Scotland,Highest ITL3,0.04423
+Northern Ireland,Highest ITL3,0.05363
+North East,Median ITL3,0.04461
+North West,Median ITL3,0.02982
+Yorkshire and The Humber,Median ITL3,0.03288
+East Midlands,Median ITL3,0.02838
+West Midlands,Median ITL3,0.03465
+East,Median ITL3,0.03220
+London,Median ITL3,0.03890
+South East,Median ITL3,0.03030
+South West,Median ITL3,0.02900
+Wales,Median ITL3,0.03365
+Scotland,Median ITL3,0.01879
+Northern Ireland,Median ITL3,0.04688

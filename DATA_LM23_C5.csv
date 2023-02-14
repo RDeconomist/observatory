@@ -1,0 +1,40 @@
+region,group,value,value2
+United Kingdom,Jan-23,3.6,0.036
+East,Jan-23,2.9,0.029
+East Midlands,Jan-23,3.3,0.033
+London,Jan-23,4.7,0.047
+North East,Jan-23,4.2,0.042
+North West,Jan-23,4.2,0.042
+Northern Ireland,Jan-23,3,0.03
+Scotland,Jan-23,3.2,0.032
+South East,Jan-23,2.8,0.028
+South West,Jan-23,2.5,0.025
+Wales,Jan-23,3.3,0.033
+West Midlands,Jan-23,4.8,0.048
+Yorkshire and The Humber,Jan-23,4,0.04
+United Kingdom,Jan-20,3,0.03
+East,Jan-20,2.3,0.023
+East Midlands,Jan-20,2.6,0.026
+London,Jan-20,3,0.03
+North East,Jan-20,4.4,0.044
+North West,Jan-20,3.6,0.036
+Northern Ireland,Jan-20,2.5,0.025
+Scotland,Jan-20,3.3,0.033
+South East,Jan-20,2.1,0.021
+South West,Jan-20,2.2,0.022
+Wales,Jan-20,3.1,0.031
+West Midlands,Jan-20,3.8,0.038
+Yorkshire and The Humber,Jan-20,3.3,0.033
+United Kingdom,Pandemic peak,6.4,0.064
+East,Pandemic peak,5.7,0.057
+East Midlands,Pandemic peak,5.7,0.057
+London,Pandemic peak,8.3,0.083
+North East,Pandemic peak,7.4,0.074
+North West,Pandemic peak,7.1,0.071
+Northern Ireland,Pandemic peak,5.4,0.054
+Scotland,Pandemic peak,6.4,0.064
+South East,Pandemic peak,5.4,0.054
+South West,Pandemic peak,5.4,0.054
+Wales,Pandemic peak,6.2,0.062
+West Midlands,Pandemic peak,7.3,0.073
+Yorkshire and The Humber,Pandemic peak,6.6,0.066

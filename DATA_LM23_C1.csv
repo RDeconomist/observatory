@@ -1,0 +1,40 @@
+region,group,value,value2
+United Kingdom,Max,76.5,0.765
+North East,Max,72,0.72
+North West,Max,75.9,0.759
+Yorkshire and The Humber,Max,74,0.74
+East Midlands,Max,78.4,0.784
+West Midlands,Max,75.5,0.755
+East,Max,79,0.79
+London,Max,75.9,0.759
+South East,Max,80,0.8
+South West,Max,80.3,0.803
+Wales,Max,76.2,0.762
+Scotland,Max,76.6,0.766
+Northern Ireland,Max,72.4,0.724
+United Kingdom,Min,68.5,0.685
+North East,Min,61.8,0.618
+North West,Min,66.7,0.667
+Yorkshire and The Humber,Min,68,0.68
+East Midlands,Min,70.7,0.707
+West Midlands,Min,66.8,0.668
+East,Min,72.5,0.725
+London,Min,64.6,0.646
+South East,Min,73,0.73
+South West,Min,71.1,0.711
+Wales,Min,63.6,0.636
+Scotland,Min,66.9,0.669
+Northern Ireland,Min,59.8,0.598
+United Kingdom,Latest,75.6,0.756
+North East,Latest,71,0.71
+North West,Latest,74.1,0.741
+Yorkshire and The Humber,Latest,73.9,0.739
+East Midlands,Latest,74.7,0.747
+West Midlands,Latest,74.5,0.745
+East,Latest,78.1,0.781
+London,Latest,75.1,0.751
+South East,Latest,78.2,0.782
+South West,Latest,80.3,0.803
+Wales,Latest,71.8,0.718
+Scotland,Latest,76.6,0.766
+Northern Ireland,Latest,71.9,0.719
