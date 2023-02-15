@@ -1,0 +1,15 @@
+date,source,value,value2
+2009,Gas peaker,275,0
+2019,Gas peaker,175,-0.37
+2009,Nuclear,123,0
+2019,Nuclear,155,0.26
+2009,Solar thermal tower,168,0
+2019,Solar thermal tower,141,-0.16
+2009,Coal,111,0
+2019,Coal,109,-0.02
+2009,Gas (combined cycle),83,0
+2019,Gas (combined cycle),56,-0.32
+2009,Onshore wind,135,0
+2019,Onshore wind,41,-0.7
+2009,Solar Photovoltic,359,0
+2019,Solar Photovoltic,40,-0.89
