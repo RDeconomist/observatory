@@ -1,0 +1,484 @@
+date,series,value
+2020-02-07,Debit and credit cards,101.41
+2020-02-14,Debit and credit cards,98.55
+2020-02-21,Debit and credit cards,101.41
+2020-02-28,Debit and credit cards,98.83
+2020-03-06,Debit and credit cards,107.15
+2020-03-13,Debit and credit cards,102.59
+2020-03-20,Debit and credit cards,97.16
+2020-03-27,Debit and credit cards,60.19
+2020-04-03,Debit and credit cards,53.48
+2020-04-09,Debit and credit cards,55.14
+2020-04-17,Debit and credit cards,53.88
+2020-04-24,Debit and credit cards,57.56
+2020-05-01,Debit and credit cards,63.47
+2020-05-07,Debit and credit cards,65.91
+2020-05-15,Debit and credit cards,64.11
+2020-05-22,Debit and credit cards,68.22
+2020-05-29,Debit and credit cards,70.91
+2020-06-05,Debit and credit cards,75.58
+2020-06-12,Debit and credit cards,76.41
+2020-06-19,Debit and credit cards,78.33
+2020-06-26,Debit and credit cards,83.69
+2020-07-03,Debit and credit cards,88.10
+2020-07-10,Debit and credit cards,85.96
+2020-07-17,Debit and credit cards,83.98
+2020-07-24,Debit and credit cards,80.37
+2020-07-31,Debit and credit cards,87.39
+2020-08-07,Debit and credit cards,90.10
+2020-08-14,Debit and credit cards,85.38
+2020-08-21,Debit and credit cards,86.77
+2020-08-28,Debit and credit cards,91.29
+2020-09-04,Debit and credit cards,97.02
+2020-09-11,Debit and credit cards,88.71
+2020-09-18,Debit and credit cards,86.63
+2020-09-25,Debit and credit cards,88.74
+2020-10-02,Debit and credit cards,92.84
+2020-10-09,Debit and credit cards,90.08
+2020-10-16,Debit and credit cards,89.38
+2020-10-23,Debit and credit cards,87.99
+2020-10-30,Debit and credit cards,92.77
+2020-11-06,Debit and credit cards,101.86
+2020-11-13,Debit and credit cards,74.10
+2020-11-20,Debit and credit cards,78.39
+2020-11-27,Debit and credit cards,86.10
+2020-12-04,Debit and credit cards,103.25
+2020-12-11,Debit and credit cards,111.96
+2020-12-18,Debit and credit cards,112.03
+2020-12-24,Debit and credit cards,118.00
+2020-12-31,Debit and credit cards,62.16
+2021-01-08,Debit and credit cards,64.78
+2021-01-15,Debit and credit cards,64.65
+2021-01-22,Debit and credit cards,65.12
+2021-01-29,Debit and credit cards,68.80
+2021-02-05,Debit and credit cards,75.59
+2021-02-12,Debit and credit cards,72.63
+2021-02-19,Debit and credit cards,74.66
+2021-02-26,Debit and credit cards,73.32
+2021-03-05,Debit and credit cards,83.11
+2021-03-12,Debit and credit cards,78.63
+2021-03-19,Debit and credit cards,81.17
+2021-03-26,Debit and credit cards,79.07
+2021-04-01,Debit and credit cards,87.71
+2021-04-09,Debit and credit cards,83.76
+2021-04-16,Debit and credit cards,93.29
+2021-04-23,Debit and credit cards,97.41
+2021-04-30,Debit and credit cards,100.28
+2021-05-07,Debit and credit cards,104.54
+2021-05-14,Debit and credit cards,97.02
+2021-05-21,Debit and credit cards,96.13
+2021-05-28,Debit and credit cards,95.95
+2021-06-04,Debit and credit cards,101.93
+2021-06-11,Debit and credit cards,94.33
+2021-06-18,Debit and credit cards,91.04
+2021-06-25,Debit and credit cards,91.53
+2021-07-02,Debit and credit cards,98.00
+2021-07-09,Debit and credit cards,96.17
+2021-07-16,Debit and credit cards,91.88
+2021-07-23,Debit and credit cards,94.21
+2021-07-30,Debit and credit cards,96.13
+2021-08-06,Debit and credit cards,99.33
+2021-08-13,Debit and credit cards,95.03
+2021-08-20,Debit and credit cards,93.35
+2021-08-27,Debit and credit cards,93.81
+2021-09-03,Debit and credit cards,99.59
+2021-09-10,Debit and credit cards,93.37
+2021-09-17,Debit and credit cards,93.20
+2021-09-24,Debit and credit cards,94.20
+2021-10-01,Debit and credit cards,102.13
+2021-10-08,Debit and credit cards,100.81
+2021-10-15,Debit and credit cards,97.05
+2021-10-22,Debit and credit cards,96.64
+2021-10-29,Debit and credit cards,101.73
+2021-11-05,Debit and credit cards,103.79
+2021-11-12,Debit and credit cards,101.65
+2021-11-19,Debit and credit cards,102.69
+2021-11-26,Debit and credit cards,107.48
+2021-12-03,Debit and credit cards,121.70
+2021-12-10,Debit and credit cards,115.58
+2021-12-17,Debit and credit cards,115.67
+2021-12-24,Debit and credit cards,130.19
+2021-12-31,Debit and credit cards,78.26
+2022-01-07,Debit and credit cards,79.67
+2022-01-14,Debit and credit cards,85.46
+2022-01-21,Debit and credit cards,87.58
+2022-01-28,Debit and credit cards,90.94
+2022-02-04,Debit and credit cards,96.42
+2022-02-11,Debit and credit cards,95.57
+2022-02-18,Debit and credit cards,98.01
+2022-02-25,Debit and credit cards,93.20
+2022-03-04,Debit and credit cards,102.61
+2022-03-11,Debit and credit cards,100.07
+2022-03-18,Debit and credit cards,98.99
+2022-03-25,Debit and credit cards,98.93
+2022-04-01,Debit and credit cards,105.75
+2022-04-08,Debit and credit cards,105.13
+2022-04-15,Debit and credit cards,105.37
+2022-04-22,Debit and credit cards,96.81
+2022-04-29,Debit and credit cards,103.24
+2022-05-06,Debit and credit cards,109.92
+2022-05-13,Debit and credit cards,103.26
+2022-05-20,Debit and credit cards,100.64
+2022-05-27,Debit and credit cards,102.10
+2022-06-03,Debit and credit cards,107.88
+2022-06-10,Debit and credit cards,100.62
+2022-06-17,Debit and credit cards,99.88
+2022-06-24,Debit and credit cards,98.80
+2022-07-01,Debit and credit cards,103.80
+2022-07-08,Debit and credit cards,104.38
+2022-07-15,Debit and credit cards,101.51
+2022-07-22,Debit and credit cards,100.01
+2022-07-29,Debit and credit cards,100.39
+2022-08-05,Debit and credit cards,103.78
+2022-08-12,Debit and credit cards,96.27
+2022-08-19,Debit and credit cards,93.15
+2022-08-26,Debit and credit cards,94.24
+2022-09-02,Debit and credit cards,101.11
+2022-09-09,Debit and credit cards,96.81
+2022-09-16,Debit and credit cards,95.12
+2022-09-23,Debit and credit cards,94.23
+2022-09-30,Debit and credit cards,102.03
+2022-10-07,Debit and credit cards,106.58
+2022-10-14,Debit and credit cards,101.02
+2022-10-21,Debit and credit cards,97.35
+2022-10-28,Debit and credit cards,98.57
+2022-11-04,Debit and credit cards,104.15
+2022-11-11,Debit and credit cards,102.84
+2022-11-18,Debit and credit cards,104.90
+2022-11-25,Debit and credit cards,109.11
+2022-12-02,Debit and credit cards,122.51
+2022-12-09,Debit and credit cards,119.19
+2022-12-16,Debit and credit cards,122.80
+2022-12-23,Debit and credit cards,136.29
+2022-12-30,Debit and credit cards,96.08
+2023-01-06,Debit and credit cards,89.83
+2023-01-13,Debit and credit cards,91.99
+2023-01-20,Debit and credit cards,94.77
+2023-01-27,Debit and credit cards,96.33
+2023-02-03,Debit and credit cards,104.33
+2023-02-10,Debit and credit cards,101.09
+2023-02-17,Debit and credit cards,100.89
+2023-02-24,Debit and credit cards,95.26
+2023-03-03,Debit and credit cards,105.07
+2020-02-07,Online job adverts,102.10
+2020-02-14,Online job adverts,104.50
+2020-02-21,Online job adverts,94.70
+2020-02-28,Online job adverts,98.60
+2020-03-06,Online job adverts,104.70
+2020-03-13,Online job adverts,94.50
+2020-03-20,Online job adverts,91.80
+2020-03-27,Online job adverts,80.20
+2020-04-03,Online job adverts,67.80
+2020-04-09,Online job adverts,61.70
+2020-04-17,Online job adverts,52.20
+2020-04-24,Online job adverts,44.50
+2020-05-01,Online job adverts,41.10
+2020-05-07,Online job adverts,41.30
+2020-05-15,Online job adverts,37.90
+2020-05-22,Online job adverts,39.30
+2020-05-29,Online job adverts,39.90
+2020-06-05,Online job adverts,40.50
+2020-06-12,Online job adverts,45.00
+2020-06-19,Online job adverts,44.50
+2020-06-26,Online job adverts,46.50
+2020-07-03,Online job adverts,42.80
+2020-07-10,Online job adverts,43.90
+2020-07-17,Online job adverts,47.90
+2020-07-24,Online job adverts,47.40
+2020-07-31,Online job adverts,49.20
+2020-08-07,Online job adverts,58.20
+2020-08-14,Online job adverts,58.50
+2020-08-21,Online job adverts,58.70
+2020-08-28,Online job adverts,59.30
+2020-09-04,Online job adverts,54.00
+2020-09-11,Online job adverts,57.50
+2020-09-18,Online job adverts,59.40
+2020-09-25,Online job adverts,64.00
+2020-10-02,Online job adverts,65.90
+2020-10-09,Online job adverts,67.60
+2020-10-16,Online job adverts,70.60
+2020-10-23,Online job adverts,75.00
+2020-10-30,Online job adverts,75.10
+2020-11-06,Online job adverts,71.90
+2020-11-13,Online job adverts,73.50
+2020-11-20,Online job adverts,74.40
+2020-11-27,Online job adverts,79.10
+2020-12-04,Online job adverts,77.20
+2020-12-11,Online job adverts,71.80
+2020-12-18,Online job adverts,74.80
+2020-12-24,Online job adverts,76.60
+2020-12-31,Online job adverts,67.60
+2021-01-08,Online job adverts,65.80
+2021-01-15,Online job adverts,64.40
+2021-01-22,Online job adverts,73.50
+2021-01-29,Online job adverts,78.90
+2021-02-05,Online job adverts,81.40
+2021-02-12,Online job adverts,84.50
+2021-02-19,Online job adverts,84.60
+2021-02-26,Online job adverts,84.70
+2021-03-05,Online job adverts,88.40
+2021-03-12,Online job adverts,93.30
+2021-03-19,Online job adverts,94.10
+2021-03-26,Online job adverts,95.80
+2021-04-01,Online job adverts,96.60
+2021-04-09,Online job adverts,99.50
+2021-04-16,Online job adverts,99.40
+2021-04-23,Online job adverts,103.20
+2021-04-30,Online job adverts,104.90
+2021-05-07,Online job adverts,106.60
+2021-05-14,Online job adverts,114.10
+2021-05-21,Online job adverts,118.40
+2021-05-28,Online job adverts,126.50
+2021-06-04,Online job adverts,128.90
+2021-06-11,Online job adverts,126.60
+2021-06-18,Online job adverts,128.90
+2021-06-25,Online job adverts,129.40
+2021-07-02,Online job adverts,134.80
+2021-07-09,Online job adverts,129.10
+2021-07-16,Online job adverts,130.20
+2021-07-23,Online job adverts,131.20
+2021-07-30,Online job adverts,134.90
+2021-08-06,Online job adverts,128.80
+2021-08-13,Online job adverts,128.10
+2021-08-20,Online job adverts,128.30
+2021-08-27,Online job adverts,125.00
+2021-09-03,Online job adverts,127.90
+2021-09-10,Online job adverts,128.40
+2021-09-17,Online job adverts,132.70
+2021-09-24,Online job adverts,135.20
+2021-10-01,Online job adverts,139.20
+2021-10-08,Online job adverts,139.50
+2021-10-15,Online job adverts,142.60
+2021-10-22,Online job adverts,133.80
+2021-10-29,Online job adverts,141.60
+2021-11-05,Online job adverts,147.20
+2021-11-12,Online job adverts,144.40
+2021-11-19,Online job adverts,143.80
+2021-11-26,Online job adverts,146.10
+2021-12-03,Online job adverts,141.60
+2021-12-10,Online job adverts,137.00
+2021-12-17,Online job adverts,131.30
+2021-12-24,Online job adverts,126.10
+2021-12-31,Online job adverts,120.90
+2022-01-07,Online job adverts,117.00
+2022-01-14,Online job adverts,122.30
+2022-01-21,Online job adverts,138.30
+2022-01-28,Online job adverts,140.70
+2022-02-04,Online job adverts,145.00
+2022-02-11,Online job adverts,146.10
+2022-02-18,Online job adverts,146.50
+2022-02-25,Online job adverts,144.80
+2022-03-04,Online job adverts,145.20
+2022-03-11,Online job adverts,145.60
+2022-03-18,Online job adverts,136.20
+2022-03-25,Online job adverts,134.80
+2022-04-01,Online job adverts,136.70
+2022-04-08,Online job adverts,138.80
+2022-04-15,Online job adverts,143.70
+2022-04-22,Online job adverts,133.70
+2022-04-29,Online job adverts,135.80
+2022-05-06,Online job adverts,136.90
+2022-05-13,Online job adverts,133.00
+2022-05-20,Online job adverts,141.70
+2022-05-27,Online job adverts,137.50
+2022-06-03,Online job adverts,133.20
+2022-06-10,Online job adverts,129.00
+2022-06-17,Online job adverts,122.90
+2022-06-24,Online job adverts,121.10
+2022-07-01,Online job adverts,127.60
+2022-07-08,Online job adverts,126.10
+2022-07-15,Online job adverts,124.30
+2022-07-22,Online job adverts,125.30
+2022-07-29,Online job adverts,122.70
+2022-08-05,Online job adverts,121.90
+2022-08-12,Online job adverts,120.10
+2022-08-19,Online job adverts,120.70
+2022-08-26,Online job adverts,119.20
+2022-09-02,Online job adverts,115.40
+2022-09-09,Online job adverts,114.80
+2022-09-16,Online job adverts,116.60
+2022-09-23,Online job adverts,115.00
+2022-09-30,Online job adverts,115.50
+2022-10-07,Online job adverts,120.80
+2022-10-14,Online job adverts,121.70
+2022-10-21,Online job adverts,119.80
+2022-10-28,Online job adverts,118.50
+2022-11-04,Online job adverts,118.10
+2022-11-11,Online job adverts,120.00
+2022-11-18,Online job adverts,123.20
+2022-11-25,Online job adverts,119.70
+2022-12-02,Online job adverts,119.80
+2022-12-09,Online job adverts,115.80
+2022-12-16,Online job adverts,110.30
+2022-12-23,Online job adverts,106.80
+2022-12-30,Online job adverts,101.30
+2023-01-06,Online job adverts,98.00
+2023-01-13,Online job adverts,104.80
+2023-01-20,Online job adverts,108.40
+2023-01-27,Online job adverts,114.30
+2023-02-03,Online job adverts,114.20
+2023-02-10,Online job adverts,117.30
+2023-02-17,Online job adverts,113.60
+2023-02-24,Online job adverts,111.00
+2023-03-03,Online job adverts,115.40
+2020-02-07,,99.04
+2020-02-14,,100.36
+2020-02-21,,98.63
+2020-02-28,,101.98
+2020-03-06,,108.51
+2020-03-13,,113.63
+2020-03-20,,121.39
+2020-03-27,,113.45
+2020-04-03,,98.03
+2020-04-09,,74.03
+2020-04-17,,49.56
+2020-04-24,,30.11
+2020-05-01,,25.41
+2020-05-07,,23.97
+2020-05-15,,27.52
+2020-05-22,,36.56
+2020-05-29,,40.34
+2020-06-05,,52.13
+2020-06-12,,61.12
+2020-06-19,,70.63
+2020-06-26,,82.78
+2020-07-03,,85.27
+2020-07-10,,92.73
+2020-07-17,,93.45
+2020-07-24,,95.13
+2020-07-31,,100.66
+2020-08-07,,100.20
+2020-08-14,,100.42
+2020-08-21,,100.97
+2020-08-28,,null
+2020-09-04,,null
+2020-09-11,,103.50
+2020-09-18,,107.00
+2020-09-25,,113.32
+2020-10-02,,119.45
+2020-10-09,,117.47
+2020-10-16,,118.81
+2020-10-23,,120.89
+2020-10-30,,120.86
+2020-11-06,,123.66
+2020-11-13,,123.73
+2020-11-20,,124.25
+2020-11-27,,132.31
+2020-12-04,,144.25
+2020-12-11,,144.01
+2020-12-18,,136.72
+2020-12-24,,null
+2020-12-31,,null
+2021-01-08,,52.09
+2021-01-15,,44.61
+2021-01-22,,60.62
+2021-01-29,,90.32
+2021-02-05,,103.38
+2021-02-12,,110.82
+2021-02-19,,118.27
+2021-02-26,,119.70
+2021-03-05,,123.72
+2021-03-12,,129.03
+2021-03-19,,125.61
+2021-03-26,,125.63
+2021-04-01,,null
+2021-04-09,,null
+2021-04-16,,117.49
+2021-04-23,,103.37
+2021-04-30,,111.02
+2021-05-07,,102.20
+2021-05-14,,100.68
+2021-05-21,,106.09
+2021-05-28,,103.23
+2021-06-04,,106.97
+2021-06-11,,111.26
+2021-06-18,,113.28
+2021-06-25,,113.94
+2021-07-02,,115.76
+2021-07-09,,108.85
+2021-07-16,,102.93
+2021-07-23,,99.13
+2021-07-30,,98.25
+2021-08-06,,98.83
+2021-08-13,,97.42
+2021-08-20,,95.95
+2021-08-27,,97.91
+2021-09-03,,100.18
+2021-09-10,,106.61
+2021-09-17,,109.93
+2021-09-24,,113.46
+2021-10-01,,112.19
+2021-10-08,,106.42
+2021-10-15,,104.74
+2021-10-22,,104.17
+2021-10-29,,103.86
+2021-11-05,,105.39
+2021-11-12,,107.56
+2021-11-19,,107.20
+2021-11-26,,112.93
+2021-12-03,,124.70
+2021-12-10,,128.41
+2021-12-17,,131.43
+2021-12-24,,null
+2021-12-31,,null
+2022-01-07,,null
+2022-01-14,,65.05
+2022-01-21,,72.99
+2022-01-28,,77.70
+2022-02-04,,87.44
+2022-02-11,,94.04
+2022-02-18,,97.56
+2022-02-25,,104.10
+2022-03-04,,107.83
+2022-03-11,,113.30
+2022-03-18,,119.23
+2022-03-25,,119.86
+2022-04-01,,123.56
+2022-04-08,,117.75
+2022-04-15,,null
+2022-04-22,,null
+2022-04-29,,104.79
+2022-05-06,,102.81
+2022-05-13,,106.11
+2022-05-20,,109.82
+2022-05-27,,109.82
+2022-06-03,,107.13
+2022-06-10,,111.79
+2022-06-17,,120.90
+2022-06-24,,124.35
+2022-07-01,,128.68
+2022-07-08,,122.68
+2022-07-15,,115.02
+2022-07-22,,109.44
+2022-07-29,,107.50
+2022-08-05,,104.63
+2022-08-12,,102.56
+2022-08-19,,99.27
+2022-08-26,,98.08
+2022-09-02,,92.44
+2022-09-09,,97.16
+2022-09-16,,108.07
+2022-09-23,,108.57
+2022-09-30,,115.62
+2022-10-07,,109.88
+2022-10-14,,104.63
+2022-10-21,,108.60
+2022-10-28,,108.78
+2022-11-04,,114.94
+2022-11-11,,114.72
+2022-11-18,,121.55
+2022-11-25,,126.05
+2022-12-02,,131.80
+2022-12-09,,111.26
+2022-12-16,,77.95
+2022-12-23,,71.16
+2022-12-30,,71.02
+2023-01-06,,97.96
+2023-01-13,,134.47
+2023-01-20,,134.47
+2023-01-27,,97.96
+2023-02-03,,71.02
+2023-02-10,,54.34
+2023-02-17,,49.28
+2023-02-24,,71.36
+2023-03-03,,85.76
