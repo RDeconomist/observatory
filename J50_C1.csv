@@ -1,0 +1,13 @@
+subject,date,value,value2
+Reading (expected),2019,73,0.73
+Reading (expected),2022,75,0.75
+Reading (higher),2019,27,0.27
+Reading (higher),2022,28,0.28
+Maths (expected),2019,79,0.79
+Maths (expected),2022,71,0.71
+Maths (higher),2019,27,0.27
+Maths (higher),2022,23,0.23
+Writing (expected),2019,78,0.78
+Writing (expected),2022,69,0.69
+Writing (Higher),2019,20,0.2
+Writing (Higher),2022,13,0.13
