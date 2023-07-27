@@ -1,0 +1,281 @@
+date,value,group
+2020-01-01,0.000,Student
+2020-02-01,14.172,Student
+2020-03-01,2.730,Student
+2020-04-01,-40.686,Student
+2020-05-01,-4.261,Student
+2020-06-01,92.514,Student
+2020-07-01,207.429,Student
+2020-08-01,246.298,Student
+2020-09-01,226.417,Student
+2020-10-01,218.091,Student
+2020-11-01,266.040,Student
+2020-12-01,312.081,Student
+2021-01-01,339.380,Student
+2021-02-01,363.696,Student
+2021-03-01,390.701,Student
+2021-04-01,364.849,Student
+2021-05-01,341.198,Student
+2021-06-01,303.362,Student
+2021-07-01,254.866,Student
+2021-08-01,231.699,Student
+2021-09-01,210.216,Student
+2021-10-01,193.382,Student
+2021-11-01,160.350,Student
+2021-12-01,194.346,Student
+2022-01-01,172.831,Student
+2022-02-01,187.337,Student
+2022-03-01,140.731,Student
+2022-04-01,139.690,Student
+2022-05-01,206.583,Student
+2022-06-01,270.836,Student
+2022-07-01,288.783,Student
+2022-08-01,277.733,Student
+2022-09-01,273.978,Student
+2022-10-01,226.978,Student
+2022-11-01,143.337,Student
+2022-12-01,60.246,Student
+2023-01-01,46.269,Student
+2023-02-01,48.457,Student
+2023-03-01,55.903,Student
+2023-04-01,68.652,Student
+2020-01-01,0.000,Looking after family
+2020-02-01,-13.659,Looking after family
+2020-03-01,-22.959,Looking after family
+2020-04-01,-48.518,Looking after family
+2020-05-01,-48.770,Looking after family
+2020-06-01,-106.144,Looking after family
+2020-07-01,-144.777,Looking after family
+2020-08-01,-185.906,Looking after family
+2020-09-01,-209.124,Looking after family
+2020-10-01,-174.919,Looking after family
+2020-11-01,-192.330,Looking after family
+2020-12-01,-203.670,Looking after family
+2021-01-01,-253.957,Looking after family
+2021-02-01,-247.444,Looking after family
+2021-03-01,-241.183,Looking after family
+2021-04-01,-226.209,Looking after family
+2021-05-01,-240.757,Looking after family
+2021-06-01,-213.667,Looking after family
+2021-07-01,-192.238,Looking after family
+2021-08-01,-182.959,Looking after family
+2021-09-01,-161.920,Looking after family
+2021-10-01,-181.527,Looking after family
+2021-11-01,-169.107,Looking after family
+2021-12-01,-151.577,Looking after family
+2022-01-01,-106.365,Looking after family
+2022-02-01,-99.250,Looking after family
+2022-03-01,-115.896,Looking after family
+2022-04-01,-148.090,Looking after family
+2022-05-01,-127.051,Looking after family
+2022-06-01,-117.895,Looking after family
+2022-07-01,-113.547,Looking after family
+2022-08-01,-119.759,Looking after family
+2022-09-01,-131.326,Looking after family
+2022-10-01,-114.304,Looking after family
+2022-11-01,-137.543,Looking after family
+2022-12-01,-141.770,Looking after family
+2023-01-01,-167.952,Looking after family
+2023-02-01,-179.516,Looking after family
+2023-03-01,-199.185,Looking after family
+2023-04-01,-217.104,Looking after family
+2020-01-01,0.000,Temp sick
+2020-02-01,4.872,Temp sick
+2020-03-01,-5.681,Temp sick
+2020-04-01,-6.618,Temp sick
+2020-05-01,-19.178,Temp sick
+2020-06-01,-27.795,Temp sick
+2020-07-01,-37.212,Temp sick
+2020-08-01,-21.576,Temp sick
+2020-09-01,-12.434,Temp sick
+2020-10-01,-4.393,Temp sick
+2020-11-01,14.254,Temp sick
+2020-12-01,0.452,Temp sick
+2021-01-01,3.648,Temp sick
+2021-02-01,3.891,Temp sick
+2021-03-01,8.740,Temp sick
+2021-04-01,4.233,Temp sick
+2021-05-01,10.073,Temp sick
+2021-06-01,-1.881,Temp sick
+2021-07-01,15.295,Temp sick
+2021-08-01,25.307,Temp sick
+2021-09-01,26.373,Temp sick
+2021-10-01,23.847,Temp sick
+2021-11-01,9.148,Temp sick
+2021-12-01,23.330,Temp sick
+2022-01-01,32.266,Temp sick
+2022-02-01,27.100,Temp sick
+2022-03-01,26.156,Temp sick
+2022-04-01,30.640,Temp sick
+2022-05-01,30.305,Temp sick
+2022-06-01,25.067,Temp sick
+2022-07-01,-4.749,Temp sick
+2022-08-01,-15.707,Temp sick
+2022-09-01,5.594,Temp sick
+2022-10-01,25.439,Temp sick
+2022-11-01,23.350,Temp sick
+2022-12-01,13.872,Temp sick
+2023-01-01,8.713,Temp sick
+2023-02-01,17.900,Temp sick
+2023-03-01,24.270,Temp sick
+2023-04-01,8.665,Temp sick
+2020-01-01,0.000,Long-term sick
+2020-02-01,15.112,Long-term sick
+2020-03-01,36.164,Long-term sick
+2020-04-01,14.177,Long-term sick
+2020-05-01,10.756,Long-term sick
+2020-06-01,36.013,Long-term sick
+2020-07-01,64.229,Long-term sick
+2020-08-01,107.976,Long-term sick
+2020-09-01,105.968,Long-term sick
+2020-10-01,82.050,Long-term sick
+2020-11-01,120.668,Long-term sick
+2020-12-01,91.602,Long-term sick
+2021-01-01,67.487,Long-term sick
+2021-02-01,95.870,Long-term sick
+2021-03-01,84.713,Long-term sick
+2021-04-01,100.909,Long-term sick
+2021-05-01,70.008,Long-term sick
+2021-06-01,109.422,Long-term sick
+2021-07-01,149.611,Long-term sick
+2021-08-01,174.947,Long-term sick
+2021-09-01,182.094,Long-term sick
+2021-10-01,227.596,Long-term sick
+2021-11-01,214.743,Long-term sick
+2021-12-01,223.886,Long-term sick
+2022-01-01,237.625,Long-term sick
+2022-02-01,202.898,Long-term sick
+2022-03-01,225.097,Long-term sick
+2022-04-01,208.655,Long-term sick
+2022-05-01,273.853,Long-term sick
+2022-06-01,352.011,Long-term sick
+2022-07-01,377.681,Long-term sick
+2022-08-01,406.707,Long-term sick
+2022-09-01,343.193,Long-term sick
+2022-10-01,325.451,Long-term sick
+2022-11-01,352.426,Long-term sick
+2022-12-01,407.339,Long-term sick
+2023-01-01,414.504,Long-term sick
+2023-02-01,438.042,Long-term sick
+2023-03-01,442.278,Long-term sick
+2023-04-01,412.329,Long-term sick
+2020-01-01,0.000,Discouraged
+2020-02-01,1.856,Discouraged
+2020-03-01,2.061,Discouraged
+2020-04-01,9.204,Discouraged
+2020-05-01,22.626,Discouraged
+2020-06-01,28.457,Discouraged
+2020-07-01,26.379,Discouraged
+2020-08-01,25.597,Discouraged
+2020-09-01,29.773,Discouraged
+2020-10-01,36.582,Discouraged
+2020-11-01,39.101,Discouraged
+2020-12-01,49.101,Discouraged
+2021-01-01,57.158,Discouraged
+2021-02-01,46.086,Discouraged
+2021-03-01,39.241,Discouraged
+2021-04-01,33.875,Discouraged
+2021-05-01,24.769,Discouraged
+2021-06-01,12.064,Discouraged
+2021-07-01,-1.771,Discouraged
+2021-08-01,1.208,Discouraged
+2021-09-01,-2.439,Discouraged
+2021-10-01,-2.213,Discouraged
+2021-11-01,-11.450,Discouraged
+2021-12-01,-14.184,Discouraged
+2022-01-01,-17.881,Discouraged
+2022-02-01,-15.509,Discouraged
+2022-03-01,-15.793,Discouraged
+2022-04-01,-21.958,Discouraged
+2022-05-01,-17.053,Discouraged
+2022-06-01,-17.667,Discouraged
+2022-07-01,-14.466,Discouraged
+2022-08-01,-16.959,Discouraged
+2022-09-01,-9.209,Discouraged
+2022-10-01,-4.162,Discouraged
+2022-11-01,-4.627,Discouraged
+2022-12-01,-9.528,Discouraged
+2023-01-01,-4.280,Discouraged
+2023-02-01,-4.574,Discouraged
+2023-03-01,-2.969,Discouraged
+2023-04-01,-10.543,Discouraged
+2020-01-01,0.000,Retired
+2020-02-01,23.138,Retired
+2020-03-01,23.311,Retired
+2020-04-01,17.422,Retired
+2020-05-01,-10.376,Retired
+2020-06-01,9.556,Retired
+2020-07-01,14.536,Retired
+2020-08-01,13.208,Retired
+2020-09-01,5.525,Retired
+2020-10-01,-21.068,Retired
+2020-11-01,-29.918,Retired
+2020-12-01,-10.311,Retired
+2021-01-01,-6.851,Retired
+2021-02-01,17.892,Retired
+2021-03-01,35.891,Retired
+2021-04-01,56.584,Retired
+2021-05-01,67.811,Retired
+2021-06-01,80.747,Retired
+2021-07-01,61.236,Retired
+2021-08-01,68.590,Retired
+2021-09-01,45.949,Retired
+2021-10-01,34.727,Retired
+2021-11-01,50.046,Retired
+2021-12-01,58.592,Retired
+2022-01-01,77.227,Retired
+2022-02-01,53.575,Retired
+2022-03-01,57.906,Retired
+2022-04-01,63.174,Retired
+2022-05-01,74.014,Retired
+2022-06-01,74.226,Retired
+2022-07-01,59.304,Retired
+2022-08-01,34.611,Retired
+2022-09-01,25.264,Retired
+2022-10-01,7.405,Retired
+2022-11-01,-15.409,Retired
+2022-12-01,-11.999,Retired
+2023-01-01,-12.066,Retired
+2023-02-01,-38.769,Retired
+2023-03-01,-47.469,Retired
+2023-04-01,-45.429,Retired
+2020-01-01,0.000,Other
+2020-02-01,30.809,Other
+2020-03-01,160.225,Other
+2020-04-01,279.249,Other
+2020-05-01,339.441,Other
+2020-06-01,250.955,Other
+2020-07-01,197.469,Other
+2020-08-01,196.166,Other
+2020-09-01,202.359,Other
+2020-10-01,183.161,Other
+2020-11-01,185.412,Other
+2020-12-01,199.405,Other
+2021-01-01,204.999,Other
+2021-02-01,180.647,Other
+2021-03-01,152.730,Other
+2021-04-01,126.747,Other
+2021-05-01,120.872,Other
+2021-06-01,105.172,Other
+2021-07-01,116.210,Other
+2021-08-01,111.979,Other
+2021-09-01,142.491,Other
+2021-10-01,167.573,Other
+2021-11-01,194.079,Other
+2021-12-01,152.155,Other
+2022-01-01,126.410,Other
+2022-02-01,138.690,Other
+2022-03-01,129.093,Other
+2022-04-01,105.961,Other
+2022-05-01,80.532,Other
+2022-06-01,55.131,Other
+2022-07-01,36.645,Other
+2022-08-01,62.176,Other
+2022-09-01,57.948,Other
+2022-10-01,107.990,Other
+2022-11-01,154.738,Other
+2022-12-01,170.130,Other
+2023-01-01,137.053,Other
+2023-02-01,79.068,Other
+2023-03-01,75.055,Other
+2023-04-01,64.347,Other
