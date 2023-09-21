@@ -1,0 +1,226 @@
+date,value,series
+2021-08-01,0.06,Food and non-alcoholic beverages
+2021-09-01,0.1,Food and non-alcoholic beverages
+2021-10-01,0.15,Food and non-alcoholic beverages
+2021-11-01,0.29,Food and non-alcoholic beverages
+2021-12-01,0.47,Food and non-alcoholic beverages
+2022-01-01,0.49,Food and non-alcoholic beverages
+2022-02-01,0.58,Food and non-alcoholic beverages
+2022-03-01,0.67,Food and non-alcoholic beverages
+2022-04-01,0.77,Food and non-alcoholic beverages
+2022-05-01,0.98,Food and non-alcoholic beverages
+2022-06-01,1.11,Food and non-alcoholic beverages
+2022-07-01,1.43,Food and non-alcoholic beverages
+2022-08-01,1.49,Food and non-alcoholic beverages
+2022-09-01,1.66,Food and non-alcoholic beverages
+2022-10-01,1.84,Food and non-alcoholic beverages
+2022-11-01,1.87,Food and non-alcoholic beverages
+2022-12-01,1.93,Food and non-alcoholic beverages
+2023-01-01,1.93,Food and non-alcoholic beverages
+2023-02-01,2.08,Food and non-alcoholic beverages
+2023-03-01,2.19,Food and non-alcoholic beverages
+2023-04-01,2.15,Food and non-alcoholic beverages
+2023-05-01,2.08,Food and non-alcoholic beverages
+2023-06-01,1.97,Food and non-alcoholic beverages
+2023-07-01,1.71,Food and non-alcoholic beverages
+2023-08-01,1.58,Food and non-alcoholic beverages
+2021-08-01,0.11,Alcohol and tobacco
+2021-09-01,0.12,Alcohol and tobacco
+2021-10-01,0.08,Alcohol and tobacco
+2021-11-01,0.21,Alcohol and tobacco
+2021-12-01,0.17,Alcohol and tobacco
+2022-01-01,0.15,Alcohol and tobacco
+2022-02-01,0.17,Alcohol and tobacco
+2022-03-01,0.23,Alcohol and tobacco
+2022-04-01,0.21,Alcohol and tobacco
+2022-05-01,0.24,Alcohol and tobacco
+2022-06-01,0.22,Alcohol and tobacco
+2022-07-01,0.26,Alcohol and tobacco
+2022-08-01,0.26,Alcohol and tobacco
+2022-09-01,0.27,Alcohol and tobacco
+2022-10-01,0.29,Alcohol and tobacco
+2022-11-01,0.21,Alcohol and tobacco
+2022-12-01,0.18,Alcohol and tobacco
+2023-01-01,0.24,Alcohol and tobacco
+2023-02-01,0.26,Alcohol and tobacco
+2023-03-01,0.24,Alcohol and tobacco
+2023-04-01,0.4,Alcohol and tobacco
+2023-05-01,0.4,Alcohol and tobacco
+2023-06-01,0.4,Alcohol and tobacco
+2023-07-01,0.4,Alcohol and tobacco
+2023-08-01,0.45,Alcohol and tobacco
+2021-08-01,0.06,Clothing and footwear
+2021-09-01,0.05,Clothing and footwear
+2021-10-01,0.01,Clothing and footwear
+2021-11-01,0.27,Clothing and footwear
+2021-12-01,0.32,Clothing and footwear
+2022-01-01,0.51,Clothing and footwear
+2022-02-01,0.68,Clothing and footwear
+2022-03-01,0.72,Clothing and footwear
+2022-04-01,0.6,Clothing and footwear
+2022-05-01,0.49,Clothing and footwear
+2022-06-01,0.43,Clothing and footwear
+2022-07-01,0.49,Clothing and footwear
+2022-08-01,0.54,Clothing and footwear
+2022-09-01,0.57,Clothing and footwear
+2022-10-01,0.55,Clothing and footwear
+2022-11-01,0.47,Clothing and footwear
+2022-12-01,0.4,Clothing and footwear
+2023-01-01,0.37,Clothing and footwear
+2023-02-01,0.48,Clothing and footwear
+2023-03-01,0.43,Clothing and footwear
+2023-04-01,0.41,Clothing and footwear
+2023-05-01,0.42,Clothing and footwear
+2023-06-01,0.43,Clothing and footwear
+2023-07-01,0.38,Clothing and footwear
+2023-08-01,0.41,Clothing and footwear
+2021-08-01,0.27,Housing and household services
+2021-09-01,0.29,Housing and household services
+2021-10-01,0.95,Housing and household services
+2021-11-01,0.98,Housing and household services
+2021-12-01,0.97,Housing and household services
+2022-01-01,1,Housing and household services
+2022-02-01,1.01,Housing and household services
+2022-03-01,1.08,Housing and household services
+2022-04-01,2.67,Housing and household services
+2022-05-01,2.68,Housing and household services
+2022-06-01,2.7,Housing and household services
+2022-07-01,2.76,Housing and household services
+2022-08-01,2.74,Housing and household services
+2022-09-01,2.77,Housing and household services
+2022-10-01,3.7,Housing and household services
+2022-11-01,3.67,Housing and household services
+2022-12-01,3.65,Housing and household services
+2023-01-01,3.68,Housing and household services
+2023-02-01,3.64,Housing and household services
+2023-03-01,3.54,Housing and household services
+2023-04-01,1.83,Housing and household services
+2023-05-01,1.79,Housing and household services
+2023-06-01,1.75,Housing and household services
+2023-07-01,1.06,Housing and household services
+2023-08-01,1.08,Housing and household services
+2021-08-01,0.23,Furniture and household goods
+2021-09-01,0.28,Furniture and household goods
+2021-10-01,0.35,Furniture and household goods
+2021-11-01,0.38,Furniture and household goods
+2021-12-01,0.46,Furniture and household goods
+2022-01-01,0.51,Furniture and household goods
+2022-02-01,0.59,Furniture and household goods
+2022-03-01,0.7,Furniture and household goods
+2022-04-01,0.7,Furniture and household goods
+2022-05-01,0.74,Furniture and household goods
+2022-06-01,0.72,Furniture and household goods
+2022-07-01,0.68,Furniture and household goods
+2022-08-01,0.71,Furniture and household goods
+2022-09-01,0.77,Furniture and household goods
+2022-10-01,0.76,Furniture and household goods
+2022-11-01,0.78,Furniture and household goods
+2022-12-01,0.75,Furniture and household goods
+2023-01-01,0.71,Furniture and household goods
+2023-02-01,0.66,Furniture and household goods
+2023-03-01,0.61,Furniture and household goods
+2023-04-01,0.55,Furniture and household goods
+2023-05-01,0.55,Furniture and household goods
+2023-06-01,0.48,Furniture and household goods
+2023-07-01,0.46,Furniture and household goods
+2023-08-01,0.37,Furniture and household goods
+2021-08-01,1.07,Transport
+2021-09-01,1.14,Transport
+2021-10-01,1.35,Transport
+2021-11-01,1.69,Transport
+2021-12-01,1.62,Transport
+2022-01-01,1.54,Transport
+2022-02-01,1.57,Transport
+2022-03-01,1.83,Transport
+2022-04-01,1.84,Transport
+2022-05-01,1.87,Transport
+2022-06-01,2.03,Transport
+2022-07-01,2.04,Transport
+2022-08-01,1.67,Transport
+2022-09-01,1.47,Transport
+2022-10-01,1.24,Transport
+2022-11-01,1.01,Transport
+2022-12-01,0.91,Transport
+2023-01-01,0.41,Transport
+2023-02-01,0.38,Transport
+2023-03-01,0.09,Transport
+2023-04-01,0.2,Transport
+2023-05-01,0.16,Transport
+2023-06-01,-0.26,Transport
+2023-07-01,-0.29,Transport
+2023-08-01,-0.07,Transport
+2021-08-01,0.37,Recreation and culture
+2021-09-01,0.41,Recreation and culture
+2021-10-01,0.38,Recreation and culture
+2021-11-01,0.49,Recreation and culture
+2021-12-01,0.44,Recreation and culture
+2022-01-01,0.42,Recreation and culture
+2022-02-01,0.67,Recreation and culture
+2022-03-01,0.7,Recreation and culture
+2022-04-01,0.83,Recreation and culture
+2022-05-01,0.7,Recreation and culture
+2022-06-01,0.67,Recreation and culture
+2022-07-01,0.78,Recreation and culture
+2022-08-01,0.73,Recreation and culture
+2022-09-01,0.72,Recreation and culture
+2022-10-01,0.79,Recreation and culture
+2022-11-01,0.72,Recreation and culture
+2022-12-01,0.65,Recreation and culture
+2023-01-01,0.67,Recreation and culture
+2023-02-01,0.55,Recreation and culture
+2023-03-01,0.64,Recreation and culture
+2023-04-01,0.85,Recreation and culture
+2023-05-01,0.91,Recreation and culture
+2023-06-01,0.91,Recreation and culture
+2023-07-01,0.89,Recreation and culture
+2023-08-01,0.8,Recreation and culture
+2021-08-01,0.81,Restaurants and hotels
+2021-09-01,0.43,Restaurants and hotels
+2021-10-01,0.54,Restaurants and hotels
+2021-11-01,0.43,Restaurants and hotels
+2021-12-01,0.51,Restaurants and hotels
+2022-01-01,0.39,Restaurants and hotels
+2022-02-01,0.45,Restaurants and hotels
+2022-03-01,0.67,Restaurants and hotels
+2022-04-01,0.81,Restaurants and hotels
+2022-05-01,0.81,Restaurants and hotels
+2022-06-01,0.93,Restaurants and hotels
+2022-07-01,0.99,Restaurants and hotels
+2022-08-01,1,Restaurants and hotels
+2022-09-01,1.1,Restaurants and hotels
+2022-10-01,1.12,Restaurants and hotels
+2022-11-01,1.18,Restaurants and hotels
+2022-12-01,1.3,Restaurants and hotels
+2023-01-01,1.2,Restaurants and hotels
+2023-02-01,1.41,Restaurants and hotels
+2023-03-01,1.36,Restaurants and hotels
+2023-04-01,1.23,Restaurants and hotels
+2023-05-01,1.27,Restaurants and hotels
+2023-06-01,1.2,Restaurants and hotels
+2023-07-01,1.24,Restaurants and hotels
+2023-08-01,1.09,Restaurants and hotels
+2021-08-01,0.23,Other goods and services
+2021-09-01,0.27,Other goods and services
+2021-10-01,0.38,Other goods and services
+2021-11-01,0.38,Other goods and services
+2021-12-01,0.42,Other goods and services
+2022-01-01,0.43,Other goods and services
+2022-02-01,0.46,Other goods and services
+2022-03-01,0.44,Other goods and services
+2022-04-01,0.59,Other goods and services
+2022-05-01,0.57,Other goods and services
+2022-06-01,0.59,Other goods and services
+2022-07-01,0.67,Other goods and services
+2022-08-01,0.73,Other goods and services
+2022-09-01,0.78,Other goods and services
+2022-10-01,0.76,Other goods and services
+2022-11-01,0.78,Other goods and services
+2022-12-01,0.76,Other goods and services
+2023-01-01,0.85,Other goods and services
+2023-02-01,0.95,Other goods and services
+2023-03-01,0.96,Other goods and services
+2023-04-01,1.05,Other goods and services
+2023-05-01,1.09,Other goods and services
+2023-06-01,1.07,Other goods and services
+2023-07-01,0.98,Other goods and services
+2023-08-01,0.96,Other goods and services
